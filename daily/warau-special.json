@@ -1,0 +1,51 @@
+[
+    {
+        "game": "エバーテイル",
+        "ios": 390,
+        "android": 390,
+        "url_ios": "https://go.warau.jp/38128/113.html",
+        "url_android": "https://go.warau.jp/38128/113.html"
+    },
+    {
+        "game": "東京ディバンカー",
+        "ios": 230,
+        "android": 230,
+        "url_ios": "https://go.warau.jp/38128/153.html",
+        "url_android": "https://go.warau.jp/38128/154.html"
+    },
+    {
+        "game": "三國志 真戦",
+        "ios": 5500,
+        "android": 5500,
+        "url_ios": "https://go.warau.jp/38128/158.html",
+        "url_android": "https://go.warau.jp/38128/159.html"
+    },
+    {
+        "game": "商人放浪記",
+        "ios": 19150,
+        "android": 19150,
+        "url_ios": "https://go.warau.jp/38128/55.html",
+        "url_android": "https://go.warau.jp/38128/176.html"
+    },
+    {
+        "game": "Pococha",
+        "ios": 2470,
+        "android": 2470,
+        "url_ios": "https://go.warau.jp/38128/177.html",
+        "url_android": "https://go.warau.jp/38128/178.html"
+    },
+    {
+        "game": "大三国志",
+        "ios": 0,
+        "android": 1500,
+        "url_ios": "",
+        "url_android": "https://go.warau.jp/38128/191.html"
+    },
+    {
+        "game": "ミクチャ",
+        "ios": 1750,
+        "android": 1750,
+        "url_ios": "https://go.warau.jp/38128/199.html",
+        "url_android": "https://go.warau.jp/38128/200.html"
+    }
+]

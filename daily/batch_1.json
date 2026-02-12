@@ -1,0 +1,599 @@
+{
+  "date": "2026-02-12",
+  "results": [
+    {
+      "game": "Cash Giraffe",
+      "site": "ECナビ (Zucks)",
+      "ios": 0,
+      "android": 3400
+    },
+    {
+      "game": "Cash Giraffe",
+      "site": "ハピタス (Zucks)",
+      "ios": 0,
+      "android": 3060
+    },
+    {
+      "game": "Cash Giraffe",
+      "site": "げん玉",
+      "ios": 0,
+      "android": 3000
+    },
+    {
+      "game": "Cash Giraffe",
+      "site": "COINCOME",
+      "ios": 0,
+      "android": 3000
+    },
+    {
+      "game": "Cash Mafia",
+      "site": "ECナビ (Zucks)",
+      "ios": 0,
+      "android": 2500
+    },
+    {
+      "game": "Cash Mafia",
+      "site": "モッピー (Zucks)",
+      "ios": 0,
+      "android": 2449
+    },
+    {
+      "game": "Cash Mafia",
+      "site": "げん玉 (Zucks)",
+      "ios": 0,
+      "android": 2400
+    },
+    {
+      "game": "Cash Mafia",
+      "site": "ハピタス (Zucks)",
+      "ios": 0,
+      "android": 2249
+    },
+    {
+      "game": "Color Sing",
+      "site": "ワラウ",
+      "ios": 800,
+      "android": 800
+    },
+    {
+      "game": "Color Sing",
+      "site": "COINCOME",
+      "ios": 800,
+      "android": 800
+    },
+    {
+      "game": "Color Sing",
+      "site": "モッピー",
+      "ios": 760,
+      "android": 760
+    },
+    {
+      "game": "Color Sing",
+      "site": "Powl",
+      "ios": 700,
+      "android": 700
+    },
+    {
+      "game": "Color Sing",
+      "site": "アメフリ",
+      "ios": 656,
+      "android": 656
+    },
+    {
+      "game": "Count Earn",
+      "site": "COINCOME",
+      "ios": 0,
+      "android": 1182
+    },
+    {
+      "game": "DORAKEN",
+      "site": "げん玉 (GF Rewards)",
+      "ios": 588.4,
+      "android": 588.4
+    },
+    {
+      "game": "DORAKEN",
+      "site": "アメフリ",
+      "ios": 460,
+      "android": 460
+    },
+    {
+      "game": "DORAKEN",
+      "site": "ちょびリッチ (GF Rewards)",
+      "ios": 455,
+      "android": 455
+    },
+    {
+      "game": "DORAKEN",
+      "site": "GMOポイ活 (GF Rewards)",
+      "ios": 450,
+      "android": 450
+    },
+    {
+      "game": "DORAKEN",
+      "site": "ワラウ (GF Rewards)",
+      "ios": 336,
+      "android": 336
+    },
+    {
+      "game": "Dice Dreams",
+      "site": "Powl (AppDriver)",
+      "ios": 25449.6,
+      "android": 29880
+    },
+    {
+      "game": "Dice Dreams",
+      "site": "モッピー (AppDriver)",
+      "ios": 25149,
+      "android": 29528
+    },
+    {
+      "game": "Dice Dreams",
+      "site": "ハピタス (AppDriver)",
+      "ios": 22659,
+      "android": 26602
+    },
+    {
+      "game": "Dice Dreams",
+      "site": "げん玉 (AppDriver)",
+      "ios": 21757.8,
+      "android": 25546.4
+    },
+    {
+      "game": "Dice Dreams",
+      "site": "ちょびリッチ (AppDriver)",
+      "ios": 19085.5,
+      "android": 22407
+    },
+    {
+      "game": "Domino Dreams",
+      "site": "モッピー (myChips)",
+      "ios": 25835,
+      "android": 7042
+    },
+    {
+      "game": "Domino Dreams",
+      "site": "Powl (AppDriver)",
+      "ios": 0,
+      "android": 22958.4
+    },
+    {
+      "game": "Empires Puzzles",
+      "site": "COINCOME",
+      "ios": 3340,
+      "android": 0
+    },
+    {
+      "game": "Freecash",
+      "site": "モッピー (GF Rewards)",
+      "ios": 34020,
+      "android": 0
+    },
+    {
+      "game": "Freecash",
+      "site": "げん玉 (GF Rewards)",
+      "ios": 33657,
+      "android": 10800
+    },
+    {
+      "game": "Freecash",
+      "site": "ECナビ (Zucks)",
+      "ios": 31950,
+      "android": 19675
+    },
+    {
+      "game": "Gold Miner",
+      "site": "ECナビ (Zucks)",
+      "ios": 0,
+      "android": 2500
+    },
+    {
+      "game": "Gold Miner",
+      "site": "モッピー (Zucks)",
+      "ios": 0,
+      "android": 2449
+    },
+    {
+      "game": "Gold Miner",
+      "site": "Powl (AppDriver)",
+      "ios": 0,
+      "android": 2400
+    },
+    {
+      "game": "Gold Miner",
+      "site": "げん玉 (Zucks)",
+      "ios": 0,
+      "android": 2400
+    },
+    {
+      "game": "IRIAM",
+      "site": "げん玉 (SmaAD)",
+      "ios": 972,
+      "android": 972
+    },
+    {
+      "game": "IRIAM",
+      "site": "モッピー",
+      "ios": 228,
+      "android": 228
+    },
+    {
+      "game": "IRIAM",
+      "site": "COINCOME (SKYFLAG)",
+      "ios": 204,
+      "android": 204
+    },
+    {
+      "game": "IRIAM",
+      "site": "Powl",
+      "ios": 200,
+      "android": 200
+    },
+    {
+      "game": "IRIAM",
+      "site": "ワラウ (SKYFLAG)",
+      "ios": 197,
+      "android": 197
+    },
+    {
+      "game": "Idle Bank Tycoon",
+      "site": "モッピー",
+      "ios": 170,
+      "android": 0
+    },
+    {
+      "game": "Knife Ninja",
+      "site": "ECナビ (Zucks)",
+      "ios": 0,
+      "android": 2500
+    },
+    {
+      "game": "Knife Ninja",
+      "site": "モッピー (Zucks)",
+      "ios": 0,
+      "android": 2449
+    },
+    {
+      "game": "Knife Ninja",
+      "site": "Powl (AppDriver)",
+      "ios": 0,
+      "android": 2400
+    },
+    {
+      "game": "Knife Ninja",
+      "site": "げん玉 (Zucks)",
+      "ios": 0,
+      "android": 2400
+    },
+    {
+      "game": "MONEY CASH",
+      "site": "モッピー",
+      "ios": 0,
+      "android": 2150
+    },
+    {
+      "game": "MONEY CASH",
+      "site": "ハピタス (myChips)",
+      "ios": 0,
+      "android": 1294
+    },
+    {
+      "game": "MONEY CASH",
+      "site": "Powl (myChips)",
+      "ios": 0,
+      "android": 1293.6
+    },
+    {
+      "game": "MONEY CASH",
+      "site": "ワラウ (myChips)",
+      "ios": 0,
+      "android": 1254
+    },
+    {
+      "game": "MONEY CASH",
+      "site": "COINCOME (myChips)",
+      "ios": 0,
+      "android": 1254
+    },
+    {
+      "game": "Match Ninja",
+      "site": "ECナビ (Zucks)",
+      "ios": 0,
+      "android": 2495
+    },
+    {
+      "game": "Match Ninja",
+      "site": "モッピー (Zucks)",
+      "ios": 0,
+      "android": 2444
+    },
+    {
+      "game": "Match Ninja",
+      "site": "Powl (AppDriver)",
+      "ios": 0,
+      "android": 2395.2
+    },
+    {
+      "game": "Match Ninja",
+      "site": "げん玉 (Zucks)",
+      "ios": 0,
+      "android": 2395.2
+    },
+    {
+      "game": "Mirrativ",
+      "site": "Powl (AppDriver)",
+      "ios": 0,
+      "android": 1497.6
+    },
+    {
+      "game": "Mirrativ",
+      "site": "モッピー",
+      "ios": 807,
+      "android": 807
+    },
+    {
+      "game": "Mirrativ",
+      "site": "COINCOME (SKYFLAG)",
+      "ios": 723,
+      "android": 723
+    },
+    {
+      "game": "Mirrativ",
+      "site": "ワラウ",
+      "ios": 710,
+      "android": 710
+    },
+    {
+      "game": "Mirrativ",
+      "site": "アメフリ",
+      "ios": 697,
+      "android": 697
+    },
+    {
+      "game": "Mistplay",
+      "site": "ECナビ (Zucks)",
+      "ios": 0,
+      "android": 8530
+    },
+    {
+      "game": "Mistplay",
+      "site": "モッピー (Zucks)",
+      "ios": 0,
+      "android": 8357
+    },
+    {
+      "game": "Mistplay",
+      "site": "げん玉 (Zucks)",
+      "ios": 0,
+      "android": 8188.8
+    },
+    {
+      "game": "Mistplay",
+      "site": "ハピタス (Zucks)",
+      "ios": 0,
+      "android": 7677
+    },
+    {
+      "game": "PLAYTIME",
+      "site": "モッピー",
+      "ios": 0,
+      "android": 1000
+    },
+    {
+      "game": "PLAYTIME",
+      "site": "auポイントプログラム",
+      "ios": 0,
+      "android": 926
+    },
+    {
+      "game": "PLAYTIME",
+      "site": "GMOポイ活 (GF Rewards)",
+      "ios": 0,
+      "android": 750
+    },
+    {
+      "game": "PLAYTIME",
+      "site": "ポイントタウン",
+      "ios": 0,
+      "android": 412
+    },
+    {
+      "game": "Pococha",
+      "site": "ワラウ",
+      "ios": 2200,
+      "android": 2200
+    },
+    {
+      "game": "Pococha",
+      "site": "モッピー",
+      "ios": 2000,
+      "android": 2000
+    },
+    {
+      "game": "Pococha",
+      "site": "Powl",
+      "ios": 2000,
+      "android": 2000
+    },
+    {
+      "game": "Pococha",
+      "site": "ポイントインカム",
+      "ios": 1800,
+      "android": 0
+    },
+    {
+      "game": "RAID Shadow Legends",
+      "site": "Powl (myChips)",
+      "ios": 0,
+      "android": 10336.5
+    },
+    {
+      "game": "RAID Shadow Legends",
+      "site": "ワラウ (myChips)",
+      "ios": 0,
+      "android": 10020
+    },
+    {
+      "game": "RAID Shadow Legends",
+      "site": "モッピー (myChips)",
+      "ios": 0,
+      "android": 8116
+    },
+    {
+      "game": "RAID Shadow Legends",
+      "site": "ポイントインカム (myChips)",
+      "ios": 0,
+      "android": 7217
+    },
+    {
+      "game": "Rise of Kingdoms",
+      "site": "Powl",
+      "ios": 0,
+      "android": 2100
+    },
+    {
+      "game": "Rise of Kingdoms",
+      "site": "GMOポイ活",
+      "ios": 0,
+      "android": 1900
+    },
+    {
+      "game": "Rise of Kingdoms",
+      "site": "COINCOME",
+      "ios": 0,
+      "android": 1200
+    },
+    {
+      "game": "Sky 星を紡ぐ子どもたち",
+      "site": "Powl",
+      "ios": 2300,
+      "android": 1800
+    },
+    {
+      "game": "Sky 星を紡ぐ子どもたち",
+      "site": "モッピー (SKYFLAG)",
+      "ios": 2139,
+      "android": 1796
+    },
+    {
+      "game": "Sky 星を紡ぐ子どもたち",
+      "site": "COINCOME (SKYFLAG)",
+      "ios": 2139,
+      "android": 1796
+    },
+    {
+      "game": "Sky 星を紡ぐ子どもたち",
+      "site": "ワラウ",
+      "ios": 2100,
+      "android": 1740
+    },
+    {
+      "game": "Solve Earn",
+      "site": "ECナビ (Zucks)",
+      "ios": 0,
+      "android": 2495
+    },
+    {
+      "game": "Solve Earn",
+      "site": "モッピー (Zucks)",
+      "ios": 0,
+      "android": 2444
+    },
+    {
+      "game": "Solve Earn",
+      "site": "げん玉 (Zucks)",
+      "ios": 0,
+      "android": 2395.2
+    },
+    {
+      "game": "Solve Earn",
+      "site": "ハピタス (Zucks)",
+      "ios": 0,
+      "android": 2245
+    },
+    {
+      "game": "Supreme King",
+      "site": "GMOポイ活",
+      "ios": 1000,
+      "android": 0
+    },
+    {
+      "game": "Supreme King",
+      "site": "COINCOME",
+      "ios": 690,
+      "android": 0
+    },
+    {
+      "game": "Supreme King",
+      "site": "げん玉 (GF Rewards)",
+      "ios": 0,
+      "android": 485.6
+    },
+    {
+      "game": "Supreme King",
+      "site": "Powl",
+      "ios": 0,
+      "android": 400
+    },
+    {
+      "game": "Tap Earn",
+      "site": "ECナビ (Zucks)",
+      "ios": 0,
+      "android": 2500
+    },
+    {
+      "game": "Tap Earn",
+      "site": "モッピー (Zucks)",
+      "ios": 0,
+      "android": 2449
+    },
+    {
+      "game": "Tap Earn",
+      "site": "げん玉 (Zucks)",
+      "ios": 0,
+      "android": 2400
+    },
+    {
+      "game": "Tap Earn",
+      "site": "ハピタス (Zucks)",
+      "ios": 0,
+      "android": 2249
+    },
+    {
+      "game": "Tower Challenge",
+      "site": "GMOポイ活",
+      "ios": 0,
+      "android": 800
+    },
+    {
+      "game": "Tower Challenge",
+      "site": "COINCOME",
+      "ios": 0,
+      "android": 157
+    },
+    {
+      "game": "この監獄ほんmoneyすぎんご",
+      "site": "ECナビ (Zucks)",
+      "ios": 0,
+      "android": 5200
+    },
+    {
+      "game": "この監獄ほんmoneyすぎんご",
+      "site": "モッピー (Zucks)",
+      "ios": 0,
+      "android": 5095
+    },
+    {
+      "game": "この監獄ほんmoneyすぎんご",
+      "site": "Powl (AppDriver)",
+      "ios": 0,
+      "android": 4992
+    },
+    {
+      "game": "この監獄ほんmoneyすぎんご",
+      "site": "げん玉 (Zucks)",
+      "ios": 0,
+      "android": 4992
+    }
+  ]
+}
