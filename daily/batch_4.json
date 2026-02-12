@@ -1,0 +1,209 @@
+{
+  "date": "2026-02-12",
+  "results": [
+    {
+      "game": "杖と剣の伝説",
+      "site": "ECナビ (Zucks)",
+      "ios": 6545,
+      "android": 6565
+    },
+    {
+      "game": "杖と剣の伝説",
+      "site": "モッピー (Zucks)",
+      "ios": 6432,
+      "android": 6432
+    },
+    {
+      "game": "杖と剣の伝説",
+      "site": "Powl (AppDriver)",
+      "ios": 6153.6,
+      "android": 6153.6
+    },
+    {
+      "game": "杖と剣の伝説",
+      "site": "げん玉 (Zucks)",
+      "ios": 6153.6,
+      "android": 6153.6
+    },
+    {
+      "game": "東京ディバンカー",
+      "site": "モッピー",
+      "ios": 220,
+      "android": 220
+    },
+    {
+      "game": "東京ディバンカー",
+      "site": "ワラウ",
+      "ios": 210,
+      "android": 210
+    },
+    {
+      "game": "東京ディバンカー",
+      "site": "COINCOME",
+      "ios": 205,
+      "android": 205
+    },
+    {
+      "game": "東京ディバンカー",
+      "site": "Powl",
+      "ios": 200,
+      "android": 200
+    },
+    {
+      "game": "獅子の如く",
+      "site": "ECナビ (Zucks)",
+      "ios": 6985,
+      "android": 0
+    },
+    {
+      "game": "獅子の如く",
+      "site": "モッピー (Zucks)",
+      "ios": 6843,
+      "android": 0
+    },
+    {
+      "game": "獅子の如く",
+      "site": "げん玉 (Zucks)",
+      "ios": 6705.6,
+      "android": 0
+    },
+    {
+      "game": "獅子の如く",
+      "site": "ハピタス (Zucks)",
+      "ios": 6286,
+      "android": 0
+    },
+    {
+      "game": "王国のドラゴン",
+      "site": "COINCOME",
+      "ios": 0,
+      "android": 2804
+    },
+    {
+      "game": "異世界のんびりライフ",
+      "site": "モッピー (GF Rewards)",
+      "ios": 0,
+      "android": 570
+    },
+    {
+      "game": "異世界のんびりライフ",
+      "site": "げん玉 (GF Rewards)",
+      "ios": 0,
+      "android": 565
+    },
+    {
+      "game": "異世界のんびりライフ",
+      "site": "アメフリ",
+      "ios": 0,
+      "android": 442
+    },
+    {
+      "game": "異世界のんびりライフ",
+      "site": "ちょびリッチ (GF Rewards)",
+      "ios": 0,
+      "android": 437
+    },
+    {
+      "game": "異世界のんびりライフ",
+      "site": "Powl (GF Rewards)",
+      "ios": 0,
+      "android": 432
+    },
+    {
+      "game": "立ち上がれ アリ帝国",
+      "site": "COINCOME",
+      "ios": 4032,
+      "android": 4030
+    },
+    {
+      "game": "金とゴブリンの採掘ゲーム",
+      "site": "ワラウ (SmaAD)",
+      "ios": 4004,
+      "android": 4004
+    },
+    {
+      "game": "金とゴブリンの採掘ゲーム",
+      "site": "ポイントインカム (SmaAD)",
+      "ios": 3685.5,
+      "android": 3685.5
+    },
+    {
+      "game": "金とゴブリンの採掘ゲーム",
+      "site": "Powl",
+      "ios": 3520,
+      "android": 3520
+    },
+    {
+      "game": "金とゴブリンの採掘ゲーム",
+      "site": "ポイントタウン (SmaAD)",
+      "ios": 3502,
+      "android": 3502
+    },
+    {
+      "game": "鳴潮",
+      "site": "COINCOME",
+      "ios": 0,
+      "android": 1755
+    },
+    {
+      "game": "聖霊伝説",
+      "site": "Powl",
+      "ios": 1650.7,
+      "android": 1650.7
+    },
+    {
+      "game": "ゴールデンタイガー",
+      "site": "ECナビ",
+      "ios": 720,
+      "android": 720
+    },
+    {
+      "game": "三国志 戦乱",
+      "site": "Powl",
+      "ios": 1950,
+      "android": 0
+    },
+    {
+      "game": "三国志 戦乱",
+      "site": "GMOポイ活",
+      "ios": 1200,
+      "android": 0
+    },
+    {
+      "game": "三国志 戦乱",
+      "site": "COINCOME",
+      "ios": 857,
+      "android": 1145
+    },
+    {
+      "game": "Bravoカジノ",
+      "site": "Powl (AppDriver)",
+      "ios": 1440,
+      "android": 1440
+    },
+    {
+      "game": "Bravoカジノ",
+      "site": "げん玉 (AppDriver)",
+      "ios": 1231.2,
+      "android": 1231.2
+    },
+    {
+      "game": "原神",
+      "site": "Powl",
+      "ios": 500,
+      "android": 500
+    },
+    {
+      "game": "原神",
+      "site": "ECナビ",
+      "ios": 440,
+      "android": 440
+    },
+    {
+      "game": "NIKKE",
+      "site": "ECナビ",
+      "ios": 11.7,
+      "android": 0
+    }
+  ]
+}
