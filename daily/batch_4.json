@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-12",
+  "date": "2026-02-14",
   "results": [
     {
       "game": "杖と剣の伝説",
@@ -81,45 +81,33 @@
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "モッピー (GF Rewards)",
+      "site": "ECナビ (Zucks)",
       "ios": 0,
-      "android": 570
+      "android": 7195
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "げん玉 (GF Rewards)",
+      "site": "モッピー (Zucks)",
       "ios": 0,
-      "android": 565
+      "android": 7049
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "アメフリ",
+      "site": "げん玉 (Zucks)",
       "ios": 0,
-      "android": 442
+      "android": 6907.2
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "ちょびリッチ (GF Rewards)",
+      "site": "ハピタス (Zucks)",
       "ios": 0,
-      "android": 437
-    },
-    {
-      "game": "異世界のんびりライフ",
-      "site": "Powl (GF Rewards)",
-      "ios": 0,
-      "android": 432
+      "android": 6475
     },
     {
       "game": "立ち上がれ アリ帝国",
       "site": "COINCOME",
       "ios": 4032,
       "android": 4030
-    },
-    {
-      "game": "金とゴブリンの採掘ゲーム",
-      "site": "ワラウ (SmaAD)",
-      "ios": 4004,
-      "android": 4004
     },
     {
       "game": "金とゴブリンの採掘ゲーム",
@@ -138,6 +126,12 @@
       "site": "ポイントタウン (SmaAD)",
       "ios": 3502,
       "android": 3502
+    },
+    {
+      "game": "金とゴブリンの採掘ゲーム",
+      "site": "アメフリ",
+      "ios": 3378,
+      "android": 3378
     },
     {
       "game": "鳴潮",
@@ -198,12 +192,6 @@
       "site": "ECナビ",
       "ios": 440,
       "android": 440
-    },
-    {
-      "game": "NIKKE",
-      "site": "ECナビ",
-      "ios": 11.7,
-      "android": 0
     }
   ]
 }
