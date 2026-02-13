@@ -1,12 +1,6 @@
 {
-  "date": "2026-02-12",
+  "date": "2026-02-14",
   "results": [
-    {
-      "game": "マフィア シティ",
-      "site": "ちょびリッチ (SKYFLAG)",
-      "ios": 32073.5,
-      "android": 67001.5
-    },
     {
       "game": "マフィア シティ",
       "site": "ワラウ",
@@ -21,9 +15,15 @@
     },
     {
       "game": "マフィア シティ",
-      "site": "ハピタス (SKYFLAG)",
-      "ios": 43631,
-      "android": 59971
+      "site": "COINCOME",
+      "ios": 24358,
+      "android": 55400
+    },
+    {
+      "game": "マフィア シティ",
+      "site": "ハピタス (AppDriver)",
+      "ios": 0,
+      "android": 55085
     },
     {
       "game": "ミクチャ",
@@ -69,12 +69,6 @@
     },
     {
       "game": "ミストバレー",
-      "site": "ワラウ (SmaAD)",
-      "ios": 211,
-      "android": 211
-    },
-    {
-      "game": "ミストバレー",
       "site": "ポイントタウン (SmaAD)",
       "ios": 204,
       "android": 204
@@ -84,6 +78,12 @@
       "site": "アメフリ",
       "ios": 196,
       "android": 196
+    },
+    {
+      "game": "ミストバレー",
+      "site": "げん玉 (SmaAD)",
+      "ios": 194.4,
+      "android": 194.4
     },
     {
       "game": "メカアサルト",
@@ -417,12 +417,6 @@
     },
     {
       "game": "大江戸ロマンス",
-      "site": "ワラウ (SmaAD)",
-      "ios": 2596,
-      "android": 2596
-    },
-    {
-      "game": "大江戸ロマンス",
       "site": "モッピー (GF Rewards)",
       "ios": 2455,
       "android": 2455
@@ -432,6 +426,12 @@
       "site": "げん玉 (GF Rewards)",
       "ios": 2429.6,
       "android": 2429.6
+    },
+    {
+      "game": "大江戸ロマンス",
+      "site": "ワラウ (SmaAD)",
+      "ios": 2389,
+      "android": 2389
     },
     {
       "game": "大江戸ロマンス",
@@ -459,12 +459,6 @@
     },
     {
       "game": "実りの地 レベル30",
-      "site": "ワラウ (SmaAD)",
-      "ios": 1320,
-      "android": 924
-    },
-    {
-      "game": "実りの地 レベル30",
       "site": "ハピタス (myChips)",
       "ios": 1299,
       "android": 0
@@ -473,6 +467,12 @@
       "game": "実りの地 レベル30",
       "site": "Powl (myChips)",
       "ios": 1298.9,
+      "android": 0
+    },
+    {
+      "game": "実りの地 レベル30",
+      "site": "ちょびリッチ (myChips)",
+      "ios": 1291.5,
       "android": 0
     },
     {
@@ -519,15 +519,15 @@
     },
     {
       "game": "成り上がり 華と武の戦国",
-      "site": "げん玉 (Zucks)",
+      "site": "Powl (AppDriver)",
       "ios": 4540.8,
       "android": 2352
     },
     {
       "game": "成り上がり 華と武の戦国",
-      "site": "ハピタス (Zucks)",
-      "ios": 4256,
-      "android": 2204
+      "site": "げん玉 (Zucks)",
+      "ios": 4540.8,
+      "android": 2352
     },
     {
       "game": "我が天下 伝説武将",
@@ -574,7 +574,7 @@
     {
       "game": "戦国布武 我が天下戦国編",
       "site": "COINCOME",
-      "ios": 7460,
+      "ios": 4493,
       "android": 7460
     },
     {
@@ -609,27 +609,27 @@
     },
     {
       "game": "旦那様の一発逆転人生",
-      "site": "モッピー (SKYFLAG)",
+      "site": "モッピー",
       "ios": 9211,
       "android": 9211
     },
     {
       "game": "旦那様の一発逆転人生",
+      "site": "ハピタス (SKYFLAG)",
+      "ios": 8809,
+      "android": 8809
+    },
+    {
+      "game": "旦那様の一発逆転人生",
       "site": "ワラウ (SKYFLAG)",
-      "ios": 8885,
-      "android": 6974
+      "ios": 8449,
+      "android": 7028
     },
     {
       "game": "旦那様の一発逆転人生",
       "site": "ポイントインカム (SKYFLAG)",
-      "ios": 6889,
-      "android": 8776.3
-    },
-    {
-      "game": "旦那様の一発逆転人生",
-      "site": "ハピタス (SKYFLAG)",
-      "ios": 8731,
-      "android": 8731
+      "ios": 6941.6,
+      "android": 8345.4
     }
   ]
 }
