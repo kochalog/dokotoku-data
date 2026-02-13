@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-12",
+  "date": "2026-02-14",
   "results": [
     {
       "game": "やばい 少女に囲まれた",
@@ -159,15 +159,15 @@
     },
     {
       "game": "ザ アンツ",
-      "site": "モッピー (SKYFLAG)",
-      "ios": 6890,
-      "android": 8857
+      "site": "ワラウ",
+      "ios": 9200,
+      "android": 9200
     },
     {
       "game": "ザ アンツ",
-      "site": "ワラウ",
-      "ios": 8830,
-      "android": 8830
+      "site": "モッピー (SKYFLAG)",
+      "ios": 6890,
+      "android": 8857
     },
     {
       "game": "ザ アンツ",
@@ -183,15 +183,15 @@
     },
     {
       "game": "ザ グランド マフィア",
-      "site": "ハピタス (SKYFLAG)",
-      "ios": 134068,
-      "android": 133153
-    },
-    {
-      "game": "ザ グランド マフィア",
       "site": "Powl",
       "ios": 0,
       "android": 133300
+    },
+    {
+      "game": "ザ グランド マフィア",
+      "site": "ハピタス (SKYFLAG)",
+      "ios": 75377,
+      "android": 133153
     },
     {
       "game": "ザ グランド マフィア",
@@ -273,9 +273,9 @@
     },
     {
       "game": "ドゥームズデイ 本部レベル14到達",
-      "site": "ワラウ (SmaAD)",
-      "ios": 1144,
-      "android": 1144
+      "site": "ワラウ",
+      "ios": 1100,
+      "android": 1100
     },
     {
       "game": "ドゥームズデイ 本部レベル14到達",
@@ -346,8 +346,8 @@
     {
       "game": "パズル サバイバル",
       "site": "ECナビ",
-      "ios": 30740,
-      "android": 30040
+      "ios": 33435,
+      "android": 0
     },
     {
       "game": "パズル＆カオス",
@@ -435,27 +435,27 @@
     },
     {
       "game": "ファミリーファームの冒険",
-      "site": "Powl",
-      "ios": 8900,
-      "android": 8900
+      "site": "Powl (AppDriver)",
+      "ios": 9254.4,
+      "android": 9254.4
+    },
+    {
+      "game": "ファミリーファームの冒険",
+      "site": "モッピー (AppDriver)",
+      "ios": 9146,
+      "android": 9146
+    },
+    {
+      "game": "ファミリーファームの冒険",
+      "site": "ハピタス (AppDriver)",
+      "ios": 8240,
+      "android": 8240
     },
     {
       "game": "ファミリーファームの冒険",
       "site": "COINCOME",
       "ios": 8210,
       "android": 8210
-    },
-    {
-      "game": "ファミリーファームの冒険",
-      "site": "ワラウ",
-      "ios": 8200,
-      "android": 8200
-    },
-    {
-      "game": "ファミリーファームの冒険",
-      "site": "ちょびリッチ",
-      "ios": 7712,
-      "android": 7712
     },
     {
       "game": "フェイトウォー",
@@ -495,26 +495,20 @@
     },
     {
       "game": "ブラウザ三国志天",
-      "site": "ECナビ (Zucks)",
+      "site": "ECナビ",
       "ios": 19780,
       "android": 0
     },
     {
       "game": "ブラウザ三国志天",
-      "site": "モッピー (Zucks)",
-      "ios": 19383,
+      "site": "COINCOME",
+      "ios": 15910,
       "android": 0
     },
     {
       "game": "ブラウザ三国志天",
-      "site": "げん玉 (Zucks)",
-      "ios": 18988.8,
-      "android": 0
-    },
-    {
-      "game": "ブラウザ三国志天",
-      "site": "ハピタス (Zucks)",
-      "ios": 17802,
+      "site": "アメフリ",
+      "ios": 15824,
       "android": 0
     },
     {
