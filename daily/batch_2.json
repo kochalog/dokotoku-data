@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "results": [
     {
       "game": "やばい 少女に囲まれた",
@@ -322,7 +322,7 @@
     {
       "game": "バズーカ ロワイヤル",
       "site": "ちょびリッチ (AppDriver)",
-      "ios": 216,
+      "ios": 244,
       "android": 0
     },
     {
@@ -495,20 +495,26 @@
     },
     {
       "game": "ブラウザ三国志天",
-      "site": "ECナビ",
+      "site": "ECナビ (Zucks)",
       "ios": 19780,
       "android": 0
     },
     {
       "game": "ブラウザ三国志天",
-      "site": "COINCOME",
-      "ios": 15910,
+      "site": "モッピー (Zucks)",
+      "ios": 19383,
       "android": 0
     },
     {
       "game": "ブラウザ三国志天",
-      "site": "アメフリ",
-      "ios": 15824,
+      "site": "げん玉 (Zucks)",
+      "ios": 18988.8,
+      "android": 0
+    },
+    {
+      "game": "ブラウザ三国志天",
+      "site": "ハピタス (Zucks)",
+      "ios": 17802,
       "android": 0
     },
     {
