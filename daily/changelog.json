@@ -528,6 +528,207 @@
       "game": "金とゴブリンの採掘ゲーム",
       "type": "site_changed",
       "detail": "最高額サイト変更: ワラウ (SmaAD) → ポイントインカム (SmaAD)"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "Dice Dreams",
+      "type": "price_changed",
+      "site": "ちょびリッチ (AppDriver)",
+      "detail": "iOS 19085.5→21563円 / Android 22407→25319.5円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "MONEY CASH",
+      "type": "new",
+      "site": "げん玉",
+      "detail": "新規掲載: iOS 730円 / Android 1300円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "バズーカ ロワイヤル",
+      "type": "price_changed",
+      "site": "ちょびリッチ (AppDriver)",
+      "detail": "iOS 216→244円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "ブラウザ三国志天",
+      "type": "new",
+      "site": "ECナビ (Zucks)",
+      "detail": "新規掲載: iOS 19780円 / Android -円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "ブラウザ三国志天",
+      "type": "new",
+      "site": "モッピー (Zucks)",
+      "detail": "新規掲載: iOS 19383円 / Android -円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "ブラウザ三国志天",
+      "type": "new",
+      "site": "げん玉 (Zucks)",
+      "detail": "新規掲載: iOS 18988.8円 / Android -円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "ブラウザ三国志天",
+      "type": "new",
+      "site": "ハピタス (Zucks)",
+      "detail": "新規掲載: iOS 17802円 / Android -円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "ロイヤルマッチ",
+      "type": "new",
+      "site": "ちょびリッチ (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 1785円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "出荷ぶた",
+      "type": "new",
+      "site": "ちょびリッチ (AppDriver)",
+      "detail": "新規掲載: iOS 13014.5円 / Android 13014.5円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "喧嘩の花道",
+      "type": "price_changed",
+      "site": "ちょびリッチ (AppDriver)",
+      "detail": "iOS 10800→12204円 / Android 10800→12204円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "大三国志",
+      "type": "new",
+      "site": "ちょびリッチ (AppDriver)",
+      "detail": "新規掲載: iOS 1627円 / Android -円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "獅子の如く",
+      "type": "new",
+      "site": "アメフリ",
+      "detail": "新規掲載: iOS 6300円 / Android 6300円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "異世界のんびりライフ",
+      "type": "new",
+      "site": "ECナビ",
+      "detail": "新規掲載: iOS -円 / Android 7195円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "異世界のんびりライフ",
+      "type": "new",
+      "site": "アメフリ",
+      "detail": "新規掲載: iOS -円 / Android 5756円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "異世界のんびりライフ",
+      "type": "new",
+      "site": "モッピー (GF Rewards)",
+      "detail": "新規掲載: iOS -円 / Android 570円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "異世界のんびりライフ",
+      "type": "new",
+      "site": "げん玉 (GF Rewards)",
+      "detail": "新規掲載: iOS -円 / Android 565円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "異世界のんびりライフ",
+      "type": "new",
+      "site": "ちょびリッチ (GF Rewards)",
+      "detail": "新規掲載: iOS -円 / Android 437円"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "MONEY CASH",
+      "type": "removed",
+      "site": "ワラウ (myChips)",
+      "detail": "掲載終了（前回: iOS -円 / Android 1254円）"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "ブラウザ三国志天",
+      "type": "removed",
+      "site": "ECナビ",
+      "detail": "掲載終了（前回: iOS 19780円 / Android -円）"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "ブラウザ三国志天",
+      "type": "removed",
+      "site": "COINCOME",
+      "detail": "掲載終了（前回: iOS 15910円 / Android -円）"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "ブラウザ三国志天",
+      "type": "removed",
+      "site": "アメフリ",
+      "detail": "掲載終了（前回: iOS 15824円 / Android -円）"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "大三国志",
+      "type": "removed",
+      "site": "ECナビ",
+      "detail": "掲載終了（前回: iOS 1462円 / Android -円）"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "獅子の如く",
+      "type": "removed",
+      "site": "ハピタス (Zucks)",
+      "detail": "掲載終了（前回: iOS 6286円 / Android -円）"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "異世界のんびりライフ",
+      "type": "removed",
+      "site": "ECナビ (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 7195円）"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "異世界のんびりライフ",
+      "type": "removed",
+      "site": "モッピー (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 7049円）"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "異世界のんびりライフ",
+      "type": "removed",
+      "site": "げん玉 (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 6907.2円）"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "異世界のんびりライフ",
+      "type": "removed",
+      "site": "ハピタス (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 6475円）"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "ブラウザ三国志天",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ECナビ → ECナビ (Zucks)"
+    },
+    {
+      "date": "2026-02-15",
+      "game": "異世界のんびりライフ",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ECナビ (Zucks) → ECナビ"
     }
   ]
 }

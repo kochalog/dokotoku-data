@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "results": [
     {
       "game": "杖と剣の伝説",
@@ -69,9 +69,9 @@
     },
     {
       "game": "獅子の如く",
-      "site": "ハピタス (Zucks)",
-      "ios": 6286,
-      "android": 0
+      "site": "アメフリ",
+      "ios": 6300,
+      "android": 6300
     },
     {
       "game": "王国のドラゴン",
@@ -81,27 +81,33 @@
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "ECナビ (Zucks)",
+      "site": "ECナビ",
       "ios": 0,
       "android": 7195
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "モッピー (Zucks)",
+      "site": "アメフリ",
       "ios": 0,
-      "android": 7049
+      "android": 5756
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "げん玉 (Zucks)",
+      "site": "モッピー (GF Rewards)",
       "ios": 0,
-      "android": 6907.2
+      "android": 570
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "ハピタス (Zucks)",
+      "site": "げん玉 (GF Rewards)",
       "ios": 0,
-      "android": 6475
+      "android": 565
+    },
+    {
+      "game": "異世界のんびりライフ",
+      "site": "ちょびリッチ (GF Rewards)",
+      "ios": 0,
+      "android": 437
     },
     {
       "game": "立ち上がれ アリ帝国",
