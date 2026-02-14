@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "results": [
     {
       "game": "Cash Giraffe",
@@ -136,8 +136,8 @@
     {
       "game": "Dice Dreams",
       "site": "ちょびリッチ (AppDriver)",
-      "ios": 19085.5,
-      "android": 22407
+      "ios": 21563,
+      "android": 25319.5
     },
     {
       "game": "Domino Dreams",
@@ -267,6 +267,12 @@
     },
     {
       "game": "MONEY CASH",
+      "site": "げん玉",
+      "ios": 730,
+      "android": 1300
+    },
+    {
+      "game": "MONEY CASH",
       "site": "ハピタス (myChips)",
       "ios": 0,
       "android": 1294
@@ -276,12 +282,6 @@
       "site": "Powl (myChips)",
       "ios": 0,
       "android": 1293.6
-    },
-    {
-      "game": "MONEY CASH",
-      "site": "ワラウ (myChips)",
-      "ios": 0,
-      "android": 1254
     },
     {
       "game": "Match Ninja",
