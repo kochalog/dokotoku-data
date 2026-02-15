@@ -729,6 +729,318 @@
       "game": "異世界のんびりライフ",
       "type": "site_changed",
       "detail": "最高額サイト変更: ECナビ (Zucks) → ECナビ"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Cash Giraffe",
+      "type": "price_changed",
+      "site": "ハピタス (Zucks)",
+      "detail": "Android 3060→3240円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Dice Dreams",
+      "type": "price_changed",
+      "site": "Powl (AppDriver)",
+      "detail": "iOS 25449.6→16966.4円 / Android 29880→19920円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Domino Dreams",
+      "type": "new",
+      "site": "ハピタス (AppDriver)",
+      "detail": "新規掲載: iOS 19998円 / Android 20440円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Mirrativ",
+      "type": "price_changed",
+      "site": "Powl (AppDriver)",
+      "detail": "Android 1497.6→998.4円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "スマッシュパーティ",
+      "type": "price_changed",
+      "site": "Powl (AppDriver)",
+      "detail": "iOS 5664→3776円 / Android 5664→3776円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "バズーカ ロワイヤル",
+      "type": "price_changed",
+      "site": "Powl (AppDriver)",
+      "detail": "iOS 288→192円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "パズル サバイバル",
+      "type": "new",
+      "site": "ECナビ (Zucks)",
+      "detail": "新規掲載: iOS 33435円 / Android -円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "パズル＆カオス",
+      "type": "new",
+      "site": "ハピタス (Zucks)",
+      "detail": "新規掲載: iOS 19395円 / Android 19395円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ファミリーファームの冒険",
+      "type": "new",
+      "site": "Powl",
+      "detail": "新規掲載: iOS 8900円 / Android 8900円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ファミリーファームの冒険",
+      "type": "new",
+      "site": "ワラウ",
+      "detail": "新規掲載: iOS 8200円 / Android 8200円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "マフィア シティ",
+      "type": "new",
+      "site": "Powl",
+      "detail": "新規掲載: iOS 50900円 / Android 56000円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "マフィア シティ",
+      "type": "new",
+      "site": "モッピー (SKYFLAG)",
+      "detail": "新規掲載: iOS -円 / Android 53510円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "レイドラッシュ",
+      "type": "new",
+      "site": "ちょびリッチ (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 3326.5円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "信長の野望 真戦",
+      "type": "new",
+      "site": "Powl",
+      "detail": "新規掲載: iOS 5000円 / Android 5000円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "信長の野望 真戦",
+      "type": "new",
+      "site": "げん玉",
+      "detail": "新規掲載: iOS 5000円 / Android 5000円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "喧嘩の花道",
+      "type": "price_changed",
+      "site": "Powl (AppDriver)",
+      "detail": "iOS 14400→9600円 / Android 14400→9600円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "大三国志",
+      "type": "new",
+      "site": "ECナビ",
+      "detail": "新規掲載: iOS 1462円 / Android -円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "獅子の如く",
+      "type": "new",
+      "site": "ハピタス (Zucks)",
+      "detail": "新規掲載: iOS 6651円 / Android -円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Bravoカジノ",
+      "type": "price_changed",
+      "site": "Powl (AppDriver)",
+      "detail": "iOS 1440→960円 / Android 1440→960円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Domino Dreams",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS -円 / Android 22958.4円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Gold Miner",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2400円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Knife Ninja",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2400円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Match Ninja",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2395.2円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "パズル サバイバル",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS 36124.8円 / Android 36124.8円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "パズル サバイバル",
+      "type": "removed",
+      "site": "ECナビ",
+      "detail": "掲載終了（前回: iOS 33435円 / Android -円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ファミリーファームの冒険",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS 9254.4円 / Android 9254.4円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "マフィア シティ",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS -円 / Android 61852.8円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "モーマンタイム",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS 11491.2円 / Android 11491.2円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "レイドラッシュ",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS -円 / Android 4156.8円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ロイヤルマッチ",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2371.2円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "信長の野望 真戦",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS 5280円 / Android 5280円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "出荷ぶた",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS 15360円 / Android 15360円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "大三国志",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS 1920円 / Android 1920円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "成り上がり 華と武の戦国",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS 4540.8円 / Android 2352円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "杖と剣の伝説",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS 6153.6円 / Android 6153.6円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "獅子の如く",
+      "type": "removed",
+      "site": "アメフリ",
+      "detail": "掲載終了（前回: iOS 6300円 / Android 6300円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Dice Dreams",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: Powl (AppDriver) → モッピー (AppDriver)"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "スマッシュパーティ",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: Powl (AppDriver) → モッピー (AppDriver)"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "バズーカ ロワイヤル",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: Powl (AppDriver) → モッピー (AppDriver)"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ファミリーファームの冒険",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: Powl (AppDriver) → モッピー (AppDriver)"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ロイヤルマッチ",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: Powl (AppDriver) → モッピー (AppDriver)"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "信長の野望 真戦",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: Powl (AppDriver) → モッピー (AppDriver)"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "出荷ぶた",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: Powl (AppDriver) → ハピタス (AppDriver)"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "喧嘩の花道",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: Powl (AppDriver) → ハピタス (AppDriver)"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "大三国志",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: Powl (AppDriver) → モッピー (AppDriver)"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Bravoカジノ",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: Powl (AppDriver) → げん玉 (AppDriver)"
     }
   ]
 }

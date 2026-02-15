@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "results": [
     {
       "game": "杖と剣の伝説",
@@ -12,12 +12,6 @@
       "site": "モッピー (Zucks)",
       "ios": 6432,
       "android": 6432
-    },
-    {
-      "game": "杖と剣の伝説",
-      "site": "Powl (AppDriver)",
-      "ios": 6153.6,
-      "android": 6153.6
     },
     {
       "game": "杖と剣の伝説",
@@ -69,9 +63,9 @@
     },
     {
       "game": "獅子の如く",
-      "site": "アメフリ",
-      "ios": 6300,
-      "android": 6300
+      "site": "ハピタス (Zucks)",
+      "ios": 6651,
+      "android": 0
     },
     {
       "game": "王国のドラゴン",
@@ -177,15 +171,15 @@
     },
     {
       "game": "Bravoカジノ",
-      "site": "Powl (AppDriver)",
-      "ios": 1440,
-      "android": 1440
-    },
-    {
-      "game": "Bravoカジノ",
       "site": "げん玉 (AppDriver)",
       "ios": 1231.2,
       "android": 1231.2
+    },
+    {
+      "game": "Bravoカジノ",
+      "site": "Powl (AppDriver)",
+      "ios": 960,
+      "android": 960
     },
     {
       "game": "原神",
