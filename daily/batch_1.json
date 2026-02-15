@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "results": [
     {
       "game": "Cash Giraffe",
@@ -11,7 +11,7 @@
       "game": "Cash Giraffe",
       "site": "ハピタス (Zucks)",
       "ios": 0,
-      "android": 3060
+      "android": 3240
     },
     {
       "game": "Cash Giraffe",
@@ -111,12 +111,6 @@
     },
     {
       "game": "Dice Dreams",
-      "site": "Powl (AppDriver)",
-      "ios": 25449.6,
-      "android": 29880
-    },
-    {
-      "game": "Dice Dreams",
       "site": "モッピー (AppDriver)",
       "ios": 25149,
       "android": 29528
@@ -140,6 +134,12 @@
       "android": 25319.5
     },
     {
+      "game": "Dice Dreams",
+      "site": "Powl (AppDriver)",
+      "ios": 16966.4,
+      "android": 19920
+    },
+    {
       "game": "Domino Dreams",
       "site": "モッピー (myChips)",
       "ios": 25835,
@@ -147,9 +147,9 @@
     },
     {
       "game": "Domino Dreams",
-      "site": "Powl (AppDriver)",
-      "ios": 0,
-      "android": 22958.4
+      "site": "ハピタス (AppDriver)",
+      "ios": 19998,
+      "android": 20440
     },
     {
       "game": "Empires Puzzles",
@@ -186,12 +186,6 @@
       "site": "モッピー (Zucks)",
       "ios": 0,
       "android": 2449
-    },
-    {
-      "game": "Gold Miner",
-      "site": "Powl (AppDriver)",
-      "ios": 0,
-      "android": 2400
     },
     {
       "game": "Gold Miner",
@@ -249,12 +243,6 @@
     },
     {
       "game": "Knife Ninja",
-      "site": "Powl (AppDriver)",
-      "ios": 0,
-      "android": 2400
-    },
-    {
-      "game": "Knife Ninja",
       "site": "げん玉 (Zucks)",
       "ios": 0,
       "android": 2400
@@ -297,12 +285,6 @@
     },
     {
       "game": "Match Ninja",
-      "site": "Powl (AppDriver)",
-      "ios": 0,
-      "android": 2395.2
-    },
-    {
-      "game": "Match Ninja",
       "site": "げん玉 (Zucks)",
       "ios": 0,
       "android": 2395.2
@@ -311,7 +293,7 @@
       "game": "Mirrativ",
       "site": "Powl (AppDriver)",
       "ios": 0,
-      "android": 1497.6
+      "android": 998.4
     },
     {
       "game": "Mirrativ",
