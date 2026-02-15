@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "results": [
     {
       "game": "やばい 少女に囲まれた",
@@ -201,12 +201,6 @@
     },
     {
       "game": "スマッシュパーティ",
-      "site": "Powl (AppDriver)",
-      "ios": 5664,
-      "android": 5664
-    },
-    {
-      "game": "スマッシュパーティ",
       "site": "モッピー (AppDriver)",
       "ios": 5598,
       "android": 0
@@ -228,6 +222,12 @@
       "site": "楽天ポイ活ミッション特集 (AppDriver)",
       "ios": 4130,
       "android": 4130
+    },
+    {
+      "game": "スマッシュパーティ",
+      "site": "Powl (AppDriver)",
+      "ios": 3776,
+      "android": 3776
     },
     {
       "game": "トップウォー",
@@ -297,12 +297,6 @@
     },
     {
       "game": "バズーカ ロワイヤル",
-      "site": "Powl (AppDriver)",
-      "ios": 288,
-      "android": 0
-    },
-    {
-      "game": "バズーカ ロワイヤル",
       "site": "モッピー (AppDriver)",
       "ios": 284,
       "android": 0
@@ -326,16 +320,16 @@
       "android": 0
     },
     {
+      "game": "バズーカ ロワイヤル",
+      "site": "Powl (AppDriver)",
+      "ios": 192,
+      "android": 0
+    },
+    {
       "game": "パズル サバイバル",
       "site": "モッピー (AppDriver)",
       "ios": 38696,
       "android": 38690
-    },
-    {
-      "game": "パズル サバイバル",
-      "site": "Powl (AppDriver)",
-      "ios": 36124.8,
-      "android": 36124.8
     },
     {
       "game": "パズル サバイバル",
@@ -345,7 +339,7 @@
     },
     {
       "game": "パズル サバイバル",
-      "site": "ECナビ",
+      "site": "ECナビ (Zucks)",
       "ios": 33435,
       "android": 0
     },
@@ -366,6 +360,12 @@
       "site": "げん玉 (Zucks)",
       "ios": 19632,
       "android": 19632
+    },
+    {
+      "game": "パズル＆カオス",
+      "site": "ハピタス (Zucks)",
+      "ios": 19395,
+      "android": 19395
     },
     {
       "game": "パズル＆コンクエスト",
@@ -435,15 +435,15 @@
     },
     {
       "game": "ファミリーファームの冒険",
-      "site": "Powl (AppDriver)",
-      "ios": 9254.4,
-      "android": 9254.4
-    },
-    {
-      "game": "ファミリーファームの冒険",
       "site": "モッピー (AppDriver)",
       "ios": 9146,
       "android": 9146
+    },
+    {
+      "game": "ファミリーファームの冒険",
+      "site": "Powl",
+      "ios": 8900,
+      "android": 8900
     },
     {
       "game": "ファミリーファームの冒険",
@@ -456,6 +456,12 @@
       "site": "COINCOME",
       "ios": 8210,
       "android": 8210
+    },
+    {
+      "game": "ファミリーファームの冒険",
+      "site": "ワラウ",
+      "ios": 8200,
+      "android": 8200
     },
     {
       "game": "フェイトウォー",
