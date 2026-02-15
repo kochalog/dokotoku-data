@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "results": [
     {
       "game": "マフィア シティ",
@@ -9,9 +9,9 @@
     },
     {
       "game": "マフィア シティ",
-      "site": "Powl (AppDriver)",
-      "ios": 0,
-      "android": 61852.8
+      "site": "Powl",
+      "ios": 50900,
+      "android": 56000
     },
     {
       "game": "マフィア シティ",
@@ -24,6 +24,12 @@
       "site": "ハピタス (AppDriver)",
       "ios": 0,
       "android": 55085
+    },
+    {
+      "game": "マフィア シティ",
+      "site": "モッピー (SKYFLAG)",
+      "ios": 0,
+      "android": 53510
     },
     {
       "game": "ミクチャ",
@@ -159,12 +165,6 @@
     },
     {
       "game": "モーマンタイム",
-      "site": "Powl (AppDriver)",
-      "ios": 11491.2,
-      "android": 11491.2
-    },
-    {
-      "game": "モーマンタイム",
       "site": "げん玉 (Zucks)",
       "ios": 11491.2,
       "android": 11491.2
@@ -189,12 +189,6 @@
     },
     {
       "game": "レイドラッシュ",
-      "site": "Powl (AppDriver)",
-      "ios": 0,
-      "android": 4156.8
-    },
-    {
-      "game": "レイドラッシュ",
       "site": "モッピー (AppDriver)",
       "ios": 0,
       "android": 3891
@@ -212,10 +206,10 @@
       "android": 3356
     },
     {
-      "game": "ロイヤルマッチ",
-      "site": "Powl (AppDriver)",
+      "game": "レイドラッシュ",
+      "site": "ちょびリッチ (AppDriver)",
       "ios": 0,
-      "android": 2371.2
+      "android": 3326.5
     },
     {
       "game": "ロイヤルマッチ",
@@ -303,12 +297,6 @@
     },
     {
       "game": "信長の野望 真戦",
-      "site": "Powl (AppDriver)",
-      "ios": 5280,
-      "android": 5280
-    },
-    {
-      "game": "信長の野望 真戦",
       "site": "モッピー (AppDriver)",
       "ios": 5219,
       "android": 5219
@@ -320,10 +308,16 @@
       "android": 5000
     },
     {
-      "game": "出荷ぶた",
-      "site": "Powl (AppDriver)",
-      "ios": 15360,
-      "android": 15360
+      "game": "信長の野望 真戦",
+      "site": "Powl",
+      "ios": 5000,
+      "android": 5000
+    },
+    {
+      "game": "信長の野望 真戦",
+      "site": "げん玉",
+      "ios": 5000,
+      "android": 5000
     },
     {
       "game": "出荷ぶた",
@@ -375,12 +369,6 @@
     },
     {
       "game": "喧嘩の花道",
-      "site": "Powl (AppDriver)",
-      "ios": 14400,
-      "android": 14400
-    },
-    {
-      "game": "喧嘩の花道",
       "site": "ハピタス (AppDriver)",
       "ios": 12825,
       "android": 12825
@@ -398,10 +386,10 @@
       "android": 12204
     },
     {
-      "game": "大三国志",
+      "game": "喧嘩の花道",
       "site": "Powl (AppDriver)",
-      "ios": 1920,
-      "android": 1920
+      "ios": 9600,
+      "android": 9600
     },
     {
       "game": "大三国志",
@@ -425,6 +413,12 @@
       "game": "大三国志",
       "site": "ちょびリッチ (AppDriver)",
       "ios": 1627,
+      "android": 0
+    },
+    {
+      "game": "大三国志",
+      "site": "ECナビ",
+      "ios": 1462,
       "android": 0
     },
     {
@@ -528,12 +522,6 @@
       "site": "モッピー (Zucks)",
       "ios": 4633,
       "android": 2399
-    },
-    {
-      "game": "成り上がり 華と武の戦国",
-      "site": "Powl (AppDriver)",
-      "ios": 4540.8,
-      "android": 2352
     },
     {
       "game": "成り上がり 華と武の戦国",
