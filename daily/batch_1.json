@@ -1,6 +1,42 @@
 {
-  "date": "2026-02-16",
+  "date": "2026-02-17",
   "results": [
+    {
+      "game": "Arkcraft",
+      "site": "モッピー (GF Rewards)",
+      "ios": 0,
+      "android": 4794
+    },
+    {
+      "game": "Arkcraft",
+      "site": "げん玉 (GF Rewards)",
+      "ios": 0,
+      "android": 4749.3
+    },
+    {
+      "game": "Arkcraft",
+      "site": "アメフリ",
+      "ios": 0,
+      "android": 3714
+    },
+    {
+      "game": "Arkcraft",
+      "site": "ちょびリッチ (GF Rewards)",
+      "ios": 0,
+      "android": 3674.5
+    },
+    {
+      "game": "Bravoカジノ",
+      "site": "げん玉 (AppDriver)",
+      "ios": 1231.2,
+      "android": 1231.2
+    },
+    {
+      "game": "Bravoカジノ",
+      "site": "Powl (AppDriver)",
+      "ios": 960,
+      "android": 960
+    },
     {
       "game": "Cash Giraffe",
       "site": "ECナビ (Zucks)",
@@ -74,7 +110,7 @@
       "android": 656
     },
     {
-      "game": "Count Earn",
+      "game": "Count & Earn",
       "site": "COINCOME",
       "ios": 0,
       "android": 1182
@@ -99,15 +135,15 @@
     },
     {
       "game": "DORAKEN",
-      "site": "GMOポイ活 (GF Rewards)",
-      "ios": 450,
-      "android": 450
-    },
-    {
-      "game": "DORAKEN",
       "site": "ワラウ (GF Rewards)",
       "ios": 336,
       "android": 336
+    },
+    {
+      "game": "DORAKEN",
+      "site": "COINCOME",
+      "ios": 280,
+      "android": 280
     },
     {
       "game": "Dice Dreams",
@@ -152,7 +188,7 @@
       "android": 20440
     },
     {
-      "game": "Empires Puzzles",
+      "game": "Empires & Puzzles",
       "site": "COINCOME",
       "ios": 3340,
       "android": 0
@@ -321,21 +357,21 @@
     },
     {
       "game": "Mistplay",
+      "site": "モッピー (Zucks)",
+      "ios": 0,
+      "android": 7582
+    },
+    {
+      "game": "Mistplay",
+      "site": "げん玉 (Zucks)",
+      "ios": 0,
+      "android": 7430.4
+    },
+    {
+      "game": "Mistplay",
       "site": "ECナビ (Zucks)",
       "ios": 0,
       "android": 7350
-    },
-    {
-      "game": "Mistplay",
-      "site": "モッピー (Zucks)",
-      "ios": 0,
-      "android": 7203
-    },
-    {
-      "game": "Mistplay",
-      "site": "COINCOME (SKYFLAG)",
-      "ios": 0,
-      "android": 7078
     },
     {
       "game": "PLAYTIME",
@@ -345,21 +381,21 @@
     },
     {
       "game": "PLAYTIME",
-      "site": "auポイントプログラム",
-      "ios": 0,
-      "android": 926
-    },
-    {
-      "game": "PLAYTIME",
-      "site": "GMOポイ活 (GF Rewards)",
-      "ios": 0,
-      "android": 750
-    },
-    {
-      "game": "PLAYTIME",
       "site": "ポイントタウン",
       "ios": 0,
       "android": 412
+    },
+    {
+      "game": "PLAYTIME",
+      "site": "ECナビ",
+      "ios": 0,
+      "android": 300
+    },
+    {
+      "game": "PLAYTIME",
+      "site": "アメフリ",
+      "ios": 0,
+      "android": 170
     },
     {
       "game": "Pococha",
@@ -386,16 +422,16 @@
       "android": 2000
     },
     {
+      "game": "Pococha",
+      "site": "ポイントインカム",
+      "ios": 1800,
+      "android": 0
+    },
+    {
       "game": "Rise of Kingdoms",
       "site": "Powl",
       "ios": 0,
       "android": 2100
-    },
-    {
-      "game": "Rise of Kingdoms",
-      "site": "GMOポイ活",
-      "ios": 0,
-      "android": 1900
     },
     {
       "game": "Rise of Kingdoms",
@@ -453,12 +489,6 @@
     },
     {
       "game": "Supreme King",
-      "site": "GMOポイ活",
-      "ios": 1000,
-      "android": 0
-    },
-    {
-      "game": "Supreme King",
       "site": "COINCOME",
       "ios": 690,
       "android": 0
@@ -476,64 +506,40 @@
       "android": 400
     },
     {
-      "game": "Tap Earn",
-      "site": "ECナビ (Zucks)",
+      "game": "Supreme King",
+      "site": "アメフリ",
       "ios": 0,
-      "android": 2500
+      "android": 373
     },
     {
-      "game": "Tap Earn",
-      "site": "モッピー (Zucks)",
+      "game": "Tap & Earn",
+      "site": "げん玉 (AppDriver)",
       "ios": 0,
-      "android": 2449
+      "android": 2050.7
     },
     {
-      "game": "Tap Earn",
-      "site": "げん玉 (Zucks)",
+      "game": "Tap & Earn",
+      "site": "楽天ポイ活ミッション特集 (AppDriver)",
       "ios": 0,
-      "android": 2400
+      "android": 1749
     },
     {
-      "game": "Tap Earn",
-      "site": "ハピタス (Zucks)",
+      "game": "Tap & Earn",
+      "site": "Powl",
       "ios": 0,
-      "android": 2249
+      "android": 1500
     },
     {
-      "game": "Tower Challenge",
-      "site": "GMOポイ活",
+      "game": "Tap & Earn",
+      "site": "COINCOME",
       "ios": 0,
-      "android": 800
+      "android": 1182
     },
     {
       "game": "Tower Challenge",
       "site": "COINCOME",
       "ios": 0,
       "android": 157
-    },
-    {
-      "game": "この監獄ほんmoneyすぎんご",
-      "site": "ECナビ (Zucks)",
-      "ios": 0,
-      "android": 7850
-    },
-    {
-      "game": "この監獄ほんmoneyすぎんご",
-      "site": "モッピー (Zucks)",
-      "ios": 0,
-      "android": 7691
-    },
-    {
-      "game": "この監獄ほんmoneyすぎんご",
-      "site": "げん玉 (Zucks)",
-      "ios": 0,
-      "android": 7536
-    },
-    {
-      "game": "この監獄ほんmoneyすぎんご",
-      "site": "ハピタス (Zucks)",
-      "ios": 0,
-      "android": 7065
     }
   ]
 }
