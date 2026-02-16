@@ -1041,6 +1041,461 @@
       "game": "Bravoカジノ",
       "type": "site_changed",
       "detail": "最高額サイト変更: Powl (AppDriver) → げん玉 (AppDriver)"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "DORAKEN",
+      "type": "new",
+      "site": "COINCOME",
+      "detail": "新規掲載: iOS 280円 / Android 280円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Mistplay",
+      "type": "price_changed",
+      "site": "モッピー (Zucks)",
+      "detail": "Android 7203→7582円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Mistplay",
+      "type": "new",
+      "site": "げん玉 (Zucks)",
+      "detail": "新規掲載: iOS -円 / Android 7430.4円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "PLAYTIME",
+      "type": "new",
+      "site": "PONEY",
+      "detail": "新規掲載: iOS -円 / Android 373円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "PLAYTIME",
+      "type": "new",
+      "site": "ECナビ",
+      "detail": "新規掲載: iOS -円 / Android 300円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Supreme King",
+      "type": "new",
+      "site": "アメフリ",
+      "detail": "新規掲載: iOS -円 / Android 373円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "トップウォー",
+      "type": "price_changed",
+      "site": "モッピー (SKYFLAG)",
+      "detail": "iOS 44999→0円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "トップウォー",
+      "type": "price_changed",
+      "site": "ワラウ (SKYFLAG)",
+      "detail": "iOS 43411→0円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "トップウォー",
+      "type": "new",
+      "site": "ポイントインカム (SKYFLAG)",
+      "detail": "新規掲載: iOS -円 / Android 41587.9円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "トップウォー",
+      "type": "price_changed",
+      "site": "ちょびリッチ (SKYFLAG)",
+      "detail": "iOS 42351.5→0円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ブラウザ三国志天",
+      "type": "new",
+      "site": "ECナビ",
+      "detail": "新規掲載: iOS 19780円 / Android -円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ブラウザ三国志天",
+      "type": "new",
+      "site": "COINCOME",
+      "detail": "新規掲載: iOS 15910円 / Android -円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ブラウザ三国志天",
+      "type": "new",
+      "site": "アメフリ",
+      "detail": "新規掲載: iOS 15824円 / Android -円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ロイヤルマッチ",
+      "type": "new",
+      "site": "げん玉 (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 1707.1円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "大三国志",
+      "type": "new",
+      "site": "ECナビ (Zucks)",
+      "detail": "新規掲載: iOS 1462円 / Android -円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "大三国志",
+      "type": "price_changed",
+      "site": "げん玉 (AppDriver)",
+      "detail": "iOS 1641.6→0円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "大三国志",
+      "type": "new",
+      "site": "モッピー (Zucks)",
+      "detail": "新規掲載: iOS 1431円 / Android -円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "小森の宿 ららら",
+      "type": "price_changed",
+      "site": "モッピー (GF Rewards)",
+      "detail": "iOS 246→1172円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "小森の宿 ららら",
+      "type": "price_changed",
+      "site": "げん玉 (GF Rewards)",
+      "detail": "iOS 247.6→1164.3円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "小森の宿 ららら",
+      "type": "price_changed",
+      "site": "アメフリ",
+      "detail": "iOS 192→909円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "小森の宿 ららら",
+      "type": "price_changed",
+      "site": "ちょびリッチ (GF Rewards)",
+      "detail": "iOS 190.5→900円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "小森の宿 ららら",
+      "type": "price_changed",
+      "site": "Powl (GF Rewards)",
+      "detail": "iOS 189.6→890.4円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "放置少女",
+      "type": "new",
+      "site": "Powl (SKYFLAG)",
+      "detail": "新規掲載: iOS 2080円 / Android 2080円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "杖と剣の伝説",
+      "type": "new",
+      "site": "ECナビ",
+      "detail": "新規掲載: iOS 6545円 / Android 6565円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "杖と剣の伝説",
+      "type": "price_changed",
+      "site": "モッピー (Zucks)",
+      "detail": "Android 6432→0円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "杖と剣の伝説",
+      "type": "price_changed",
+      "site": "げん玉 (Zucks)",
+      "detail": "Android 6153.6→0円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "天地英雄伝",
+      "type": "new",
+      "site": "モッピー (GF Rewards)",
+      "detail": "新規掲載: iOS 192260円 / Android 192260円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "天地英雄伝",
+      "type": "new",
+      "site": "げん玉 (GF Rewards)",
+      "detail": "新規掲載: iOS 190179.8円 / Android 190179.8円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "天地英雄伝",
+      "type": "new",
+      "site": "アメフリ",
+      "detail": "新規掲載: iOS 152855円 / Android 152985円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "天地英雄伝",
+      "type": "new",
+      "site": "ちょびリッチ (GF Rewards)",
+      "detail": "新規掲載: iOS 147201円 / Android 147201円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "天地英雄伝",
+      "type": "new",
+      "site": "Powl (GF Rewards)",
+      "detail": "新規掲載: iOS 145384.8円 / Android 145384.8円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "トラップモンスター",
+      "type": "new",
+      "site": "モッピー (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 890円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "トラップモンスター",
+      "type": "new",
+      "site": "ハピタス (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 804円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "トラップモンスター",
+      "type": "new",
+      "site": "げん玉 (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 774.9円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "トラップモンスター",
+      "type": "new",
+      "site": "ワラウ",
+      "detail": "新規掲載: iOS -円 / Android 770円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "トラップモンスター",
+      "type": "new",
+      "site": "Powl",
+      "detail": "新規掲載: iOS -円 / Android 770円"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "DORAKEN",
+      "type": "removed",
+      "site": "GMOポイ活 (GF Rewards)",
+      "detail": "掲載終了（前回: iOS 450円 / Android 450円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Mistplay",
+      "type": "removed",
+      "site": "COINCOME (SKYFLAG)",
+      "detail": "掲載終了（前回: iOS -円 / Android 7078円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "PLAYTIME",
+      "type": "removed",
+      "site": "GMOポイ活 (GF Rewards)",
+      "detail": "掲載終了（前回: iOS -円 / Android 750円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Rise of Kingdoms",
+      "type": "removed",
+      "site": "GMOポイ活",
+      "detail": "掲載終了（前回: iOS -円 / Android 1900円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Supreme King",
+      "type": "removed",
+      "site": "GMOポイ活",
+      "detail": "掲載終了（前回: iOS 1000円 / Android -円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Tower Challenge",
+      "type": "removed",
+      "site": "GMOポイ活",
+      "detail": "掲載終了（前回: iOS -円 / Android 800円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ようとん場MIX",
+      "type": "removed",
+      "site": "GMOポイ活",
+      "detail": "掲載終了（前回: iOS 167円 / Android 143円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "イブのモール",
+      "type": "removed",
+      "site": "GMOポイ活",
+      "detail": "掲載終了（前回: iOS 160円 / Android 160円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "クロンダイクの冒険",
+      "type": "removed",
+      "site": "GMOポイ活",
+      "detail": "掲載終了（前回: iOS 800円 / Android 624円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "トップウォー",
+      "type": "removed",
+      "site": "COINCOME (SKYFLAG)",
+      "detail": "掲載終了（前回: iOS 44999円 / Android -円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ブラウザ三国志天",
+      "type": "removed",
+      "site": "ECナビ (Zucks)",
+      "detail": "掲載終了（前回: iOS 19780円 / Android -円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ブラウザ三国志天",
+      "type": "removed",
+      "site": "モッピー (Zucks)",
+      "detail": "掲載終了（前回: iOS 19383円 / Android -円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ブラウザ三国志天",
+      "type": "removed",
+      "site": "げん玉 (Zucks)",
+      "detail": "掲載終了（前回: iOS 18988.8円 / Android -円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ブラウザ三国志天",
+      "type": "removed",
+      "site": "ハピタス (Zucks)",
+      "detail": "掲載終了（前回: iOS 17802円 / Android -円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ロイヤルマッチ",
+      "type": "removed",
+      "site": "ポモチ",
+      "detail": "掲載終了（前回: iOS -円 / Android 1782円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "信長の野望 天下",
+      "type": "removed",
+      "site": "GMOポイ活",
+      "detail": "掲載終了（前回: iOS 3280円 / Android 3280円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "大三国志",
+      "type": "removed",
+      "site": "モッピー (AppDriver)",
+      "detail": "掲載終了（前回: iOS 1898円 / Android -円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "大三国志",
+      "type": "removed",
+      "site": "ハピタス (AppDriver)",
+      "detail": "掲載終了（前回: iOS 1710円 / Android -円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "大三国志",
+      "type": "removed",
+      "site": "ちょびリッチ (AppDriver)",
+      "detail": "掲載終了（前回: iOS 1627円 / Android -円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "放置少女",
+      "type": "removed",
+      "site": "GMOポイ活",
+      "detail": "掲載終了（前回: iOS 2530円 / Android 2530円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "杖と剣の伝説",
+      "type": "removed",
+      "site": "ECナビ (Zucks)",
+      "detail": "掲載終了（前回: iOS 6545円 / Android 6565円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "鳴潮",
+      "type": "removed",
+      "site": "COINCOME",
+      "detail": "掲載終了（前回: iOS -円 / Android 1755円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "三国志 戦乱",
+      "type": "removed",
+      "site": "GMOポイ活",
+      "detail": "掲載終了（前回: iOS 1200円 / Android -円）"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Mistplay",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ECナビ (Zucks) → モッピー (Zucks)"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Supreme King",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: GMOポイ活 → COINCOME"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "Tower Challenge",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: GMOポイ活 → COINCOME"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "ブラウザ三国志天",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ECナビ (Zucks) → ECナビ"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "信長の野望 天下",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: GMOポイ活 → COINCOME"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "放置少女",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: GMOポイ活 → ワラウ"
+    },
+    {
+      "date": "2026-02-16",
+      "game": "杖と剣の伝説",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ECナビ (Zucks) → ECナビ"
     }
   ]
 }
