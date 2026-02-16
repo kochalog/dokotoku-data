@@ -1,6 +1,426 @@
 {
-  "date": "2026-02-16",
+  "date": "2026-02-17",
   "results": [
+    {
+      "game": "三國志 真戦",
+      "site": "モッピー",
+      "ios": 5300,
+      "android": 5300
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "COINCOME",
+      "ios": 5300,
+      "android": 5300
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "Powl",
+      "ios": 5200,
+      "android": 5200
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "ハピタス (SKYFLAG)",
+      "ios": 5184,
+      "android": 3744
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "ワラウ",
+      "ios": 4800,
+      "android": 4800
+    },
+    {
+      "game": "三国志 戦乱",
+      "site": "Powl",
+      "ios": 1950,
+      "android": 0
+    },
+    {
+      "game": "三国志 戦乱",
+      "site": "COINCOME",
+      "ios": 857,
+      "android": 1145
+    },
+    {
+      "game": "信長の野望 天下への道",
+      "site": "COINCOME",
+      "ios": 2905,
+      "android": 0
+    },
+    {
+      "game": "信長の野望 真戦",
+      "site": "モッピー (AppDriver)",
+      "ios": 5219,
+      "android": 5219
+    },
+    {
+      "game": "信長の野望 真戦",
+      "site": "ワラウ",
+      "ios": 5000,
+      "android": 5000
+    },
+    {
+      "game": "信長の野望 真戦",
+      "site": "Powl",
+      "ios": 5000,
+      "android": 5000
+    },
+    {
+      "game": "信長の野望 真戦",
+      "site": "げん玉",
+      "ios": 5000,
+      "android": 5000
+    },
+    {
+      "game": "出荷ぶた",
+      "site": "ハピタス (AppDriver)",
+      "ios": 13674,
+      "android": 13674
+    },
+    {
+      "game": "出荷ぶた",
+      "site": "げん玉 (AppDriver)",
+      "ios": 13132.1,
+      "android": 13132.1
+    },
+    {
+      "game": "出荷ぶた",
+      "site": "ちょびリッチ (AppDriver)",
+      "ios": 13014.5,
+      "android": 13014.5
+    },
+    {
+      "game": "出荷ぶた",
+      "site": "ワラウ",
+      "ios": 12820,
+      "android": 12820
+    },
+    {
+      "game": "商人放浪記",
+      "site": "ワラウ",
+      "ios": 18750,
+      "android": 18750
+    },
+    {
+      "game": "商人放浪記",
+      "site": "ハピタス (SKYFLAG)",
+      "ios": 13108,
+      "android": 17554
+    },
+    {
+      "game": "商人放浪記",
+      "site": "モッピー",
+      "ios": 16662,
+      "android": 16662
+    },
+    {
+      "game": "商人放浪記",
+      "site": "COINCOME (SKYFLAG)",
+      "ios": 16507,
+      "android": 16507
+    },
+    {
+      "game": "喧嘩の花道",
+      "site": "ハピタス (AppDriver)",
+      "ios": 12825,
+      "android": 12825
+    },
+    {
+      "game": "喧嘩の花道",
+      "site": "げん玉 (AppDriver)",
+      "ios": 12312,
+      "android": 12312
+    },
+    {
+      "game": "喧嘩の花道",
+      "site": "ちょびリッチ (AppDriver)",
+      "ios": 12204,
+      "android": 12204
+    },
+    {
+      "game": "喧嘩の花道",
+      "site": "Powl (AppDriver)",
+      "ios": 9600,
+      "android": 9600
+    },
+    {
+      "game": "大三国志",
+      "site": "モッピー (AppDriver)",
+      "ios": 1898,
+      "android": 0
+    },
+    {
+      "game": "大三国志",
+      "site": "ハピタス (AppDriver)",
+      "ios": 1710,
+      "android": 0
+    },
+    {
+      "game": "大三国志",
+      "site": "げん玉 (AppDriver)",
+      "ios": 1641.6,
+      "android": 1459.2
+    },
+    {
+      "game": "大三国志",
+      "site": "ちょびリッチ (AppDriver)",
+      "ios": 1627,
+      "android": 0
+    },
+    {
+      "game": "大三国志",
+      "site": "ECナビ",
+      "ios": 1462,
+      "android": 0
+    },
+    {
+      "game": "大江戸ロマンス",
+      "site": "モッピー (GF Rewards)",
+      "ios": 2455,
+      "android": 2455
+    },
+    {
+      "game": "大江戸ロマンス",
+      "site": "げん玉 (GF Rewards)",
+      "ios": 2429.6,
+      "android": 2429.6
+    },
+    {
+      "game": "大江戸ロマンス",
+      "site": "ワラウ (SmaAD)",
+      "ios": 2389,
+      "android": 2389
+    },
+    {
+      "game": "大江戸ロマンス",
+      "site": "アメフリ",
+      "ios": 1903,
+      "android": 1903
+    },
+    {
+      "game": "大江戸ロマンス",
+      "site": "ちょびリッチ (GF Rewards)",
+      "ios": 1880,
+      "android": 1880
+    },
+    {
+      "game": "天地英雄伝",
+      "site": "モッピー (GF Rewards)",
+      "ios": 192260,
+      "android": 192260
+    },
+    {
+      "game": "天地英雄伝",
+      "site": "げん玉 (GF Rewards)",
+      "ios": 190179.8,
+      "android": 190179.8
+    },
+    {
+      "game": "天地英雄伝",
+      "site": "アメフリ",
+      "ios": 152855,
+      "android": 152985
+    },
+    {
+      "game": "天地英雄伝",
+      "site": "ちょびリッチ (GF Rewards)",
+      "ios": 147201,
+      "android": 147201
+    },
+    {
+      "game": "天地英雄伝",
+      "site": "Powl (GF Rewards)",
+      "ios": 145384.8,
+      "android": 145384.8
+    },
+    {
+      "game": "実りの地 レベル30",
+      "site": "ポイントインカム (myChips)",
+      "ios": 1511.6,
+      "android": 0
+    },
+    {
+      "game": "実りの地 レベル30",
+      "site": "げん玉 (myChips)",
+      "ios": 1402.9,
+      "android": 0
+    },
+    {
+      "game": "実りの地 レベル30",
+      "site": "ハピタス (myChips)",
+      "ios": 1299,
+      "android": 0
+    },
+    {
+      "game": "実りの地 レベル30",
+      "site": "Powl (myChips)",
+      "ios": 1298.9,
+      "android": 0
+    },
+    {
+      "game": "実りの地 レベル30",
+      "site": "ちょびリッチ (myChips)",
+      "ios": 1291.5,
+      "android": 0
+    },
+    {
+      "game": "小森の宿 ららら",
+      "site": "モッピー (GF Rewards)",
+      "ios": 1172,
+      "android": 1172
+    },
+    {
+      "game": "小森の宿 ららら",
+      "site": "げん玉 (GF Rewards)",
+      "ios": 1164.3,
+      "android": 1164.3
+    },
+    {
+      "game": "小森の宿 ららら",
+      "site": "アメフリ",
+      "ios": 909,
+      "android": 909
+    },
+    {
+      "game": "小森の宿 ららら",
+      "site": "ちょびリッチ (GF Rewards)",
+      "ios": 900,
+      "android": 900
+    },
+    {
+      "game": "小森の宿 ららら",
+      "site": "Powl (GF Rewards)",
+      "ios": 890.4,
+      "android": 890.4
+    },
+    {
+      "game": "成り上がり 華と武の戦国",
+      "site": "ECナビ (Zucks)",
+      "ios": 4730,
+      "android": 2450
+    },
+    {
+      "game": "成り上がり 華と武の戦国",
+      "site": "モッピー (Zucks)",
+      "ios": 4633,
+      "android": 2399
+    },
+    {
+      "game": "成り上がり 華と武の戦国",
+      "site": "げん玉 (Zucks)",
+      "ios": 4540.8,
+      "android": 2352
+    },
+    {
+      "game": "我が天下 伝説武将",
+      "site": "モッピー (SKYFLAG)",
+      "ios": 9782,
+      "android": 0
+    },
+    {
+      "game": "我が天下 伝説武将",
+      "site": "Powl",
+      "ios": 8800,
+      "android": 0
+    },
+    {
+      "game": "我が天下 伝説武将",
+      "site": "ワラウ (SKYFLAG)",
+      "ios": 8360,
+      "android": 0
+    },
+    {
+      "game": "我が天下 伝説武将",
+      "site": "ポイントインカム (SKYFLAG)",
+      "ios": 8257.1,
+      "android": 0
+    },
+    {
+      "game": "戦国布武 我が天下戦国編",
+      "site": "ワラウ",
+      "ios": 10450,
+      "android": 10450
+    },
+    {
+      "game": "戦国布武 我が天下戦国編",
+      "site": "ハピタス (SKYFLAG)",
+      "ios": 9954,
+      "android": 9954
+    },
+    {
+      "game": "戦国布武 我が天下戦国編",
+      "site": "モッピー (SKYFLAG)",
+      "ios": 7640,
+      "android": 7640
+    },
+    {
+      "game": "戦国布武 我が天下戦国編",
+      "site": "COINCOME",
+      "ios": 4493,
+      "android": 7460
+    },
+    {
+      "game": "戦国布武 我が天下戦国編",
+      "site": "Powl",
+      "ios": 7450,
+      "android": 7450
+    },
+    {
+      "game": "放置少女",
+      "site": "ワラウ",
+      "ios": 2200,
+      "android": 1600
+    },
+    {
+      "game": "放置少女",
+      "site": "アメフリ",
+      "ios": 2132,
+      "android": 1599
+    },
+    {
+      "game": "放置少女",
+      "site": "ちょびリッチ (SKYFLAG)",
+      "ios": 2080,
+      "android": 1560
+    },
+    {
+      "game": "放置少女",
+      "site": "Powl (SKYFLAG)",
+      "ios": 2080,
+      "android": 2080
+    },
+    {
+      "game": "旦那様の一発逆転人生",
+      "site": "モッピー",
+      "ios": 9211,
+      "android": 9211
+    },
+    {
+      "game": "旦那様の一発逆転人生",
+      "site": "ハピタス (SKYFLAG)",
+      "ios": 8809,
+      "android": 8809
+    },
+    {
+      "game": "旦那様の一発逆転人生",
+      "site": "ワラウ (SKYFLAG)",
+      "ios": 8449,
+      "android": 7028
+    },
+    {
+      "game": "旦那様の一発逆転人生",
+      "site": "ポイントインカム (SKYFLAG)",
+      "ios": 6941.6,
+      "android": 8345.4
+    },
+    {
+      "game": "木こりの帝国",
+      "site": "COINCOME",
+      "ios": 1150,
+      "android": 0
+    },
     {
       "game": "杖と剣の伝説",
       "site": "ECナビ (Zucks)",
@@ -44,6 +464,18 @@
       "android": 200
     },
     {
+      "game": "原神",
+      "site": "Powl",
+      "ios": 500,
+      "android": 500
+    },
+    {
+      "game": "原神",
+      "site": "ECナビ",
+      "ios": 440,
+      "android": 440
+    },
+    {
       "game": "獅子の如く",
       "site": "ECナビ (Zucks)",
       "ios": 6985,
@@ -75,39 +507,39 @@
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "ECナビ",
+      "site": "ECナビ (Zucks)",
       "ios": 0,
       "android": 7195
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "アメフリ",
+      "site": "モッピー (Zucks)",
       "ios": 0,
-      "android": 5756
+      "android": 7049
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "モッピー (GF Rewards)",
+      "site": "げん玉 (Zucks)",
       "ios": 0,
-      "android": 570
+      "android": 6907.2
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "げん玉 (GF Rewards)",
+      "site": "ハピタス (Zucks)",
       "ios": 0,
-      "android": 565
-    },
-    {
-      "game": "異世界のんびりライフ",
-      "site": "ちょびリッチ (GF Rewards)",
-      "ios": 0,
-      "android": 437
+      "android": 6475
     },
     {
       "game": "立ち上がれ アリ帝国",
       "site": "COINCOME",
       "ios": 4032,
       "android": 4030
+    },
+    {
+      "game": "聖霊伝説",
+      "site": "Powl",
+      "ios": 1650.7,
+      "android": 1650.7
     },
     {
       "game": "金とゴブリンの採掘ゲーム",
@@ -123,75 +555,15 @@
     },
     {
       "game": "金とゴブリンの採掘ゲーム",
-      "site": "ポイントタウン (SmaAD)",
-      "ios": 3502,
-      "android": 3502
-    },
-    {
-      "game": "金とゴブリンの採掘ゲーム",
       "site": "アメフリ",
       "ios": 3378,
       "android": 3378
     },
     {
-      "game": "鳴潮",
-      "site": "COINCOME",
-      "ios": 0,
-      "android": 1755
-    },
-    {
-      "game": "聖霊伝説",
-      "site": "Powl",
-      "ios": 1650.7,
-      "android": 1650.7
-    },
-    {
-      "game": "ゴールデンタイガー",
-      "site": "ECナビ",
-      "ios": 720,
-      "android": 720
-    },
-    {
-      "game": "三国志 戦乱",
-      "site": "Powl",
-      "ios": 1950,
-      "android": 0
-    },
-    {
-      "game": "三国志 戦乱",
-      "site": "GMOポイ活",
-      "ios": 1200,
-      "android": 0
-    },
-    {
-      "game": "三国志 戦乱",
-      "site": "COINCOME",
-      "ios": 857,
-      "android": 1145
-    },
-    {
-      "game": "Bravoカジノ",
-      "site": "げん玉 (AppDriver)",
-      "ios": 1231.2,
-      "android": 1231.2
-    },
-    {
-      "game": "Bravoカジノ",
-      "site": "Powl (AppDriver)",
-      "ios": 960,
-      "android": 960
-    },
-    {
-      "game": "原神",
-      "site": "Powl",
-      "ios": 500,
-      "android": 500
-    },
-    {
-      "game": "原神",
-      "site": "ECナビ",
-      "ios": 440,
-      "android": 440
+      "game": "金とゴブリンの採掘ゲーム",
+      "site": "げん玉 (SmaAD)",
+      "ios": 3337.2,
+      "android": 3337.2
     }
   ]
 }
