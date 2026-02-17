@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-17",
+  "date": "2026-02-18",
   "results": [
     {
       "game": "Arkcraft",
@@ -57,27 +57,15 @@
     },
     {
       "game": "Cash Mafia",
-      "site": "ECナビ (Zucks)",
+      "site": "げん玉 (AppDriver)",
       "ios": 0,
-      "android": 2500
+      "android": 2050.7
     },
     {
       "game": "Cash Mafia",
-      "site": "モッピー (Zucks)",
+      "site": "楽天ポイ活ミッション特集 (AppDriver)",
       "ios": 0,
-      "android": 2449
-    },
-    {
-      "game": "Cash Mafia",
-      "site": "げん玉 (Zucks)",
-      "ios": 0,
-      "android": 2400
-    },
-    {
-      "game": "Cash Mafia",
-      "site": "ハピタス (Zucks)",
-      "ios": 0,
-      "android": 2249
+      "android": 1749
     },
     {
       "game": "Color Sing",
@@ -291,21 +279,27 @@
     },
     {
       "game": "MONEY CASH",
-      "site": "げん玉",
-      "ios": 730,
-      "android": 1300
-    },
-    {
-      "game": "MONEY CASH",
       "site": "ハピタス (myChips)",
       "ios": 0,
-      "android": 1294
+      "android": 1900
     },
     {
       "game": "MONEY CASH",
       "site": "Powl (myChips)",
       "ios": 0,
-      "android": 1293.6
+      "android": 1900
+    },
+    {
+      "game": "MONEY CASH",
+      "site": "ワラウ (myChips)",
+      "ios": 0,
+      "android": 1842
+    },
+    {
+      "game": "MONEY CASH",
+      "site": "COINCOME (myChips)",
+      "ios": 0,
+      "android": 1842
     },
     {
       "game": "Match Ninja",
@@ -465,27 +459,21 @@
     },
     {
       "game": "Solve Earn",
-      "site": "ECナビ (Zucks)",
+      "site": "げん玉 (AppDriver)",
       "ios": 0,
-      "android": 2495
+      "android": 2047.1
     },
     {
       "game": "Solve Earn",
-      "site": "モッピー (Zucks)",
+      "site": "楽天ポイ活ミッション特集 (AppDriver)",
       "ios": 0,
-      "android": 2444
+      "android": 1746
     },
     {
       "game": "Solve Earn",
-      "site": "げん玉 (Zucks)",
+      "site": "COINCOME",
       "ios": 0,
-      "android": 2395.2
-    },
-    {
-      "game": "Solve Earn",
-      "site": "ハピタス (Zucks)",
-      "ios": 0,
-      "android": 2245
+      "android": 1149
     },
     {
       "game": "Supreme King",
