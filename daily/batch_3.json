@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-17",
+  "date": "2026-02-18",
   "results": [
     {
       "game": "ドゥームズデイ",
@@ -393,33 +393,27 @@
     },
     {
       "game": "ミクチャ",
-      "site": "Powl",
+      "site": "モッピー",
+      "ios": 1995,
+      "android": 1995
+    },
+    {
+      "game": "ミクチャ",
+      "site": "COINCOME (SKYFLAG)",
+      "ios": 1785,
+      "android": 1785
+    },
+    {
+      "game": "ミクチャ",
+      "site": "ワラウ",
       "ios": 1750,
       "android": 1750
     },
     {
       "game": "ミクチャ",
-      "site": "モッピー",
-      "ios": 1710,
-      "android": 1710
-    },
-    {
-      "game": "ミクチャ",
-      "site": "COINCOME (SKYFLAG)",
-      "ios": 1530,
-      "android": 1530
-    },
-    {
-      "game": "ミクチャ",
-      "site": "ワラウ",
-      "ios": 1500,
-      "android": 1500
-    },
-    {
-      "game": "ミクチャ",
-      "site": "アメフリ",
-      "ios": 1476,
-      "android": 1476
+      "site": "Powl",
+      "ios": 1750,
+      "android": 1750
     },
     {
       "game": "ミストバレー",
