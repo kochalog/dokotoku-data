@@ -2178,6 +2178,261 @@
       "game": "異世界のんびりライフ",
       "type": "site_changed",
       "detail": "最高額サイト変更: ECナビ → ECナビ (Zucks)"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "Cash Mafia",
+      "type": "new",
+      "site": "げん玉 (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 2050.7円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "Cash Mafia",
+      "type": "new",
+      "site": "楽天ポイ活ミッション特集 (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 1749円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "MONEY CASH",
+      "type": "price_changed",
+      "site": "ハピタス (myChips)",
+      "detail": "Android 1294→1900円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "MONEY CASH",
+      "type": "price_changed",
+      "site": "Powl (myChips)",
+      "detail": "Android 1293.6→1900円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "MONEY CASH",
+      "type": "new",
+      "site": "ワラウ (myChips)",
+      "detail": "新規掲載: iOS -円 / Android 1842円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "MONEY CASH",
+      "type": "new",
+      "site": "COINCOME (myChips)",
+      "detail": "新規掲載: iOS -円 / Android 1842円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "Solve Earn",
+      "type": "new",
+      "site": "げん玉 (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 2047.1円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "Solve Earn",
+      "type": "new",
+      "site": "楽天ポイ活ミッション特集 (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 1746円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "Solve Earn",
+      "type": "new",
+      "site": "COINCOME",
+      "detail": "新規掲載: iOS -円 / Android 1149円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "ザ グランド マフィア",
+      "type": "new",
+      "site": "ハピタス (SKYFLAG)",
+      "detail": "新規掲載: iOS 75377円 / Android 75377円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "ミクチャ",
+      "type": "price_changed",
+      "site": "モッピー",
+      "detail": "iOS 1710→1995円 / Android 1710→1995円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "ミクチャ",
+      "type": "price_changed",
+      "site": "COINCOME (SKYFLAG)",
+      "detail": "iOS 1530→1785円 / Android 1530→1785円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "ミクチャ",
+      "type": "price_changed",
+      "site": "ワラウ",
+      "detail": "iOS 1500→1750円 / Android 1500→1750円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "杖と剣の伝説",
+      "type": "new",
+      "site": "モッピー (AppDriver)",
+      "detail": "新規掲載: iOS 7117円 / Android 7117円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "杖と剣の伝説",
+      "type": "new",
+      "site": "ハピタス (AppDriver)",
+      "detail": "新規掲載: iOS 6412円 / Android 6412円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "タワーデスティニーサバイブ",
+      "type": "new",
+      "site": "モッピー (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 2569円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "タワーデスティニーサバイブ",
+      "type": "new",
+      "site": "ハピタス (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 2317円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "タワーデスティニーサバイブ",
+      "type": "new",
+      "site": "げん玉 (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 2228.4円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "タワーデスティニーサバイブ",
+      "type": "new",
+      "site": "ちょびリッチ (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 2207円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "タワーデスティニーサバイブ",
+      "type": "new",
+      "site": "Powl (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 1740円"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "Cash Mafia",
+      "type": "removed",
+      "site": "ECナビ (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2500円）"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "Cash Mafia",
+      "type": "removed",
+      "site": "モッピー (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2449円）"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "Cash Mafia",
+      "type": "removed",
+      "site": "げん玉 (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2400円）"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "Cash Mafia",
+      "type": "removed",
+      "site": "ハピタス (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2249円）"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "MONEY CASH",
+      "type": "removed",
+      "site": "げん玉",
+      "detail": "掲載終了（前回: iOS 730円 / Android 1300円）"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "Solve Earn",
+      "type": "removed",
+      "site": "ECナビ (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2495円）"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "Solve Earn",
+      "type": "removed",
+      "site": "モッピー (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2444円）"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "Solve Earn",
+      "type": "removed",
+      "site": "げん玉 (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2395.2円）"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "Solve Earn",
+      "type": "removed",
+      "site": "ハピタス (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2245円）"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "ザ グランド マフィア",
+      "type": "removed",
+      "site": "ポイントインカム",
+      "detail": "掲載終了（前回: iOS 111273.9円 / Android 111273.9円）"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "ミクチャ",
+      "type": "removed",
+      "site": "アメフリ",
+      "detail": "掲載終了（前回: iOS 1476円 / Android 1476円）"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "杖と剣の伝説",
+      "type": "removed",
+      "site": "モッピー (Zucks)",
+      "detail": "掲載終了（前回: iOS 6432円 / Android 6432円）"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "杖と剣の伝説",
+      "type": "removed",
+      "site": "げん玉 (Zucks)",
+      "detail": "掲載終了（前回: iOS 6153.6円 / Android 6153.6円）"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "Cash Mafia",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ECナビ (Zucks) → げん玉 (AppDriver)"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "Solve Earn",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ECナビ (Zucks) → げん玉 (AppDriver)"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "ミクチャ",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: Powl → モッピー"
+    },
+    {
+      "date": "2026-02-18",
+      "game": "杖と剣の伝説",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ECナビ (Zucks) → モッピー (AppDriver)"
     }
   ]
 }

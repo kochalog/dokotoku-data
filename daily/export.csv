@@ -7,10 +7,8 @@ Bravoカジノ,Powl (AppDriver),960,960
 Cash Giraffe,ECナビ (Zucks),0,3400
 Cash Giraffe,ハピタス (Zucks),0,3240
 Cash Giraffe,げん玉,0,3000
-Cash Mafia,ECナビ (Zucks),0,2500
-Cash Mafia,モッピー (Zucks),0,2449
-Cash Mafia,げん玉 (Zucks),0,2400
-Cash Mafia,ハピタス (Zucks),0,2249
+Cash Mafia,げん玉 (AppDriver),0,2050.7
+Cash Mafia,楽天ポイ活ミッション特集 (AppDriver),0,1749
 Color Sing,ワラウ,800,800
 Color Sing,COINCOME,800,800
 Color Sing,モッピー,760,760
@@ -46,9 +44,10 @@ Knife Ninja,ECナビ (Zucks),0,2500
 Knife Ninja,モッピー (Zucks),0,2449
 Knife Ninja,げん玉 (Zucks),0,2400
 MONEY CASH,モッピー,0,2150
-MONEY CASH,げん玉,730,1300
-MONEY CASH,ハピタス (myChips),0,1294
-MONEY CASH,Powl (myChips),0,1293.6
+MONEY CASH,ハピタス (myChips),0,1900
+MONEY CASH,Powl (myChips),0,1900
+MONEY CASH,ワラウ (myChips),0,1842
+MONEY CASH,COINCOME (myChips),0,1842
 Match Ninja,ECナビ (Zucks),0,2495
 Match Ninja,モッピー (Zucks),0,2444
 Match Ninja,げん玉 (Zucks),0,2395.2
@@ -75,10 +74,9 @@ Sky 星を紡ぐ子どもたち,Powl,2300,1800
 Sky 星を紡ぐ子どもたち,モッピー (SKYFLAG),2139,1796
 Sky 星を紡ぐ子どもたち,COINCOME (SKYFLAG),2139,1796
 Sky 星を紡ぐ子どもたち,ワラウ,2100,1740
-Solve Earn,ECナビ (Zucks),0,2495
-Solve Earn,モッピー (Zucks),0,2444
-Solve Earn,げん玉 (Zucks),0,2395.2
-Solve Earn,ハピタス (Zucks),0,2245
+Solve Earn,げん玉 (AppDriver),0,2047.1
+Solve Earn,楽天ポイ活ミッション特集 (AppDriver),0,1746
+Solve Earn,COINCOME,0,1149
 Supreme King,COINCOME,690,0
 Supreme King,げん玉 (GF Rewards),0,485.6
 Supreme King,Powl,0,400
@@ -129,7 +127,7 @@ Tower Challenge,COINCOME,0,157
 ザ グランド マフィア,Powl,0,133300
 ザ グランド マフィア,モッピー,116768,116768
 ザ グランド マフィア,ちょびリッチ (GF Rewards),0,111543
-ザ グランド マフィア,ポイントインカム,111273.9,111273.9
+ザ グランド マフィア,ハピタス (SKYFLAG),75377,75377
 スーパーラッキーカジノ,げん玉 (GF Rewards),10811.2,9804.3
 スーパーラッキーカジノ,アメフリ,8469,7679
 スーパーラッキーカジノ,ちょびリッチ (GF Rewards),8367,7588
@@ -218,11 +216,10 @@ Tower Challenge,COINCOME,0,157
 マフィア シティ,COINCOME,24358,55400
 マフィア シティ,ハピタス (AppDriver),0,55085
 マフィア シティ,モッピー (SKYFLAG),0,53510
+ミクチャ,モッピー,1995,1995
+ミクチャ,COINCOME (SKYFLAG),1785,1785
+ミクチャ,ワラウ,1750,1750
 ミクチャ,Powl,1750,1750
-ミクチャ,モッピー,1710,1710
-ミクチャ,COINCOME (SKYFLAG),1530,1530
-ミクチャ,ワラウ,1500,1500
-ミクチャ,アメフリ,1476,1476
 ミストバレー,Powl,220,220
 ミストバレー,モッピー,216,216
 ミストバレー,アメフリ,196,196
@@ -329,9 +326,9 @@ Tower Challenge,COINCOME,0,157
 旦那様の一発逆転人生,ワラウ (SKYFLAG),8449,7028
 旦那様の一発逆転人生,ポイントインカム (SKYFLAG),6941.6,8345.4
 木こりの帝国,COINCOME,1150,0
+杖と剣の伝説,モッピー (AppDriver),7117,7117
 杖と剣の伝説,ECナビ (Zucks),6545,6565
-杖と剣の伝説,モッピー (Zucks),6432,6432
-杖と剣の伝説,げん玉 (Zucks),6153.6,6153.6
+杖と剣の伝説,ハピタス (AppDriver),6412,6412
 東京ディバンカー,モッピー,220,220
 東京ディバンカー,ワラウ,210,210
 東京ディバンカー,COINCOME,205,205
@@ -349,6 +346,11 @@ Tower Challenge,COINCOME,0,157
 異世界のんびりライフ,ハピタス (Zucks),0,6475
 立ち上がれ アリ帝国,COINCOME,4032,4030
 聖霊伝説,Powl,1650.7,1650.7
+タワーデスティニーサバイブ,モッピー (AppDriver),0,2569
+タワーデスティニーサバイブ,ハピタス (AppDriver),0,2317
+タワーデスティニーサバイブ,げん玉 (AppDriver),0,2228.4
+タワーデスティニーサバイブ,ちょびリッチ (AppDriver),0,2207
+タワーデスティニーサバイブ,Powl (AppDriver),0,1740
 金とゴブリンの採掘ゲーム,ポイントインカム (SmaAD),3685.5,3685.5
 金とゴブリンの採掘ゲーム,Powl,3520,3520
 金とゴブリンの採掘ゲーム,アメフリ,3378,3378

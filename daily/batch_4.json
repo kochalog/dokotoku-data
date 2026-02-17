@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-17",
+  "date": "2026-02-18",
   "results": [
     {
       "game": "三國志 真戦",
@@ -423,21 +423,21 @@
     },
     {
       "game": "杖と剣の伝説",
+      "site": "モッピー (AppDriver)",
+      "ios": 7117,
+      "android": 7117
+    },
+    {
+      "game": "杖と剣の伝説",
       "site": "ECナビ (Zucks)",
       "ios": 6545,
       "android": 6565
     },
     {
       "game": "杖と剣の伝説",
-      "site": "モッピー (Zucks)",
-      "ios": 6432,
-      "android": 6432
-    },
-    {
-      "game": "杖と剣の伝説",
-      "site": "げん玉 (Zucks)",
-      "ios": 6153.6,
-      "android": 6153.6
+      "site": "ハピタス (AppDriver)",
+      "ios": 6412,
+      "android": 6412
     },
     {
       "game": "東京ディバンカー",
@@ -540,6 +540,36 @@
       "site": "Powl",
       "ios": 1650.7,
       "android": 1650.7
+    },
+    {
+      "game": "タワーデスティニーサバイブ",
+      "site": "モッピー (AppDriver)",
+      "ios": 0,
+      "android": 2569
+    },
+    {
+      "game": "タワーデスティニーサバイブ",
+      "site": "ハピタス (AppDriver)",
+      "ios": 0,
+      "android": 2317
+    },
+    {
+      "game": "タワーデスティニーサバイブ",
+      "site": "げん玉 (AppDriver)",
+      "ios": 0,
+      "android": 2228.4
+    },
+    {
+      "game": "タワーデスティニーサバイブ",
+      "site": "ちょびリッチ (AppDriver)",
+      "ios": 0,
+      "android": 2207
+    },
+    {
+      "game": "タワーデスティニーサバイブ",
+      "site": "Powl (AppDriver)",
+      "ios": 0,
+      "android": 1740
     },
     {
       "game": "金とゴブリンの採掘ゲーム",
