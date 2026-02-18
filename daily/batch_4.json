@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "results": [
     {
       "game": "三國志 真戦",
@@ -111,9 +111,9 @@
     },
     {
       "game": "商人放浪記",
-      "site": "モッピー",
-      "ios": 16662,
-      "android": 16662
+      "site": "モッピー (SKYFLAG)",
+      "ios": 16507,
+      "android": 16507
     },
     {
       "game": "商人放浪記",
@@ -148,31 +148,25 @@
     {
       "game": "大三国志",
       "site": "モッピー (AppDriver)",
-      "ios": 1898,
+      "ios": 1798,
       "android": 0
     },
     {
       "game": "大三国志",
       "site": "ハピタス (AppDriver)",
-      "ios": 1710,
+      "ios": 1620,
       "android": 0
     },
     {
       "game": "大三国志",
       "site": "げん玉 (AppDriver)",
-      "ios": 1641.6,
+      "ios": 1550.4,
       "android": 1459.2
     },
     {
       "game": "大三国志",
       "site": "ちょびリッチ (AppDriver)",
-      "ios": 1627,
-      "android": 0
-    },
-    {
-      "game": "大三国志",
-      "site": "ECナビ",
-      "ios": 1462,
+      "ios": 1536.5,
       "android": 0
     },
     {
@@ -393,15 +387,15 @@
     },
     {
       "game": "旦那様の一発逆転人生",
-      "site": "モッピー",
-      "ios": 9211,
-      "android": 9211
-    },
-    {
-      "game": "旦那様の一発逆転人生",
       "site": "ハピタス (SKYFLAG)",
       "ios": 8809,
       "android": 8809
+    },
+    {
+      "game": "旦那様の一発逆転人生",
+      "site": "モッピー (SKYFLAG)",
+      "ios": 8759,
+      "android": 8759
     },
     {
       "game": "旦那様の一発逆転人生",
@@ -477,27 +471,9 @@
     },
     {
       "game": "獅子の如く",
-      "site": "ECナビ (Zucks)",
-      "ios": 6985,
-      "android": 0
-    },
-    {
-      "game": "獅子の如く",
-      "site": "モッピー (Zucks)",
-      "ios": 6843,
-      "android": 0
-    },
-    {
-      "game": "獅子の如く",
-      "site": "げん玉 (Zucks)",
-      "ios": 6705.6,
-      "android": 0
-    },
-    {
-      "game": "獅子の如く",
-      "site": "ハピタス (Zucks)",
-      "ios": 6651,
-      "android": 0
+      "site": "Powl",
+      "ios": 5700,
+      "android": 5700
     },
     {
       "game": "王国のドラゴン",
@@ -509,25 +485,25 @@
       "game": "異世界のんびりライフ",
       "site": "ECナビ (Zucks)",
       "ios": 0,
-      "android": 7195
+      "android": 4035
     },
     {
       "game": "異世界のんびりライフ",
       "site": "モッピー (Zucks)",
       "ios": 0,
-      "android": 7049
+      "android": 3953
     },
     {
       "game": "異世界のんびりライフ",
       "site": "げん玉 (Zucks)",
       "ios": 0,
-      "android": 6907.2
+      "android": 3873.6
     },
     {
       "game": "異世界のんびりライフ",
       "site": "ハピタス (Zucks)",
       "ios": 0,
-      "android": 6475
+      "android": 3631
     },
     {
       "game": "立ち上がれ アリ帝国",
@@ -543,33 +519,33 @@
     },
     {
       "game": "タワーデスティニーサバイブ",
+      "site": "ワラウ",
+      "ios": 0,
+      "android": 2200
+    },
+    {
+      "game": "タワーデスティニーサバイブ",
+      "site": "ちょびリッチ",
+      "ios": 0,
+      "android": 2136
+    },
+    {
+      "game": "タワーデスティニーサバイブ",
       "site": "モッピー (AppDriver)",
       "ios": 0,
-      "android": 2569
+      "android": 2059
     },
     {
       "game": "タワーデスティニーサバイブ",
       "site": "ハピタス (AppDriver)",
       "ios": 0,
-      "android": 2317
+      "android": 1857
     },
     {
       "game": "タワーデスティニーサバイブ",
       "site": "げん玉 (AppDriver)",
       "ios": 0,
-      "android": 2228.4
-    },
-    {
-      "game": "タワーデスティニーサバイブ",
-      "site": "ちょびリッチ (AppDriver)",
-      "ios": 0,
-      "android": 2207
-    },
-    {
-      "game": "タワーデスティニーサバイブ",
-      "site": "Powl (AppDriver)",
-      "ios": 0,
-      "android": 1740
+      "android": 1787.8
     },
     {
       "game": "金とゴブリンの採掘ゲーム",
