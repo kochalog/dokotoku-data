@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "results": [
     {
       "game": "Arkcraft",
@@ -393,33 +393,27 @@
     },
     {
       "game": "Pococha",
-      "site": "ハピタス",
-      "ios": 1005,
-      "android": 2010
+      "site": "モッピー",
+      "ios": 2700,
+      "android": 2700
     },
     {
       "game": "Pococha",
-      "site": "モッピー",
-      "ios": 2000,
-      "android": 2000
+      "site": "Powl (AppDriver)",
+      "ios": 2560,
+      "android": 0
+    },
+    {
+      "game": "Pococha",
+      "site": "ハピタス",
+      "ios": 2010,
+      "android": 2010
     },
     {
       "game": "Pococha",
       "site": "ワラウ",
       "ios": 2000,
       "android": 2000
-    },
-    {
-      "game": "Pococha",
-      "site": "Powl",
-      "ios": 2000,
-      "android": 2000
-    },
-    {
-      "game": "Pococha",
-      "site": "ポイントインカム",
-      "ios": 1800,
-      "android": 0
     },
     {
       "game": "Rise of Kingdoms",
