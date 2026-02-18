@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "results": [
     {
       "game": "この監獄ほんmoneyすぎんご",
@@ -59,7 +59,7 @@
       "game": "ようとん場MIX",
       "site": "げん玉",
       "ios": 66.3,
-      "android": 0
+      "android": 54.6
     },
     {
       "game": "すみっコぐらし 農園つくるんです",
@@ -105,12 +105,6 @@
     },
     {
       "game": "ウルフゲーム",
-      "site": "ちょびリッチ (SKYFLAG)",
-      "ios": 7133.5,
-      "android": 4718
-    },
-    {
-      "game": "ウルフゲーム",
       "site": "モッピー (SKYFLAG)",
       "ios": 5013,
       "android": 0
@@ -126,6 +120,12 @@
       "site": "ワラウ",
       "ios": 5000,
       "android": 5000
+    },
+    {
+      "game": "ウルフゲーム",
+      "site": "アメフリ",
+      "ios": 4831,
+      "android": 4831
     },
     {
       "game": "エバーテイル",
@@ -231,27 +231,27 @@
     },
     {
       "game": "ザ グランド マフィア",
-      "site": "Powl",
-      "ios": 0,
-      "android": 133300
-    },
-    {
-      "game": "ザ グランド マフィア",
-      "site": "モッピー",
-      "ios": 116768,
-      "android": 116768
-    },
-    {
-      "game": "ザ グランド マフィア",
       "site": "ちょびリッチ (GF Rewards)",
       "ios": 0,
       "android": 111543
     },
     {
       "game": "ザ グランド マフィア",
+      "site": "Powl",
+      "ios": 0,
+      "android": 76360
+    },
+    {
+      "game": "ザ グランド マフィア",
       "site": "ハピタス (SKYFLAG)",
       "ios": 75377,
       "android": 75377
+    },
+    {
+      "game": "ザ グランド マフィア",
+      "site": "モッピー (SKYFLAG)",
+      "ios": 71187,
+      "android": 71187
     },
     {
       "game": "スーパーラッキーカジノ",
@@ -317,7 +317,7 @@
       "game": "トップウォー",
       "site": "モッピー (SKYFLAG)",
       "ios": 44999,
-      "android": 43642
+      "android": 44999
     },
     {
       "game": "トップウォー",
@@ -329,13 +329,19 @@
       "game": "トップウォー",
       "site": "ワラウ (SKYFLAG)",
       "ios": 43411,
-      "android": 42103
+      "android": 43411
+    },
+    {
+      "game": "トップウォー",
+      "site": "ポイントインカム (SKYFLAG)",
+      "ios": 0,
+      "android": 42880.7
     },
     {
       "game": "トップウォー",
       "site": "ちょびリッチ (SKYFLAG)",
       "ios": 42351.5,
-      "android": 41074.5
+      "android": 42351.5
     },
     {
       "game": "トラップモンスター",
