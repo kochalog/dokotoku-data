@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-19",
+  "date": "2026-02-20",
   "results": [
     {
       "game": "この監獄ほんmoneyすぎんご",
@@ -200,6 +200,30 @@
       "android": 518
     },
     {
+      "game": "コインマスター",
+      "site": "モッピー (AppDriver)",
+      "ios": 3652,
+      "android": 3652
+    },
+    {
+      "game": "コインマスター",
+      "site": "ハピタス (AppDriver)",
+      "ios": 3292,
+      "android": 3292
+    },
+    {
+      "game": "コインマスター",
+      "site": "ワラウ",
+      "ios": 3200,
+      "android": 3200
+    },
+    {
+      "game": "コインマスター",
+      "site": "Powl (AppDriver)",
+      "ios": 2605.6,
+      "android": 2605.6
+    },
+    {
       "game": "ゴールデンタイガー",
       "site": "ECナビ",
       "ios": 720,
@@ -396,6 +420,24 @@
       "site": "ワラウ (SKYFLAG)",
       "ios": 1919,
       "android": 2025
+    },
+    {
+      "game": "ドゥームズデイ",
+      "site": "ハピタス (SKYFLAG)",
+      "ios": 17838,
+      "android": 17838
+    },
+    {
+      "game": "ドゥームズデイ",
+      "site": "COINCOME (SKYFLAG)",
+      "ios": 12634,
+      "android": 0
+    },
+    {
+      "game": "ドゥームズデイ",
+      "site": "ワラウ (SKYFLAG)",
+      "ios": 8934,
+      "android": 12449
     }
   ]
 }
