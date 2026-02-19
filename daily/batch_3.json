@@ -1,24 +1,6 @@
 {
-  "date": "2026-02-19",
+  "date": "2026-02-20",
   "results": [
-    {
-      "game": "ドゥームズデイ",
-      "site": "ハピタス (SKYFLAG)",
-      "ios": 17838,
-      "android": 17838
-    },
-    {
-      "game": "ドゥームズデイ",
-      "site": "COINCOME (SKYFLAG)",
-      "ios": 12634,
-      "android": 0
-    },
-    {
-      "game": "ドゥームズデイ",
-      "site": "ワラウ (SKYFLAG)",
-      "ios": 8934,
-      "android": 12449
-    },
     {
       "game": "ドゥームズデイ 本部レベル14到達",
       "site": "ワラウ",
@@ -143,7 +125,7 @@
       "game": "パズル サバイバル",
       "site": "ハピタス (AppDriver)",
       "ios": 34861,
-      "android": 32171
+      "android": 30477
     },
     {
       "game": "パズル サバイバル",
@@ -423,6 +405,12 @@
     },
     {
       "game": "ミストバレー",
+      "site": "げん玉 (SmaAD)",
+      "ios": 218.4,
+      "android": 218.4
+    },
+    {
+      "game": "ミストバレー",
       "site": "モッピー",
       "ios": 216,
       "android": 216
@@ -432,12 +420,6 @@
       "site": "アメフリ",
       "ios": 196,
       "android": 196
-    },
-    {
-      "game": "ミストバレー",
-      "site": "げん玉 (SmaAD)",
-      "ios": 194.4,
-      "android": 194.4
     },
     {
       "game": "ミストバレー",
@@ -630,6 +612,48 @@
       "site": "アメフリ",
       "ios": 5888,
       "android": 6971
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "モッピー",
+      "ios": 5300,
+      "android": 5300
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "COINCOME",
+      "ios": 5300,
+      "android": 5300
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "Powl",
+      "ios": 5200,
+      "android": 5200
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "ハピタス (SKYFLAG)",
+      "ios": 5184,
+      "android": 3744
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "ワラウ",
+      "ios": 4800,
+      "android": 4800
+    },
+    {
+      "game": "三国志 戦乱",
+      "site": "Powl",
+      "ios": 1950,
+      "android": 0
+    },
+    {
+      "game": "三国志 戦乱",
+      "site": "COINCOME",
+      "ios": 857,
+      "android": 1145
     }
   ]
 }
