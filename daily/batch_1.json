@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-19",
+  "date": "2026-02-20",
   "results": [
     {
       "game": "Arkcraft",
@@ -137,25 +137,25 @@
       "game": "Dice Dreams",
       "site": "モッピー (AppDriver)",
       "ios": 25149,
-      "android": 29528
+      "android": 27976
     },
     {
       "game": "Dice Dreams",
       "site": "ハピタス (AppDriver)",
       "ios": 22659,
-      "android": 26602
+      "android": 25205
     },
     {
       "game": "Dice Dreams",
       "site": "げん玉 (AppDriver)",
       "ios": 21757.8,
-      "android": 25546.4
+      "android": 24124.1
     },
     {
       "game": "Dice Dreams",
       "site": "ちょびリッチ (AppDriver)",
       "ios": 21563,
-      "android": 25319.5
+      "android": 23910
     },
     {
       "game": "Dice Dreams",
@@ -220,8 +220,14 @@
     {
       "game": "IRIAM",
       "site": "げん玉 (SmaAD)",
-      "ios": 972,
-      "android": 972
+      "ios": 1092,
+      "android": 1092
+    },
+    {
+      "game": "IRIAM",
+      "site": "Powl",
+      "ios": 250,
+      "android": 250
     },
     {
       "game": "IRIAM",
@@ -234,12 +240,6 @@
       "site": "COINCOME (SKYFLAG)",
       "ios": 204,
       "android": 204
-    },
-    {
-      "game": "IRIAM",
-      "site": "Powl",
-      "ios": 200,
-      "android": 200
     },
     {
       "game": "IRIAM",
@@ -303,21 +303,33 @@
     },
     {
       "game": "Match Ninja",
-      "site": "ECナビ (Zucks)",
+      "site": "モッピー (AppDriver)",
       "ios": 0,
-      "android": 2495
+      "android": 2362
     },
     {
       "game": "Match Ninja",
-      "site": "モッピー (Zucks)",
+      "site": "ハピタス (AppDriver)",
       "ios": 0,
-      "android": 2444
+      "android": 2128
     },
     {
       "game": "Match Ninja",
-      "site": "げん玉 (Zucks)",
+      "site": "げん玉 (AppDriver)",
       "ios": 0,
-      "android": 2395.2
+      "android": 2047.1
+    },
+    {
+      "game": "Match Ninja",
+      "site": "ちょびリッチ (AppDriver)",
+      "ios": 0,
+      "android": 2028
+    },
+    {
+      "game": "Match Ninja",
+      "site": "Powl (AppDriver)",
+      "ios": 0,
+      "android": 1596.8
     },
     {
       "game": "Mirrativ",
