@@ -1,48 +1,6 @@
 {
-  "date": "2026-02-19",
+  "date": "2026-02-20",
   "results": [
-    {
-      "game": "三國志 真戦",
-      "site": "モッピー",
-      "ios": 5300,
-      "android": 5300
-    },
-    {
-      "game": "三國志 真戦",
-      "site": "COINCOME",
-      "ios": 5300,
-      "android": 5300
-    },
-    {
-      "game": "三國志 真戦",
-      "site": "Powl",
-      "ios": 5200,
-      "android": 5200
-    },
-    {
-      "game": "三國志 真戦",
-      "site": "ハピタス (SKYFLAG)",
-      "ios": 5184,
-      "android": 3744
-    },
-    {
-      "game": "三國志 真戦",
-      "site": "ワラウ",
-      "ios": 4800,
-      "android": 4800
-    },
-    {
-      "game": "三国志 戦乱",
-      "site": "Powl",
-      "ios": 1950,
-      "android": 0
-    },
-    {
-      "game": "三国志 戦乱",
-      "site": "COINCOME",
-      "ios": 857,
-      "android": 1145
-    },
     {
       "game": "信長の野望 天下への道",
       "site": "COINCOME",
@@ -254,12 +212,6 @@
       "android": 0
     },
     {
-      "game": "実りの地 レベル30",
-      "site": "ちょびリッチ (myChips)",
-      "ios": 1291.5,
-      "android": 0
-    },
-    {
       "game": "小森の宿 ららら",
       "site": "モッピー (GF Rewards)",
       "ios": 1172,
@@ -417,7 +369,7 @@
     },
     {
       "game": "杖と剣の伝説",
-      "site": "モッピー (AppDriver)",
+      "site": "モッピー",
       "ios": 7117,
       "android": 7117
     },
@@ -426,12 +378,6 @@
       "site": "ECナビ (Zucks)",
       "ios": 6545,
       "android": 6565
-    },
-    {
-      "game": "杖と剣の伝説",
-      "site": "ハピタス (AppDriver)",
-      "ios": 6412,
-      "android": 6412
     },
     {
       "game": "東京ディバンカー",
@@ -485,25 +431,25 @@
       "game": "異世界のんびりライフ",
       "site": "ECナビ (Zucks)",
       "ios": 0,
-      "android": 4035
+      "android": 2765
     },
     {
       "game": "異世界のんびりライフ",
       "site": "モッピー (Zucks)",
       "ios": 0,
-      "android": 3953
+      "android": 2709
     },
     {
       "game": "異世界のんびりライフ",
       "site": "げん玉 (Zucks)",
       "ios": 0,
-      "android": 3873.6
+      "android": 2654.4
     },
     {
       "game": "異世界のんびりライフ",
       "site": "ハピタス (Zucks)",
       "ios": 0,
-      "android": 3631
+      "android": 2488
     },
     {
       "game": "立ち上がれ アリ帝国",
@@ -516,6 +462,12 @@
       "site": "Powl",
       "ios": 1650.7,
       "android": 1650.7
+    },
+    {
+      "game": "タワーデスティニーサバイブ",
+      "site": "COINCOME",
+      "ios": 0,
+      "android": 2215
     },
     {
       "game": "タワーデスティニーサバイブ",
@@ -533,19 +485,19 @@
       "game": "タワーデスティニーサバイブ",
       "site": "モッピー (AppDriver)",
       "ios": 0,
-      "android": 2059
+      "android": 1950
     },
     {
       "game": "タワーデスティニーサバイブ",
       "site": "ハピタス (AppDriver)",
       "ios": 0,
-      "android": 1857
+      "android": 1760
     },
     {
-      "game": "タワーデスティニーサバイブ",
-      "site": "げん玉 (AppDriver)",
-      "ios": 0,
-      "android": 1787.8
+      "game": "金とゴブリンの採掘ゲーム",
+      "site": "げん玉 (SmaAD)",
+      "ios": 3749.2,
+      "android": 3749.2
     },
     {
       "game": "金とゴブリンの採掘ゲーム",
@@ -564,12 +516,6 @@
       "site": "アメフリ",
       "ios": 3378,
       "android": 3378
-    },
-    {
-      "game": "金とゴブリンの採掘ゲーム",
-      "site": "げん玉 (SmaAD)",
-      "ios": 3337.2,
-      "android": 3337.2
     }
   ]
 }

@@ -2750,6 +2750,261 @@
       "game": "タワーデスティニーサバイブ",
       "type": "site_changed",
       "detail": "最高額サイト変更: モッピー (AppDriver) → ワラウ"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "Dice Dreams",
+      "type": "price_changed",
+      "site": "モッピー (AppDriver)",
+      "detail": "Android 29528→27976円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "Dice Dreams",
+      "type": "price_changed",
+      "site": "ハピタス (AppDriver)",
+      "detail": "Android 26602→25205円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "Dice Dreams",
+      "type": "price_changed",
+      "site": "げん玉 (AppDriver)",
+      "detail": "Android 25546.4→24124.1円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "Dice Dreams",
+      "type": "price_changed",
+      "site": "ちょびリッチ (AppDriver)",
+      "detail": "Android 25319.5→23910円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "IRIAM",
+      "type": "price_changed",
+      "site": "げん玉 (SmaAD)",
+      "detail": "iOS 972→1092円 / Android 972→1092円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "IRIAM",
+      "type": "price_changed",
+      "site": "Powl",
+      "detail": "iOS 200→250円 / Android 200→250円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "Match Ninja",
+      "type": "new",
+      "site": "モッピー (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 2362円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "Match Ninja",
+      "type": "new",
+      "site": "ハピタス (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 2128円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "Match Ninja",
+      "type": "new",
+      "site": "げん玉 (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 2047.1円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "Match Ninja",
+      "type": "new",
+      "site": "ちょびリッチ (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 2028円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "Match Ninja",
+      "type": "new",
+      "site": "Powl (AppDriver)",
+      "detail": "新規掲載: iOS -円 / Android 1596.8円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "コインマスター",
+      "type": "new",
+      "site": "モッピー (AppDriver)",
+      "detail": "新規掲載: iOS 3652円 / Android 3652円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "コインマスター",
+      "type": "new",
+      "site": "ハピタス (AppDriver)",
+      "detail": "新規掲載: iOS 3292円 / Android 3292円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "コインマスター",
+      "type": "new",
+      "site": "ワラウ",
+      "detail": "新規掲載: iOS 3200円 / Android 3200円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "コインマスター",
+      "type": "new",
+      "site": "Powl (AppDriver)",
+      "detail": "新規掲載: iOS 2605.6円 / Android 2605.6円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "パズル サバイバル",
+      "type": "price_changed",
+      "site": "ハピタス (AppDriver)",
+      "detail": "Android 32171→30477円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "ミストバレー",
+      "type": "price_changed",
+      "site": "げん玉 (SmaAD)",
+      "detail": "iOS 194.4→218.4円 / Android 194.4→218.4円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "杖と剣の伝説",
+      "type": "new",
+      "site": "モッピー",
+      "detail": "新規掲載: iOS 7117円 / Android 7117円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "異世界のんびりライフ",
+      "type": "price_changed",
+      "site": "ECナビ (Zucks)",
+      "detail": "Android 4035→2765円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "異世界のんびりライフ",
+      "type": "price_changed",
+      "site": "モッピー (Zucks)",
+      "detail": "Android 3953→2709円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "異世界のんびりライフ",
+      "type": "price_changed",
+      "site": "げん玉 (Zucks)",
+      "detail": "Android 3873.6→2654.4円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "異世界のんびりライフ",
+      "type": "price_changed",
+      "site": "ハピタス (Zucks)",
+      "detail": "Android 3631→2488円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "タワーデスティニーサバイブ",
+      "type": "new",
+      "site": "COINCOME",
+      "detail": "新規掲載: iOS -円 / Android 2215円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "タワーデスティニーサバイブ",
+      "type": "price_changed",
+      "site": "モッピー (AppDriver)",
+      "detail": "Android 2059→1950円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "タワーデスティニーサバイブ",
+      "type": "price_changed",
+      "site": "ハピタス (AppDriver)",
+      "detail": "Android 1857→1760円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "金とゴブリンの採掘ゲーム",
+      "type": "price_changed",
+      "site": "げん玉 (SmaAD)",
+      "detail": "iOS 3337.2→3749.2円 / Android 3337.2→3749.2円"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "Match Ninja",
+      "type": "removed",
+      "site": "ECナビ (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2495円）"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "Match Ninja",
+      "type": "removed",
+      "site": "モッピー (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2444円）"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "Match Ninja",
+      "type": "removed",
+      "site": "げん玉 (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2395.2円）"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "実りの地 レベル30",
+      "type": "removed",
+      "site": "ちょびリッチ (myChips)",
+      "detail": "掲載終了（前回: iOS 1291.5円 / Android -円）"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "杖と剣の伝説",
+      "type": "removed",
+      "site": "モッピー (AppDriver)",
+      "detail": "掲載終了（前回: iOS 7117円 / Android 7117円）"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "杖と剣の伝説",
+      "type": "removed",
+      "site": "ハピタス (AppDriver)",
+      "detail": "掲載終了（前回: iOS 6412円 / Android 6412円）"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "タワーデスティニーサバイブ",
+      "type": "removed",
+      "site": "げん玉 (AppDriver)",
+      "detail": "掲載終了（前回: iOS -円 / Android 1787.8円）"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "Match Ninja",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ECナビ (Zucks) → モッピー (AppDriver)"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "杖と剣の伝説",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: モッピー (AppDriver) → モッピー"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "タワーデスティニーサバイブ",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ワラウ → COINCOME"
+    },
+    {
+      "date": "2026-02-20",
+      "game": "金とゴブリンの採掘ゲーム",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ポイントインカム (SmaAD) → げん玉 (SmaAD)"
     }
   ]
 }

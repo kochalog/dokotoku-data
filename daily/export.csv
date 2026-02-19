@@ -20,10 +20,10 @@ DORAKEN,アメフリ,460,460
 DORAKEN,ちょびリッチ (GF Rewards),455,455
 DORAKEN,ワラウ (GF Rewards),336,336
 DORAKEN,COINCOME,280,280
-Dice Dreams,モッピー (AppDriver),25149,29528
-Dice Dreams,ハピタス (AppDriver),22659,26602
-Dice Dreams,げん玉 (AppDriver),21757.8,25546.4
-Dice Dreams,ちょびリッチ (AppDriver),21563,25319.5
+Dice Dreams,モッピー (AppDriver),25149,27976
+Dice Dreams,ハピタス (AppDriver),22659,25205
+Dice Dreams,げん玉 (AppDriver),21757.8,24124.1
+Dice Dreams,ちょびリッチ (AppDriver),21563,23910
 Dice Dreams,Powl (AppDriver),16966.4,19920
 Domino Dreams,モッピー (myChips),25835,7042
 Domino Dreams,ハピタス (AppDriver),19998,20440
@@ -34,10 +34,10 @@ Freecash,ECナビ (Zucks),31950,19675
 Gold Miner,ECナビ (Zucks),0,2500
 Gold Miner,モッピー (Zucks),0,2449
 Gold Miner,げん玉 (Zucks),0,2400
-IRIAM,げん玉 (SmaAD),972,972
+IRIAM,げん玉 (SmaAD),1092,1092
+IRIAM,Powl,250,250
 IRIAM,モッピー,228,228
 IRIAM,COINCOME (SKYFLAG),204,204
-IRIAM,Powl,200,200
 IRIAM,ワラウ (SKYFLAG),197,197
 Idle Bank Tycoon,モッピー,170,0
 Knife Ninja,ECナビ (Zucks),0,2500
@@ -48,9 +48,11 @@ MONEY CASH,ハピタス (myChips),0,1900
 MONEY CASH,Powl (myChips),0,1900
 MONEY CASH,ワラウ (myChips),0,1842
 MONEY CASH,COINCOME (myChips),0,1842
-Match Ninja,ECナビ (Zucks),0,2495
-Match Ninja,モッピー (Zucks),0,2444
-Match Ninja,げん玉 (Zucks),0,2395.2
+Match Ninja,モッピー (AppDriver),0,2362
+Match Ninja,ハピタス (AppDriver),0,2128
+Match Ninja,げん玉 (AppDriver),0,2047.1
+Match Ninja,ちょびリッチ (AppDriver),0,2028
+Match Ninja,Powl (AppDriver),0,1596.8
 Mirrativ,Powl (AppDriver),0,998.4
 Mirrativ,モッピー,807,807
 Mirrativ,COINCOME (SKYFLAG),723,723
@@ -118,6 +120,10 @@ Tower Challenge,COINCOME,0,157
 カジノ ジャックポットワールド,ちょびリッチ (GF Rewards),3068,0
 クロンダイクの冒険,Powl,915,600
 クロンダイクの冒険,COINCOME,484,518
+コインマスター,モッピー (AppDriver),3652,3652
+コインマスター,ハピタス (AppDriver),3292,3292
+コインマスター,ワラウ,3200,3200
+コインマスター,Powl (AppDriver),2605.6,2605.6
 ゴールデンタイガー,ECナビ,720,720
 ザ アンツ,ワラウ,9200,9200
 ザ アンツ,モッピー (SKYFLAG),6890,8857
@@ -174,7 +180,7 @@ Tower Challenge,COINCOME,0,157
 パイレーツ オブ カリビアン,げん玉 (GF Rewards),1276.3,0
 パイレーツ オブ カリビアン,dジョブ スマホワーク,0,1100
 パズル サバイバル,モッピー (AppDriver),38696,38690
-パズル サバイバル,ハピタス (AppDriver),34861,32171
+パズル サバイバル,ハピタス (AppDriver),34861,30477
 パズル サバイバル,ECナビ (Zucks),33435,0
 パズル＆カオス,ECナビ (Zucks),20450,20450
 パズル＆カオス,モッピー (Zucks),20040,20040
@@ -221,9 +227,9 @@ Tower Challenge,COINCOME,0,157
 ミクチャ,ワラウ,1750,1750
 ミクチャ,Powl,1750,1750
 ミストバレー,Powl,220,220
+ミストバレー,げん玉 (SmaAD),218.4,218.4
 ミストバレー,モッピー,216,216
 ミストバレー,アメフリ,196,196
-ミストバレー,げん玉 (SmaAD),194.4,194.4
 ミストバレー,ワラウ (SmaAD),194,194
 メカアサルト,ワラウ,1750,1940
 メカアサルト,モッピー (SKYFLAG),1122,1938
@@ -298,7 +304,6 @@ Tower Challenge,COINCOME,0,157
 実りの地 レベル30,げん玉 (myChips),1402.9,0
 実りの地 レベル30,ハピタス (myChips),1299,0
 実りの地 レベル30,Powl (myChips),1298.9,0
-実りの地 レベル30,ちょびリッチ (myChips),1291.5,0
 小森の宿 ららら,モッピー (GF Rewards),1172,1172
 小森の宿 ららら,げん玉 (GF Rewards),1164.3,1164.3
 小森の宿 ららら,アメフリ,909,909
@@ -325,9 +330,8 @@ Tower Challenge,COINCOME,0,157
 旦那様の一発逆転人生,ワラウ (SKYFLAG),8449,7028
 旦那様の一発逆転人生,ポイントインカム (SKYFLAG),6941.6,8345.4
 木こりの帝国,COINCOME,1150,0
-杖と剣の伝説,モッピー (AppDriver),7117,7117
+杖と剣の伝説,モッピー,7117,7117
 杖と剣の伝説,ECナビ (Zucks),6545,6565
-杖と剣の伝説,ハピタス (AppDriver),6412,6412
 東京ディバンカー,モッピー,220,220
 東京ディバンカー,ワラウ,210,210
 東京ディバンカー,COINCOME,205,205
@@ -336,18 +340,18 @@ Tower Challenge,COINCOME,0,157
 原神,ECナビ,440,440
 獅子の如く,Powl,5700,5700
 王国のドラゴン,COINCOME,0,2804
-異世界のんびりライフ,ECナビ (Zucks),0,4035
-異世界のんびりライフ,モッピー (Zucks),0,3953
-異世界のんびりライフ,げん玉 (Zucks),0,3873.6
-異世界のんびりライフ,ハピタス (Zucks),0,3631
+異世界のんびりライフ,ECナビ (Zucks),0,2765
+異世界のんびりライフ,モッピー (Zucks),0,2709
+異世界のんびりライフ,げん玉 (Zucks),0,2654.4
+異世界のんびりライフ,ハピタス (Zucks),0,2488
 立ち上がれ アリ帝国,COINCOME,4032,4030
 聖霊伝説,Powl,1650.7,1650.7
+タワーデスティニーサバイブ,COINCOME,0,2215
 タワーデスティニーサバイブ,ワラウ,0,2200
 タワーデスティニーサバイブ,ちょびリッチ,0,2136
-タワーデスティニーサバイブ,モッピー (AppDriver),0,2059
-タワーデスティニーサバイブ,ハピタス (AppDriver),0,1857
-タワーデスティニーサバイブ,げん玉 (AppDriver),0,1787.8
+タワーデスティニーサバイブ,モッピー (AppDriver),0,1950
+タワーデスティニーサバイブ,ハピタス (AppDriver),0,1760
+金とゴブリンの採掘ゲーム,げん玉 (SmaAD),3749.2,3749.2
 金とゴブリンの採掘ゲーム,ポイントインカム (SmaAD),3685.5,3685.5
 金とゴブリンの採掘ゲーム,Powl,3520,3520
 金とゴブリンの採掘ゲーム,アメフリ,3378,3378
-金とゴブリンの採掘ゲーム,げん玉 (SmaAD),3337.2,3337.2
