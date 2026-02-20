@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-20",
+  "date": "2026-02-21",
   "results": [
     {
       "game": "Arkcraft",
@@ -39,15 +39,15 @@
     },
     {
       "game": "Cash Giraffe",
-      "site": "ECナビ (Zucks)",
+      "site": "ハピタス (Zucks)",
       "ios": 0,
-      "android": 3400
+      "android": 3420
     },
     {
       "game": "Cash Giraffe",
-      "site": "ハピタス (Zucks)",
+      "site": "ECナビ (Zucks)",
       "ios": 0,
-      "android": 3240
+      "android": 3400
     },
     {
       "game": "Cash Giraffe",
@@ -195,7 +195,13 @@
     },
     {
       "game": "Freecash",
-      "site": "ECナビ (Zucks)",
+      "site": "ハピタス (Zucks)",
+      "ios": 31985,
+      "android": 19273
+    },
+    {
+      "game": "Freecash",
+      "site": "ECナビ",
       "ios": 31950,
       "android": 19675
     },
@@ -216,6 +222,12 @@
       "site": "げん玉 (Zucks)",
       "ios": 0,
       "android": 2400
+    },
+    {
+      "game": "Gold Miner",
+      "site": "ハピタス (Zucks)",
+      "ios": 0,
+      "android": 2373
     },
     {
       "game": "IRIAM",
@@ -272,34 +284,40 @@
       "android": 2400
     },
     {
-      "game": "MONEY CASH",
-      "site": "モッピー",
+      "game": "Knife Ninja",
+      "site": "ハピタス (Zucks)",
       "ios": 0,
-      "android": 2150
-    },
-    {
-      "game": "MONEY CASH",
-      "site": "ハピタス (myChips)",
-      "ios": 0,
-      "android": 1900
+      "android": 2373
     },
     {
       "game": "MONEY CASH",
       "site": "Powl (myChips)",
-      "ios": 0,
-      "android": 1900
+      "ios": 725.2,
+      "android": 2424.3
+    },
+    {
+      "game": "MONEY CASH",
+      "site": "ハピタス (myChips)",
+      "ios": 725,
+      "android": 2424
     },
     {
       "game": "MONEY CASH",
       "site": "ワラウ (myChips)",
-      "ios": 0,
-      "android": 1842
+      "ios": 703,
+      "android": 2351
     },
     {
       "game": "MONEY CASH",
       "site": "COINCOME (myChips)",
+      "ios": 703,
+      "android": 2351
+    },
+    {
+      "game": "MONEY CASH",
+      "site": "モッピー",
       "ios": 0,
-      "android": 1842
+      "android": 2150
     },
     {
       "game": "Match Ninja",
@@ -369,39 +387,51 @@
     },
     {
       "game": "Mistplay",
+      "site": "Powl",
+      "ios": 0,
+      "android": 7500
+    },
+    {
+      "game": "Mistplay",
       "site": "げん玉 (Zucks)",
       "ios": 0,
       "android": 7430.4
     },
     {
       "game": "Mistplay",
-      "site": "ECナビ (Zucks)",
+      "site": "ハピタス (Zucks)",
       "ios": 0,
-      "android": 7350
+      "android": 7352
     },
     {
       "game": "PLAYTIME",
       "site": "モッピー",
       "ios": 0,
-      "android": 1250
+      "android": 1800
     },
     {
       "game": "PLAYTIME",
       "site": "ポイントタウン",
       "ios": 0,
-      "android": 412
+      "android": 646
     },
     {
       "game": "PLAYTIME",
-      "site": "ECナビ",
+      "site": "げん玉 (myChips)",
       "ios": 0,
-      "android": 300
+      "android": 645.5
     },
     {
       "game": "PLAYTIME",
-      "site": "アメフリ",
+      "site": "ハピタス (myChips)",
       "ios": 0,
-      "android": 170
+      "android": 598
+    },
+    {
+      "game": "PLAYTIME",
+      "site": "Powl (myChips)",
+      "ios": 0,
+      "android": 597.7
     },
     {
       "game": "Pococha",
@@ -465,18 +495,6 @@
     },
     {
       "game": "Solve Earn",
-      "site": "げん玉 (AppDriver)",
-      "ios": 0,
-      "android": 2047.1
-    },
-    {
-      "game": "Solve Earn",
-      "site": "楽天ポイ活ミッション特集 (AppDriver)",
-      "ios": 0,
-      "android": 1746
-    },
-    {
-      "game": "Solve Earn",
       "site": "COINCOME",
       "ios": 0,
       "android": 1149
@@ -507,18 +525,6 @@
     },
     {
       "game": "Tap & Earn",
-      "site": "げん玉 (AppDriver)",
-      "ios": 0,
-      "android": 2050.7
-    },
-    {
-      "game": "Tap & Earn",
-      "site": "楽天ポイ活ミッション特集 (AppDriver)",
-      "ios": 0,
-      "android": 1749
-    },
-    {
-      "game": "Tap & Earn",
       "site": "Powl",
       "ios": 0,
       "android": 1500
@@ -528,6 +534,12 @@
       "site": "COINCOME",
       "ios": 0,
       "android": 1182
+    },
+    {
+      "game": "Tap & Earn",
+      "site": "げん玉",
+      "ios": 0,
+      "android": 530
     },
     {
       "game": "Tower Challenge",
