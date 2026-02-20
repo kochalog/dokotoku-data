@@ -1,11 +1,17 @@
 {
-  "date": "2026-02-20",
+  "date": "2026-02-21",
   "results": [
     {
       "game": "信長の野望 天下への道",
       "site": "COINCOME",
       "ios": 2905,
       "android": 0
+    },
+    {
+      "game": "信長の野望 真戦",
+      "site": "げん玉",
+      "ios": 5250,
+      "android": 5250
     },
     {
       "game": "信長の野望 真戦",
@@ -26,10 +32,10 @@
       "android": 5000
     },
     {
-      "game": "信長の野望 真戦",
-      "site": "げん玉",
-      "ios": 5000,
-      "android": 5000
+      "game": "出荷ぶた",
+      "site": "ECナビ (Zucks)",
+      "ios": 13700,
+      "android": 13700
     },
     {
       "game": "出荷ぶた",
@@ -48,12 +54,6 @@
       "site": "ちょびリッチ (AppDriver)",
       "ios": 13014.5,
       "android": 13014.5
-    },
-    {
-      "game": "出荷ぶた",
-      "site": "ワラウ",
-      "ios": 12820,
-      "android": 12820
     },
     {
       "game": "商人放浪記",
@@ -260,6 +260,12 @@
       "android": 2352
     },
     {
+      "game": "成り上がり 華と武の戦国",
+      "site": "ハピタス (Zucks)",
+      "ios": 4492,
+      "android": 2326
+    },
+    {
       "game": "我が天下 伝説武将",
       "site": "モッピー (SKYFLAG)",
       "ios": 9782,
@@ -416,6 +422,12 @@
       "android": 440
     },
     {
+      "game": "原神",
+      "site": "げん玉",
+      "ios": 25,
+      "android": 0
+    },
+    {
       "game": "獅子の如く",
       "site": "Powl",
       "ios": 5700,
@@ -449,7 +461,7 @@
       "game": "異世界のんびりライフ",
       "site": "ハピタス (Zucks)",
       "ios": 0,
-      "android": 2488
+      "android": 2624
     },
     {
       "game": "立ち上がれ アリ帝国",
@@ -483,15 +495,15 @@
     },
     {
       "game": "タワーデスティニーサバイブ",
-      "site": "モッピー (AppDriver)",
+      "site": "モッピー (GF Rewards)",
       "ios": 0,
-      "android": 1950
+      "android": 2110
     },
     {
       "game": "タワーデスティニーサバイブ",
-      "site": "ハピタス (AppDriver)",
+      "site": "げん玉 (GF Rewards)",
       "ios": 0,
-      "android": 1760
+      "android": 2094.8
     },
     {
       "game": "金とゴブリンの採掘ゲーム",

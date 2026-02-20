@@ -4,8 +4,8 @@ Arkcraft,アメフリ,0,3714
 Arkcraft,ちょびリッチ (GF Rewards),0,3674.5
 Bravoカジノ,げん玉 (AppDriver),1231.2,1231.2
 Bravoカジノ,Powl (AppDriver),960,960
+Cash Giraffe,ハピタス (Zucks),0,3420
 Cash Giraffe,ECナビ (Zucks),0,3400
-Cash Giraffe,ハピタス (Zucks),0,3240
 Cash Giraffe,げん玉,0,3000
 Cash Mafia,げん玉 (AppDriver),0,2050.7
 Cash Mafia,楽天ポイ活ミッション特集 (AppDriver),0,1749
@@ -30,10 +30,12 @@ Domino Dreams,ハピタス (AppDriver),19998,20440
 Empires & Puzzles,COINCOME,3340,0
 Freecash,モッピー (GF Rewards),34020,0
 Freecash,げん玉 (GF Rewards),33657,10800
-Freecash,ECナビ (Zucks),31950,19675
+Freecash,ハピタス (Zucks),31985,19273
+Freecash,ECナビ,31950,19675
 Gold Miner,ECナビ (Zucks),0,2500
 Gold Miner,モッピー (Zucks),0,2449
 Gold Miner,げん玉 (Zucks),0,2400
+Gold Miner,ハピタス (Zucks),0,2373
 IRIAM,げん玉 (SmaAD),1092,1092
 IRIAM,Powl,250,250
 IRIAM,モッピー,228,228
@@ -43,11 +45,12 @@ Idle Bank Tycoon,モッピー,170,0
 Knife Ninja,ECナビ (Zucks),0,2500
 Knife Ninja,モッピー (Zucks),0,2449
 Knife Ninja,げん玉 (Zucks),0,2400
+Knife Ninja,ハピタス (Zucks),0,2373
+MONEY CASH,Powl (myChips),725.2,2424.3
+MONEY CASH,ハピタス (myChips),725,2424
+MONEY CASH,ワラウ (myChips),703,2351
+MONEY CASH,COINCOME (myChips),703,2351
 MONEY CASH,モッピー,0,2150
-MONEY CASH,ハピタス (myChips),0,1900
-MONEY CASH,Powl (myChips),0,1900
-MONEY CASH,ワラウ (myChips),0,1842
-MONEY CASH,COINCOME (myChips),0,1842
 Match Ninja,モッピー (AppDriver),0,2362
 Match Ninja,ハピタス (AppDriver),0,2128
 Match Ninja,げん玉 (AppDriver),0,2047.1
@@ -59,12 +62,14 @@ Mirrativ,COINCOME (SKYFLAG),723,723
 Mirrativ,ワラウ,710,710
 Mirrativ,アメフリ,697,697
 Mistplay,モッピー (Zucks),0,7582
+Mistplay,Powl,0,7500
 Mistplay,げん玉 (Zucks),0,7430.4
-Mistplay,ECナビ (Zucks),0,7350
-PLAYTIME,モッピー,0,1250
-PLAYTIME,ポイントタウン,0,412
-PLAYTIME,ECナビ,0,300
-PLAYTIME,アメフリ,0,170
+Mistplay,ハピタス (Zucks),0,7352
+PLAYTIME,モッピー,0,1800
+PLAYTIME,ポイントタウン,0,646
+PLAYTIME,げん玉 (myChips),0,645.5
+PLAYTIME,ハピタス (myChips),0,598
+PLAYTIME,Powl (myChips),0,597.7
 Pococha,モッピー,2700,2700
 Pococha,Powl (AppDriver),2560,0
 Pococha,ハピタス,2010,2010
@@ -75,28 +80,25 @@ Sky 星を紡ぐ子どもたち,Powl,2300,1800
 Sky 星を紡ぐ子どもたち,モッピー (SKYFLAG),2139,1796
 Sky 星を紡ぐ子どもたち,COINCOME (SKYFLAG),2139,1796
 Sky 星を紡ぐ子どもたち,ワラウ,2100,1740
-Solve Earn,げん玉 (AppDriver),0,2047.1
-Solve Earn,楽天ポイ活ミッション特集 (AppDriver),0,1746
 Solve Earn,COINCOME,0,1149
 Supreme King,COINCOME,690,0
 Supreme King,げん玉 (GF Rewards),0,485.6
 Supreme King,Powl,0,400
 Supreme King,アメフリ,0,373
-Tap & Earn,げん玉 (AppDriver),0,2050.7
-Tap & Earn,楽天ポイ活ミッション特集 (AppDriver),0,1749
 Tap & Earn,Powl,0,1500
 Tap & Earn,COINCOME,0,1182
+Tap & Earn,げん玉,0,530
 Tower Challenge,COINCOME,0,157
 この監獄ほんmoneyすぎんご,ECナビ (Zucks),0,7850
 この監獄ほんmoneyすぎんご,モッピー (Zucks),0,7691
 この監獄ほんmoneyすぎんご,げん玉 (Zucks),0,7536
-この監獄ほんmoneyすぎんご,ハピタス (Zucks),0,7065
+この監獄ほんmoneyすぎんご,ハピタス (Zucks),0,7454
 やばい 少女に囲まれた,COINCOME,24,0
 ようとん場MIX,ワラウ,200,174
 ようとん場MIX,アメフリ,195,165
 ようとん場MIX,COINCOME,120,102
 ようとん場MIX,Powl,85,70
-ようとん場MIX,げん玉,66.3,54.6
+ようとん場MIX,げん玉,66.3,0
 すみっコぐらし 農園つくるんです,モッピー (AppDriver),3925,3925
 すみっコぐらし 農園つくるんです,ハピタス (AppDriver),3537,3537
 すみっコぐらし 農園つくるんです,げん玉 (AppDriver),3397.9,3397.9
@@ -115,23 +117,23 @@ Tower Challenge,COINCOME,0,157
 エバーテイル,ちょびリッチ,260,208
 カジノ ジャックポットワールド,モッピー,3213,12833
 カジノ ジャックポットワールド,げん玉 (GF Rewards),4044.6,0
-カジノ ジャックポットワールド,COINCOME,3335,0
 カジノ ジャックポットワールド,アメフリ,3104,0
 カジノ ジャックポットワールド,ちょびリッチ (GF Rewards),3068,0
+カジノ ジャックポットワールド,ワラウ (GF Rewards),2270,0
 クロンダイクの冒険,Powl,915,600
 クロンダイクの冒険,COINCOME,484,518
 コインマスター,モッピー (AppDriver),3652,3652
 コインマスター,ハピタス (AppDriver),3292,3292
-コインマスター,ワラウ,3200,3200
+コインマスター,ワラウ,3100,3100
 コインマスター,Powl (AppDriver),2605.6,2605.6
 ゴールデンタイガー,ECナビ,720,720
 ザ アンツ,ワラウ,9200,9200
 ザ アンツ,モッピー (SKYFLAG),6890,8857
 ザ アンツ,ちょびリッチ (SKYFLAG),8335,8725.5
-ザ グランド マフィア,げん玉 (GF Rewards),0,144112.2
-ザ グランド マフィア,ちょびリッチ (GF Rewards),0,111543
+ザ グランド マフィア,げん玉 (GF Rewards),0,93359.5
 ザ グランド マフィア,Powl,0,76360
 ザ グランド マフィア,ハピタス (SKYFLAG),75377,75377
+ザ グランド マフィア,ちょびリッチ (GF Rewards),0,72260.5
 ザ グランド マフィア,モッピー (SKYFLAG),71187,71187
 スーパーラッキーカジノ,げん玉 (GF Rewards),10811.2,9804.3
 スーパーラッキーカジノ,アメフリ,8469,7679
@@ -182,18 +184,17 @@ Tower Challenge,COINCOME,0,157
 パズル サバイバル,モッピー (AppDriver),38696,38690
 パズル サバイバル,ハピタス (AppDriver),34861,30477
 パズル サバイバル,ECナビ (Zucks),33435,0
+パズル＆カオス,ハピタス (Zucks),20472,20472
 パズル＆カオス,ECナビ (Zucks),20450,20450
 パズル＆カオス,モッピー (Zucks),20040,20040
-パズル＆カオス,げん玉 (Zucks),19632,19632
-パズル＆カオス,ハピタス (Zucks),19395,19395
 パズル＆コンクエスト,ECナビ (Zucks),52130,48500
 パズル＆コンクエスト,モッピー (Zucks),51087,47530
 パズル＆コンクエスト,げん玉 (Zucks),50044.8,46560
+ヒーローウォーズアライアンス,ちょびリッチ (myChips),0,6528
+ヒーローウォーズアライアンス,ワラウ (myChips),0,6368
+ヒーローウォーズアライアンス,アメフリ,2925,3201
 ヒーローウォーズアライアンス,モッピー (SKYFLAG),1516,3036
 ヒーローウォーズアライアンス,COINCOME (SKYFLAG),3036,3036
-ヒーローウォーズアライアンス,ワラウ (SKYFLAG),2928,2928
-ヒーローウォーズアライアンス,アメフリ,2925,2925
-ヒーローウォーズアライアンス,ポイントインカム (SKYFLAG),1444.3,2892.6
 ファミリーアイランド,Powl (SKYFLAG),0,1750.4
 ファミリーアイランド,ワラウ,1500,0
 ファミリーアイランド,ECナビ,0,600
@@ -211,7 +212,7 @@ Tower Challenge,COINCOME,0,157
 ブラウザ三国志天,ECナビ (Zucks),19780,0
 ブラウザ三国志天,モッピー (Zucks),19383,0
 ブラウザ三国志天,げん玉 (Zucks),18988.8,0
-ブラウザ三国志天,ハピタス (Zucks),17802,0
+ブラウザ三国志天,ハピタス (Zucks),18790,0
 ホワイトアウト サバイバル,ワラウ,8300,8300
 ホワイトアウト サバイバル,COINCOME,8100,8100
 ホワイトアウト サバイバル,Powl,7570,7570
@@ -244,12 +245,12 @@ Tower Challenge,COINCOME,0,157
 モーマンタイム,ECナビ (Zucks),13000,13000
 モーマンタイム,モッピー (Zucks),12738,12738
 モーマンタイム,げん玉 (Zucks),11491.2,11491.2
-ライフアフター,COINCOME,875,875
 ライフアフター,ワラウ,870,870
+ライフアフター,COINCOME,525,525
+リヴリーアイランド,ポイントインカム (myChips),9969.4,6569.8
 リヴリーアイランド,モッピー,9804,8441
-リヴリーアイランド,ハピタス (AppDriver),2984,2984
-リヴリーアイランド,げん玉 (AppDriver),2872.4,2872.4
-リヴリーアイランド,ちょびリッチ (AppDriver),2845,2845
+リヴリーアイランド,ハピタス (myChips),8280,6910
+リヴリーアイランド,ワラウ (myChips),7795,5759
 レイドラッシュ,ワラウ,5200,5200
 レイドラッシュ,モッピー (AppDriver),0,3891
 レイドラッシュ,ハピタス (AppDriver),0,3506
@@ -270,14 +271,14 @@ Tower Challenge,COINCOME,0,157
 三国志 戦乱,Powl,1950,0
 三国志 戦乱,COINCOME,857,1145
 信長の野望 天下への道,COINCOME,2905,0
+信長の野望 真戦,げん玉,5250,5250
 信長の野望 真戦,モッピー (AppDriver),5219,5219
 信長の野望 真戦,ワラウ,5000,5000
 信長の野望 真戦,Powl,5000,5000
-信長の野望 真戦,げん玉,5000,5000
+出荷ぶた,ECナビ (Zucks),13700,13700
 出荷ぶた,ハピタス (AppDriver),13674,13674
 出荷ぶた,げん玉 (AppDriver),13132.1,13132.1
 出荷ぶた,ちょびリッチ (AppDriver),13014.5,13014.5
-出荷ぶた,ワラウ,12820,12820
 商人放浪記,ワラウ,18750,18750
 商人放浪記,ハピタス (SKYFLAG),13108,17554
 商人放浪記,モッピー (SKYFLAG),16507,16507
@@ -312,6 +313,7 @@ Tower Challenge,COINCOME,0,157
 成り上がり 華と武の戦国,ECナビ (Zucks),4730,2450
 成り上がり 華と武の戦国,モッピー (Zucks),4633,2399
 成り上がり 華と武の戦国,げん玉 (Zucks),4540.8,2352
+成り上がり 華と武の戦国,ハピタス (Zucks),4492,2326
 我が天下 伝説武将,モッピー (SKYFLAG),9782,0
 我が天下 伝説武将,Powl,8800,0
 我が天下 伝説武将,ワラウ (SKYFLAG),8360,0
@@ -338,19 +340,20 @@ Tower Challenge,COINCOME,0,157
 東京ディバンカー,Powl,200,200
 原神,Powl,500,500
 原神,ECナビ,440,440
+原神,げん玉,25,0
 獅子の如く,Powl,5700,5700
 王国のドラゴン,COINCOME,0,2804
 異世界のんびりライフ,ECナビ (Zucks),0,2765
 異世界のんびりライフ,モッピー (Zucks),0,2709
 異世界のんびりライフ,げん玉 (Zucks),0,2654.4
-異世界のんびりライフ,ハピタス (Zucks),0,2488
+異世界のんびりライフ,ハピタス (Zucks),0,2624
 立ち上がれ アリ帝国,COINCOME,4032,4030
 聖霊伝説,Powl,1650.7,1650.7
 タワーデスティニーサバイブ,COINCOME,0,2215
 タワーデスティニーサバイブ,ワラウ,0,2200
 タワーデスティニーサバイブ,ちょびリッチ,0,2136
-タワーデスティニーサバイブ,モッピー (AppDriver),0,1950
-タワーデスティニーサバイブ,ハピタス (AppDriver),0,1760
+タワーデスティニーサバイブ,モッピー (GF Rewards),0,2110
+タワーデスティニーサバイブ,げん玉 (GF Rewards),0,2094.8
 金とゴブリンの採掘ゲーム,げん玉 (SmaAD),3749.2,3749.2
 金とゴブリンの採掘ゲーム,ポイントインカム (SmaAD),3685.5,3685.5
 金とゴブリンの採掘ゲーム,Powl,3520,3520
