@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-21",
+  "date": "2026-02-22",
   "results": [
     {
       "game": "Arkcraft",
@@ -87,15 +87,9 @@
     },
     {
       "game": "Color Sing",
-      "site": "Powl",
-      "ios": 700,
-      "android": 700
-    },
-    {
-      "game": "Color Sing",
-      "site": "アメフリ",
-      "ios": 656,
-      "android": 656
+      "site": "Powl (SKYFLAG)",
+      "ios": 704,
+      "android": 704
     },
     {
       "game": "Count & Earn",
@@ -254,12 +248,6 @@
       "android": 204
     },
     {
-      "game": "IRIAM",
-      "site": "ワラウ (SKYFLAG)",
-      "ios": 197,
-      "android": 197
-    },
-    {
       "game": "Idle Bank Tycoon",
       "site": "モッピー",
       "ios": 170,
@@ -374,12 +362,6 @@
       "android": 710
     },
     {
-      "game": "Mirrativ",
-      "site": "アメフリ",
-      "ios": 697,
-      "android": 697
-    },
-    {
       "game": "Mistplay",
       "site": "モッピー (Zucks)",
       "ios": 0,
@@ -411,12 +393,6 @@
     },
     {
       "game": "PLAYTIME",
-      "site": "ポイントタウン",
-      "ios": 0,
-      "android": 646
-    },
-    {
-      "game": "PLAYTIME",
       "site": "げん玉 (myChips)",
       "ios": 0,
       "android": 645.5
@@ -432,6 +408,12 @@
       "site": "Powl (myChips)",
       "ios": 0,
       "android": 597.7
+    },
+    {
+      "game": "PLAYTIME",
+      "site": "ちょびリッチ (myChips)",
+      "ios": 0,
+      "android": 594
     },
     {
       "game": "Pococha",
@@ -534,12 +516,6 @@
       "site": "COINCOME",
       "ios": 0,
       "android": 1182
-    },
-    {
-      "game": "Tap & Earn",
-      "site": "げん玉",
-      "ios": 0,
-      "android": 530
     },
     {
       "game": "Tower Challenge",
