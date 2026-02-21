@@ -3464,6 +3464,397 @@
       "game": "出荷ぶた",
       "type": "site_changed",
       "detail": "最高額サイト変更: ハピタス (AppDriver) → ECナビ (Zucks)"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "Color Sing",
+      "type": "new",
+      "site": "Powl (SKYFLAG)",
+      "detail": "新規掲載: iOS 704円 / Android 704円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "PLAYTIME",
+      "type": "new",
+      "site": "ちょびリッチ (myChips)",
+      "detail": "新規掲載: iOS -円 / Android 594円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "ウルフゲーム",
+      "type": "new",
+      "site": "Powl (SKYFLAG)",
+      "detail": "新規掲載: iOS 5189.4円 / Android 5189.4円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "トップウォー",
+      "type": "new",
+      "site": "Powl (SKYFLAG)",
+      "detail": "新規掲載: iOS -円 / Android 46586.4円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "ドゥームズデイ",
+      "type": "new",
+      "site": "Powl (SKYFLAG)",
+      "detail": "新規掲載: iOS 13081.2円 / Android 13081.2円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "ヒーローウォーズアライアンス",
+      "type": "new",
+      "site": "Powl (SKYFLAG)",
+      "detail": "新規掲載: iOS 3142.5円 / Android 3142.5円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "ファミリーアイランド",
+      "type": "price_changed",
+      "site": "Powl (SKYFLAG)",
+      "detail": "Android 1750.4→1925.4円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "ブラウザ三国志天",
+      "type": "new",
+      "site": "COINCOME",
+      "detail": "新規掲載: iOS 15910円 / Android -円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "ミクチャ",
+      "type": "new",
+      "site": "Powl (SKYFLAG)",
+      "detail": "新規掲載: iOS 1848円 / Android 1848円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "メカアサルト",
+      "type": "new",
+      "site": "Powl (SKYFLAG)",
+      "detail": "新規掲載: iOS 1161.6円 / Android 2006.4円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "メメントモリ ランク110到達",
+      "type": "price_changed",
+      "site": "Powl (SKYFLAG)",
+      "detail": "iOS 4268→4694.8円 / Android 4268→4694.8円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "リヴリーアイランド",
+      "type": "new",
+      "site": "モッピー (myChips)",
+      "detail": "新規掲載: iOS 12019円 / Android 9532円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "リヴリーアイランド",
+      "type": "price_changed",
+      "site": "ポイントインカム (myChips)",
+      "detail": "iOS 9969.4→11844円 / Android 6569.8→9307.5円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "リヴリーアイランド",
+      "type": "price_changed",
+      "site": "ワラウ (myChips)",
+      "detail": "iOS 7795→10993円 / Android 5759→6036円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "リヴリーアイランド",
+      "type": "new",
+      "site": "COINCOME (myChips)",
+      "detail": "新規掲載: iOS 10016円 / Android 6834円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "ロードモバイル",
+      "type": "new",
+      "site": "Powl (SKYFLAG)",
+      "detail": "新規掲載: iOS 6322.9円 / Android 7485.3円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "我が天下 伝説武将",
+      "type": "new",
+      "site": "Powl (SKYFLAG)",
+      "detail": "新規掲載: iOS 8970.8円 / Android -円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "戦国布武 我が天下戦国編",
+      "type": "new",
+      "site": "Powl (SKYFLAG)",
+      "detail": "新規掲載: iOS 7910.3円 / Android 7910.3円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "放置少女",
+      "type": "price_changed",
+      "site": "Powl (SKYFLAG)",
+      "detail": "iOS 2080→2288円 / Android 2080→2288円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "旦那様の一発逆転人生",
+      "type": "new",
+      "site": "Powl (SKYFLAG)",
+      "detail": "新規掲載: iOS 9066.6円 / Android 7541.6円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "異世界のんびりライフ",
+      "type": "new",
+      "site": "モッピー (GF Rewards)",
+      "detail": "新規掲載: iOS -円 / Android 570円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "異世界のんびりライフ",
+      "type": "new",
+      "site": "げん玉 (GF Rewards)",
+      "detail": "新規掲載: iOS -円 / Android 565円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "異世界のんびりライフ",
+      "type": "new",
+      "site": "アメフリ",
+      "detail": "新規掲載: iOS -円 / Android 442円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "異世界のんびりライフ",
+      "type": "new",
+      "site": "ちょびリッチ (GF Rewards)",
+      "detail": "新規掲載: iOS -円 / Android 437円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "異世界のんびりライフ",
+      "type": "new",
+      "site": "Powl (GF Rewards)",
+      "detail": "新規掲載: iOS -円 / Android 432円"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "Color Sing",
+      "type": "removed",
+      "site": "Powl",
+      "detail": "掲載終了（前回: iOS 700円 / Android 700円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "Color Sing",
+      "type": "removed",
+      "site": "アメフリ",
+      "detail": "掲載終了（前回: iOS 656円 / Android 656円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "IRIAM",
+      "type": "removed",
+      "site": "ワラウ (SKYFLAG)",
+      "detail": "掲載終了（前回: iOS 197円 / Android 197円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "Mirrativ",
+      "type": "removed",
+      "site": "アメフリ",
+      "detail": "掲載終了（前回: iOS 697円 / Android 697円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "PLAYTIME",
+      "type": "removed",
+      "site": "ポイントタウン",
+      "detail": "掲載終了（前回: iOS -円 / Android 646円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "Tap & Earn",
+      "type": "removed",
+      "site": "げん玉",
+      "detail": "掲載終了（前回: iOS -円 / Android 530円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "ウルフゲーム",
+      "type": "removed",
+      "site": "アメフリ",
+      "detail": "掲載終了（前回: iOS 4831円 / Android 4831円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "ザ グランド マフィア",
+      "type": "removed",
+      "site": "モッピー (SKYFLAG)",
+      "detail": "掲載終了（前回: iOS 71187円 / Android 71187円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "トップウォー",
+      "type": "removed",
+      "site": "ちょびリッチ (SKYFLAG)",
+      "detail": "掲載終了（前回: iOS 42351.5円 / Android 42351.5円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "トゥーンブラスト",
+      "type": "removed",
+      "site": "ワラウ (SKYFLAG)",
+      "detail": "掲載終了（前回: iOS 1919円 / Android 2025円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "ドゥームズデイ",
+      "type": "removed",
+      "site": "ワラウ (SKYFLAG)",
+      "detail": "掲載終了（前回: iOS 8934円 / Android 12449円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "ヒーローウォーズアライアンス",
+      "type": "removed",
+      "site": "COINCOME (SKYFLAG)",
+      "detail": "掲載終了（前回: iOS 3036円 / Android 3036円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "ミクチャ",
+      "type": "removed",
+      "site": "Powl",
+      "detail": "掲載終了（前回: iOS 1750円 / Android 1750円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "メカアサルト",
+      "type": "removed",
+      "site": "ポイントインカム (SKYFLAG)",
+      "detail": "掲載終了（前回: iOS 1069.2円 / Android 1846.8円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "リヴリーアイランド",
+      "type": "removed",
+      "site": "モッピー",
+      "detail": "掲載終了（前回: iOS 9804円 / Android 8441円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "リヴリーアイランド",
+      "type": "removed",
+      "site": "ハピタス (myChips)",
+      "detail": "掲載終了（前回: iOS 8280円 / Android 6910円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "ロードモバイル",
+      "type": "removed",
+      "site": "アメフリ",
+      "detail": "掲載終了（前回: iOS 5888円 / Android 6971円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "我が天下 伝説武将",
+      "type": "removed",
+      "site": "Powl",
+      "detail": "掲載終了（前回: iOS 8800円 / Android -円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "戦国布武 我が天下戦国編",
+      "type": "removed",
+      "site": "Powl",
+      "detail": "掲載終了（前回: iOS 7450円 / Android 7450円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "旦那様の一発逆転人生",
+      "type": "removed",
+      "site": "ポイントインカム (SKYFLAG)",
+      "detail": "掲載終了（前回: iOS 6941.6円 / Android 8345.4円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "異世界のんびりライフ",
+      "type": "removed",
+      "site": "ECナビ (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2765円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "異世界のんびりライフ",
+      "type": "removed",
+      "site": "モッピー (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2709円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "異世界のんびりライフ",
+      "type": "removed",
+      "site": "げん玉 (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2654.4円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "異世界のんびりライフ",
+      "type": "removed",
+      "site": "ハピタス (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2624円）"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "ウルフゲーム",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: モッピー (SKYFLAG) → Powl (SKYFLAG)"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "トップウォー",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: モッピー (SKYFLAG) → Powl (SKYFLAG)"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "メカアサルト",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ワラウ → Powl (SKYFLAG)"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "メメントモリ ランク110到達",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: モッピー (SKYFLAG) → Powl (SKYFLAG)"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "リヴリーアイランド",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ポイントインカム (myChips) → モッピー (myChips)"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "放置少女",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ワラウ → Powl (SKYFLAG)"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "旦那様の一発逆転人生",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ハピタス (SKYFLAG) → Powl (SKYFLAG)"
+    },
+    {
+      "date": "2026-02-22",
+      "game": "異世界のんびりライフ",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ECナビ (Zucks) → モッピー (GF Rewards)"
     }
   ]
 }

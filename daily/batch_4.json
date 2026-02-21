@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-21",
+  "date": "2026-02-22",
   "results": [
     {
       "game": "信長の野望 天下への道",
@@ -273,8 +273,8 @@
     },
     {
       "game": "我が天下 伝説武将",
-      "site": "Powl",
-      "ios": 8800,
+      "site": "Powl (SKYFLAG)",
+      "ios": 8970.8,
       "android": 0
     },
     {
@@ -303,6 +303,12 @@
     },
     {
       "game": "戦国布武 我が天下戦国編",
+      "site": "Powl (SKYFLAG)",
+      "ios": 7910.3,
+      "android": 7910.3
+    },
+    {
+      "game": "戦国布武 我が天下戦国編",
       "site": "モッピー (SKYFLAG)",
       "ios": 7640,
       "android": 7640
@@ -314,10 +320,10 @@
       "android": 7460
     },
     {
-      "game": "戦国布武 我が天下戦国編",
-      "site": "Powl",
-      "ios": 7450,
-      "android": 7450
+      "game": "放置少女",
+      "site": "Powl (SKYFLAG)",
+      "ios": 2288,
+      "android": 2288
     },
     {
       "game": "放置少女",
@@ -338,10 +344,10 @@
       "android": 1560
     },
     {
-      "game": "放置少女",
+      "game": "旦那様の一発逆転人生",
       "site": "Powl (SKYFLAG)",
-      "ios": 2080,
-      "android": 2080
+      "ios": 9066.6,
+      "android": 7541.6
     },
     {
       "game": "旦那様の一発逆転人生",
@@ -360,12 +366,6 @@
       "site": "ワラウ (SKYFLAG)",
       "ios": 8449,
       "android": 7028
-    },
-    {
-      "game": "旦那様の一発逆転人生",
-      "site": "ポイントインカム (SKYFLAG)",
-      "ios": 6941.6,
-      "android": 8345.4
     },
     {
       "game": "木こりの帝国",
@@ -441,27 +441,33 @@
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "ECナビ (Zucks)",
+      "site": "モッピー (GF Rewards)",
       "ios": 0,
-      "android": 2765
+      "android": 570
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "モッピー (Zucks)",
+      "site": "げん玉 (GF Rewards)",
       "ios": 0,
-      "android": 2709
+      "android": 565
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "げん玉 (Zucks)",
+      "site": "アメフリ",
       "ios": 0,
-      "android": 2654.4
+      "android": 442
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "ハピタス (Zucks)",
+      "site": "ちょびリッチ (GF Rewards)",
       "ios": 0,
-      "android": 2624
+      "android": 437
+    },
+    {
+      "game": "異世界のんびりライフ",
+      "site": "Powl (GF Rewards)",
+      "ios": 0,
+      "android": 432
     },
     {
       "game": "立ち上がれ アリ帝国",
