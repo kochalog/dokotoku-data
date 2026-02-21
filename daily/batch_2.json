@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-21",
+  "date": "2026-02-22",
   "results": [
     {
       "game": "この監獄ほんmoneyすぎんご",
@@ -105,6 +105,12 @@
     },
     {
       "game": "ウルフゲーム",
+      "site": "Powl (SKYFLAG)",
+      "ios": 5189.4,
+      "android": 5189.4
+    },
+    {
+      "game": "ウルフゲーム",
       "site": "モッピー (SKYFLAG)",
       "ios": 5013,
       "android": 0
@@ -120,12 +126,6 @@
       "site": "ワラウ",
       "ios": 5000,
       "android": 5000
-    },
-    {
-      "game": "ウルフゲーム",
-      "site": "アメフリ",
-      "ios": 4831,
-      "android": 4831
     },
     {
       "game": "エバーテイル",
@@ -272,12 +272,6 @@
       "android": 72260.5
     },
     {
-      "game": "ザ グランド マフィア",
-      "site": "モッピー (SKYFLAG)",
-      "ios": 71187,
-      "android": 71187
-    },
-    {
       "game": "スーパーラッキーカジノ",
       "site": "げん玉 (GF Rewards)",
       "ios": 10811.2,
@@ -339,6 +333,12 @@
     },
     {
       "game": "トップウォー",
+      "site": "Powl (SKYFLAG)",
+      "ios": 0,
+      "android": 46586.4
+    },
+    {
+      "game": "トップウォー",
       "site": "モッピー (SKYFLAG)",
       "ios": 44999,
       "android": 44999
@@ -360,12 +360,6 @@
       "site": "ポイントインカム (SKYFLAG)",
       "ios": 0,
       "android": 42880.7
-    },
-    {
-      "game": "トップウォー",
-      "site": "ちょびリッチ (SKYFLAG)",
-      "ios": 42351.5,
-      "android": 42351.5
     },
     {
       "game": "トラップモンスター",
@@ -416,12 +410,6 @@
       "android": 2025
     },
     {
-      "game": "トゥーンブラスト",
-      "site": "ワラウ (SKYFLAG)",
-      "ios": 1919,
-      "android": 2025
-    },
-    {
       "game": "ドゥームズデイ",
       "site": "ハピタス (SKYFLAG)",
       "ios": 17838,
@@ -429,15 +417,15 @@
     },
     {
       "game": "ドゥームズデイ",
-      "site": "COINCOME (SKYFLAG)",
-      "ios": 12634,
-      "android": 0
+      "site": "Powl (SKYFLAG)",
+      "ios": 13081.2,
+      "android": 13081.2
     },
     {
       "game": "ドゥームズデイ",
-      "site": "ワラウ (SKYFLAG)",
-      "ios": 8934,
-      "android": 12449
+      "site": "COINCOME (SKYFLAG)",
+      "ios": 12634,
+      "android": 0
     }
   ]
 }
