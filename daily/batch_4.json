@@ -1,17 +1,23 @@
 {
-  "date": "2026-02-22",
+  "date": "2026-02-23",
   "results": [
+    {
+      "game": "三国志 戦乱",
+      "site": "Powl",
+      "ios": 1950,
+      "android": 0
+    },
+    {
+      "game": "三国志 戦乱",
+      "site": "COINCOME",
+      "ios": 857,
+      "android": 1145
+    },
     {
       "game": "信長の野望 天下への道",
       "site": "COINCOME",
       "ios": 2905,
       "android": 0
-    },
-    {
-      "game": "信長の野望 真戦",
-      "site": "げん玉",
-      "ios": 5250,
-      "android": 5250
     },
     {
       "game": "信長の野望 真戦",
@@ -30,6 +36,12 @@
       "site": "Powl",
       "ios": 5000,
       "android": 5000
+    },
+    {
+      "game": "信長の野望 真戦",
+      "site": "COINCOME",
+      "ios": 4900,
+      "android": 4900
     },
     {
       "game": "出荷ぶた",
@@ -273,8 +285,8 @@
     },
     {
       "game": "我が天下 伝説武将",
-      "site": "Powl (SKYFLAG)",
-      "ios": 8970.8,
+      "site": "Powl",
+      "ios": 8800,
       "android": 0
     },
     {
@@ -303,12 +315,6 @@
     },
     {
       "game": "戦国布武 我が天下戦国編",
-      "site": "Powl (SKYFLAG)",
-      "ios": 7910.3,
-      "android": 7910.3
-    },
-    {
-      "game": "戦国布武 我が天下戦国編",
       "site": "モッピー (SKYFLAG)",
       "ios": 7640,
       "android": 7640
@@ -320,10 +326,10 @@
       "android": 7460
     },
     {
-      "game": "放置少女",
-      "site": "Powl (SKYFLAG)",
-      "ios": 2288,
-      "android": 2288
+      "game": "戦国布武 我が天下戦国編",
+      "site": "Powl",
+      "ios": 7450,
+      "android": 7450
     },
     {
       "game": "放置少女",
@@ -344,10 +350,10 @@
       "android": 1560
     },
     {
-      "game": "旦那様の一発逆転人生",
+      "game": "放置少女",
       "site": "Powl (SKYFLAG)",
-      "ios": 9066.6,
-      "android": 7541.6
+      "ios": 2080,
+      "android": 2080
     },
     {
       "game": "旦那様の一発逆転人生",
@@ -366,6 +372,12 @@
       "site": "ワラウ (SKYFLAG)",
       "ios": 8449,
       "android": 7028
+    },
+    {
+      "game": "旦那様の一発逆転人生",
+      "site": "ポイントインカム (SKYFLAG)",
+      "ios": 6941.6,
+      "android": 8345.4
     },
     {
       "game": "木こりの帝国",
@@ -420,12 +432,6 @@
       "site": "ECナビ",
       "ios": 440,
       "android": 440
-    },
-    {
-      "game": "原神",
-      "site": "げん玉",
-      "ios": 25,
-      "android": 0
     },
     {
       "game": "獅子の如く",
