@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-22",
+  "date": "2026-02-23",
   "results": [
     {
       "game": "Arkcraft",
@@ -51,7 +51,7 @@
     },
     {
       "game": "Cash Giraffe",
-      "site": "げん玉",
+      "site": "COINCOME",
       "ios": 0,
       "android": 3000
     },
@@ -87,9 +87,15 @@
     },
     {
       "game": "Color Sing",
-      "site": "Powl (SKYFLAG)",
-      "ios": 704,
-      "android": 704
+      "site": "Powl",
+      "ios": 700,
+      "android": 700
+    },
+    {
+      "game": "Color Sing",
+      "site": "アメフリ",
+      "ios": 656,
+      "android": 656
     },
     {
       "game": "Count & Earn",
@@ -231,12 +237,6 @@
     },
     {
       "game": "IRIAM",
-      "site": "Powl",
-      "ios": 250,
-      "android": 250
-    },
-    {
-      "game": "IRIAM",
       "site": "モッピー",
       "ios": 228,
       "android": 228
@@ -246,6 +246,18 @@
       "site": "COINCOME (SKYFLAG)",
       "ios": 204,
       "android": 204
+    },
+    {
+      "game": "IRIAM",
+      "site": "Powl",
+      "ios": 200,
+      "android": 200
+    },
+    {
+      "game": "IRIAM",
+      "site": "ワラウ (SKYFLAG)",
+      "ios": 197,
+      "android": 197
     },
     {
       "game": "Idle Bank Tycoon",
@@ -360,6 +372,12 @@
       "site": "ワラウ",
       "ios": 710,
       "android": 710
+    },
+    {
+      "game": "Mirrativ",
+      "site": "アメフリ",
+      "ios": 697,
+      "android": 697
     },
     {
       "game": "Mistplay",
@@ -504,6 +522,12 @@
       "site": "アメフリ",
       "ios": 0,
       "android": 373
+    },
+    {
+      "game": "Supreme King",
+      "site": "ちょびリッチ (GF Rewards)",
+      "ios": 0,
+      "android": 368.5
     },
     {
       "game": "Tap & Earn",
