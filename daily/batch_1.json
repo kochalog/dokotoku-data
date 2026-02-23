@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-23",
+  "date": "2026-02-24",
   "results": [
     {
       "game": "Arkcraft",
@@ -39,19 +39,19 @@
     },
     {
       "game": "Cash Giraffe",
-      "site": "ハピタス (Zucks)",
-      "ios": 0,
-      "android": 3420
-    },
-    {
-      "game": "Cash Giraffe",
       "site": "ECナビ (Zucks)",
       "ios": 0,
       "android": 3400
     },
     {
       "game": "Cash Giraffe",
-      "site": "COINCOME",
+      "site": "ハピタス (Zucks)",
+      "ios": 0,
+      "android": 3240
+    },
+    {
+      "game": "Cash Giraffe",
+      "site": "げん玉",
       "ios": 0,
       "android": 3000
     },
@@ -195,13 +195,7 @@
     },
     {
       "game": "Freecash",
-      "site": "ハピタス (Zucks)",
-      "ios": 31985,
-      "android": 19273
-    },
-    {
-      "game": "Freecash",
-      "site": "ECナビ",
+      "site": "ECナビ (Zucks)",
       "ios": 31950,
       "android": 19675
     },
@@ -224,16 +218,10 @@
       "android": 2400
     },
     {
-      "game": "Gold Miner",
-      "site": "ハピタス (Zucks)",
-      "ios": 0,
-      "android": 2373
-    },
-    {
       "game": "IRIAM",
       "site": "げん玉 (SmaAD)",
-      "ios": 1092,
-      "android": 1092
+      "ios": 972,
+      "android": 972
     },
     {
       "game": "IRIAM",
@@ -282,12 +270,6 @@
       "site": "げん玉 (Zucks)",
       "ios": 0,
       "android": 2400
-    },
-    {
-      "game": "Knife Ninja",
-      "site": "ハピタス (Zucks)",
-      "ios": 0,
-      "android": 2373
     },
     {
       "game": "MONEY CASH",
@@ -399,15 +381,21 @@
     },
     {
       "game": "Mistplay",
-      "site": "ハピタス (Zucks)",
+      "site": "ECナビ (Zucks)",
       "ios": 0,
-      "android": 7352
+      "android": 7350
     },
     {
       "game": "PLAYTIME",
       "site": "モッピー",
       "ios": 0,
       "android": 1800
+    },
+    {
+      "game": "PLAYTIME",
+      "site": "ポイントタウン",
+      "ios": 0,
+      "android": 646
     },
     {
       "game": "PLAYTIME",
@@ -426,12 +414,6 @@
       "site": "Powl (myChips)",
       "ios": 0,
       "android": 597.7
-    },
-    {
-      "game": "PLAYTIME",
-      "site": "ちょびリッチ (myChips)",
-      "ios": 0,
-      "android": 594
     },
     {
       "game": "Pococha",
@@ -522,12 +504,6 @@
       "site": "アメフリ",
       "ios": 0,
       "android": 373
-    },
-    {
-      "game": "Supreme King",
-      "site": "ちょびリッチ (GF Rewards)",
-      "ios": 0,
-      "android": 368.5
     },
     {
       "game": "Tap & Earn",
