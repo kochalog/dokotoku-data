@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-23",
+  "date": "2026-02-24",
   "results": [
     {
       "game": "三国志 戦乱",
@@ -39,9 +39,9 @@
     },
     {
       "game": "信長の野望 真戦",
-      "site": "COINCOME",
-      "ios": 4900,
-      "android": 4900
+      "site": "げん玉",
+      "ios": 5000,
+      "android": 5000
     },
     {
       "game": "出荷ぶた",
@@ -224,6 +224,12 @@
       "android": 0
     },
     {
+      "game": "実りの地 レベル30",
+      "site": "ちょびリッチ (myChips)",
+      "ios": 1291.5,
+      "android": 0
+    },
+    {
       "game": "小森の宿 ららら",
       "site": "モッピー (GF Rewards)",
       "ios": 1172,
@@ -270,12 +276,6 @@
       "site": "げん玉 (Zucks)",
       "ios": 4540.8,
       "android": 2352
-    },
-    {
-      "game": "成り上がり 華と武の戦国",
-      "site": "ハピタス (Zucks)",
-      "ios": 4492,
-      "android": 2326
     },
     {
       "game": "我が天下 伝説武将",
@@ -434,6 +434,12 @@
       "android": 440
     },
     {
+      "game": "原神",
+      "site": "げん玉",
+      "ios": 25,
+      "android": 0
+    },
+    {
       "game": "獅子の如く",
       "site": "Powl",
       "ios": 5700,
@@ -447,33 +453,27 @@
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "モッピー (GF Rewards)",
+      "site": "ECナビ (Zucks)",
       "ios": 0,
-      "android": 570
+      "android": 2765
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "げん玉 (GF Rewards)",
+      "site": "モッピー (Zucks)",
       "ios": 0,
-      "android": 565
+      "android": 2709
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "アメフリ",
+      "site": "げん玉 (Zucks)",
       "ios": 0,
-      "android": 442
+      "android": 2654.4
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "ちょびリッチ (GF Rewards)",
+      "site": "ハピタス (Zucks)",
       "ios": 0,
-      "android": 437
-    },
-    {
-      "game": "異世界のんびりライフ",
-      "site": "Powl (GF Rewards)",
-      "ios": 0,
-      "android": 432
+      "android": 2488
     },
     {
       "game": "立ち上がれ アリ帝国",
@@ -519,12 +519,6 @@
     },
     {
       "game": "金とゴブリンの採掘ゲーム",
-      "site": "げん玉 (SmaAD)",
-      "ios": 3749.2,
-      "android": 3749.2
-    },
-    {
-      "game": "金とゴブリンの採掘ゲーム",
       "site": "ポイントインカム (SmaAD)",
       "ios": 3685.5,
       "android": 3685.5
@@ -534,6 +528,12 @@
       "site": "Powl",
       "ios": 3520,
       "android": 3520
+    },
+    {
+      "game": "金とゴブリンの採掘ゲーム",
+      "site": "ポイントタウン (SmaAD)",
+      "ios": 3502,
+      "android": 3502
     },
     {
       "game": "金とゴブリンの採掘ゲーム",
