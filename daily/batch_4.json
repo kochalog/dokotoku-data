@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-24",
+  "date": "2026-02-25",
   "results": [
     {
       "game": "三国志 戦乱",
@@ -262,20 +262,26 @@
     {
       "game": "成り上がり 華と武の戦国",
       "site": "ECナビ (Zucks)",
-      "ios": 4730,
-      "android": 2450
+      "ios": 2470,
+      "android": 170
     },
     {
       "game": "成り上がり 華と武の戦国",
       "site": "モッピー (Zucks)",
-      "ios": 4633,
-      "android": 2399
+      "ios": 2419,
+      "android": 165
     },
     {
       "game": "成り上がり 華と武の戦国",
       "site": "げん玉 (Zucks)",
-      "ios": 4540.8,
-      "android": 2352
+      "ios": 2371.2,
+      "android": 163.2
+    },
+    {
+      "game": "成り上がり 華と武の戦国",
+      "site": "ハピタス (Zucks)",
+      "ios": 2222,
+      "android": 152
     },
     {
       "game": "我が天下 伝説武将",
@@ -453,27 +459,33 @@
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "ECナビ (Zucks)",
+      "site": "モッピー (GF Rewards)",
       "ios": 0,
-      "android": 2765
+      "android": 570
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "モッピー (Zucks)",
+      "site": "げん玉 (GF Rewards)",
       "ios": 0,
-      "android": 2709
+      "android": 565
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "げん玉 (Zucks)",
+      "site": "アメフリ",
       "ios": 0,
-      "android": 2654.4
+      "android": 442
     },
     {
       "game": "異世界のんびりライフ",
-      "site": "ハピタス (Zucks)",
+      "site": "ちょびリッチ (GF Rewards)",
       "ios": 0,
-      "android": 2488
+      "android": 437
+    },
+    {
+      "game": "異世界のんびりライフ",
+      "site": "Powl (GF Rewards)",
+      "ios": 0,
+      "android": 432
     },
     {
       "game": "立ち上がれ アリ帝国",

@@ -4757,6 +4757,228 @@
       "game": "金とゴブリンの採掘ゲーム",
       "type": "site_changed",
       "detail": "最高額サイト変更: げん玉 (SmaAD) → ポイントインカム (SmaAD)"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "Cash Mafia",
+      "type": "price_changed",
+      "site": "げん玉 (AppDriver)",
+      "detail": "Android 2050.7→656.6円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "マネーキング 放置銀行帝国",
+      "type": "price_changed",
+      "site": "モッピー (myChips)",
+      "detail": "iOS 5403→5358円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "リヴリーアイランド",
+      "type": "price_changed",
+      "site": "モッピー (myChips)",
+      "detail": "iOS 12247→12542円 / Android 9722→9712円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "リヴリーアイランド",
+      "type": "price_changed",
+      "site": "げん玉 (myChips)",
+      "detail": "iOS 11125→11313.7円 / Android 9219.1→9223円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "リヴリーアイランド",
+      "type": "price_changed",
+      "site": "ワラウ (myChips)",
+      "detail": "iOS 11089→11146円 / Android 6820→6675円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "リヴリーアイランド",
+      "type": "price_changed",
+      "site": "ポイントインカム (myChips)",
+      "detail": "iOS 10894.2→11045.3円 / Android 9482.4→9508.8円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "リヴリーアイランド",
+      "type": "new",
+      "site": "COINCOME (myChips)",
+      "detail": "新規掲載: iOS 10161円 / Android 6943円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "三國志 真戦",
+      "type": "new",
+      "site": "げん玉 (myChips)",
+      "detail": "新規掲載: iOS 5467.7円 / Android 3638.4円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "成り上がり 華と武の戦国",
+      "type": "price_changed",
+      "site": "ECナビ (Zucks)",
+      "detail": "iOS 4730→2470円 / Android 2450→170円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "成り上がり 華と武の戦国",
+      "type": "price_changed",
+      "site": "モッピー (Zucks)",
+      "detail": "iOS 4633→2419円 / Android 2399→165円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "成り上がり 華と武の戦国",
+      "type": "price_changed",
+      "site": "げん玉 (Zucks)",
+      "detail": "iOS 4540.8→2371.2円 / Android 2352→163.2円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "成り上がり 華と武の戦国",
+      "type": "new",
+      "site": "ハピタス (Zucks)",
+      "detail": "新規掲載: iOS 2222円 / Android 152円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "異世界のんびりライフ",
+      "type": "new",
+      "site": "モッピー (GF Rewards)",
+      "detail": "新規掲載: iOS -円 / Android 570円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "異世界のんびりライフ",
+      "type": "new",
+      "site": "げん玉 (GF Rewards)",
+      "detail": "新規掲載: iOS -円 / Android 565円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "異世界のんびりライフ",
+      "type": "new",
+      "site": "アメフリ",
+      "detail": "新規掲載: iOS -円 / Android 442円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "異世界のんびりライフ",
+      "type": "new",
+      "site": "ちょびリッチ (GF Rewards)",
+      "detail": "新規掲載: iOS -円 / Android 437円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "異世界のんびりライフ",
+      "type": "new",
+      "site": "Powl (GF Rewards)",
+      "detail": "新規掲載: iOS -円 / Android 432円"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "Cash Mafia",
+      "type": "removed",
+      "site": "楽天ポイ活ミッション特集 (AppDriver)",
+      "detail": "掲載終了（前回: iOS -円 / Android 1749円）"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "Match Ninja",
+      "type": "removed",
+      "site": "モッピー (AppDriver)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2362円）"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "Match Ninja",
+      "type": "removed",
+      "site": "ハピタス (AppDriver)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2128円）"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "Match Ninja",
+      "type": "removed",
+      "site": "げん玉 (AppDriver)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2047.1円）"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "Match Ninja",
+      "type": "removed",
+      "site": "ちょびリッチ (AppDriver)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2028円）"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "Match Ninja",
+      "type": "removed",
+      "site": "Powl (AppDriver)",
+      "detail": "掲載終了（前回: iOS -円 / Android 1596.8円）"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "ようとん場MIX",
+      "type": "removed",
+      "site": "げん玉",
+      "detail": "掲載終了（前回: iOS 66.3円 / Android -円）"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "リヴリーアイランド",
+      "type": "removed",
+      "site": "ハピタス (myChips)",
+      "detail": "掲載終了（前回: iOS 8624円 / Android 10283円）"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "三國志 真戦",
+      "type": "removed",
+      "site": "ワラウ",
+      "detail": "掲載終了（前回: iOS 4800円 / Android 4800円）"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "異世界のんびりライフ",
+      "type": "removed",
+      "site": "ECナビ (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2765円）"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "異世界のんびりライフ",
+      "type": "removed",
+      "site": "モッピー (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2709円）"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "異世界のんびりライフ",
+      "type": "removed",
+      "site": "げん玉 (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2654.4円）"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "異世界のんびりライフ",
+      "type": "removed",
+      "site": "ハピタス (Zucks)",
+      "detail": "掲載終了（前回: iOS -円 / Android 2488円）"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "三國志 真戦",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: モッピー → げん玉 (myChips)"
+    },
+    {
+      "date": "2026-02-25",
+      "game": "異世界のんびりライフ",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ECナビ (Zucks) → モッピー (GF Rewards)"
     }
   ]
 }
