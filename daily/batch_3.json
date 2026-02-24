@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-24",
+  "date": "2026-02-25",
   "results": [
     {
       "game": "ドゥームズデイ 本部レベル14到達",
@@ -346,7 +346,7 @@
     {
       "game": "マネーキング 放置銀行帝国",
       "site": "モッピー (myChips)",
-      "ios": 5403,
+      "ios": 5358,
       "android": 10954
     },
     {
@@ -550,32 +550,32 @@
     {
       "game": "リヴリーアイランド",
       "site": "モッピー (myChips)",
-      "ios": 12247,
-      "android": 9722
+      "ios": 12542,
+      "android": 9712
     },
     {
       "game": "リヴリーアイランド",
       "site": "げん玉 (myChips)",
-      "ios": 11125,
-      "android": 9219.1
+      "ios": 11313.7,
+      "android": 9223
     },
     {
       "game": "リヴリーアイランド",
       "site": "ワラウ (myChips)",
-      "ios": 11089,
-      "android": 6820
+      "ios": 11146,
+      "android": 6675
     },
     {
       "game": "リヴリーアイランド",
       "site": "ポイントインカム (myChips)",
-      "ios": 10894.2,
-      "android": 9482.4
+      "ios": 11045.3,
+      "android": 9508.8
     },
     {
       "game": "リヴリーアイランド",
-      "site": "ハピタス (myChips)",
-      "ios": 8624,
-      "android": 10283
+      "site": "COINCOME (myChips)",
+      "ios": 10161,
+      "android": 6943
     },
     {
       "game": "レイドラッシュ",
@@ -651,6 +651,12 @@
     },
     {
       "game": "三國志 真戦",
+      "site": "げん玉 (myChips)",
+      "ios": 5467.7,
+      "android": 3638.4
+    },
+    {
+      "game": "三國志 真戦",
       "site": "モッピー",
       "ios": 5300,
       "android": 5300
@@ -672,12 +678,6 @@
       "site": "ハピタス (SKYFLAG)",
       "ios": 5184,
       "android": 3744
-    },
-    {
-      "game": "三國志 真戦",
-      "site": "ワラウ",
-      "ios": 4800,
-      "android": 4800
     }
   ]
 }
