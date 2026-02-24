@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-24",
+  "date": "2026-02-25",
   "results": [
     {
       "game": "Arkcraft",
@@ -59,13 +59,7 @@
       "game": "Cash Mafia",
       "site": "げん玉 (AppDriver)",
       "ios": 0,
-      "android": 2050.7
-    },
-    {
-      "game": "Cash Mafia",
-      "site": "楽天ポイ活ミッション特集 (AppDriver)",
-      "ios": 0,
-      "android": 1749
+      "android": 656.6
     },
     {
       "game": "Color Sing",
@@ -300,36 +294,6 @@
       "site": "モッピー",
       "ios": 0,
       "android": 2150
-    },
-    {
-      "game": "Match Ninja",
-      "site": "モッピー (AppDriver)",
-      "ios": 0,
-      "android": 2362
-    },
-    {
-      "game": "Match Ninja",
-      "site": "ハピタス (AppDriver)",
-      "ios": 0,
-      "android": 2128
-    },
-    {
-      "game": "Match Ninja",
-      "site": "げん玉 (AppDriver)",
-      "ios": 0,
-      "android": 2047.1
-    },
-    {
-      "game": "Match Ninja",
-      "site": "ちょびリッチ (AppDriver)",
-      "ios": 0,
-      "android": 2028
-    },
-    {
-      "game": "Match Ninja",
-      "site": "Powl (AppDriver)",
-      "ios": 0,
-      "android": 1596.8
     },
     {
       "game": "Mirrativ",
