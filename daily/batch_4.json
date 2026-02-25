@@ -1,6 +1,36 @@
 {
-  "date": "2026-02-25",
+  "date": "2026-02-26",
   "results": [
+    {
+      "game": "三國志 真戦",
+      "site": "げん玉 (myChips)",
+      "ios": 0,
+      "android": 0
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "モッピー",
+      "ios": 5300,
+      "android": 5300
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "COINCOME",
+      "ios": 5300,
+      "android": 5300
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "Powl",
+      "ios": 5200,
+      "android": 5200
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "ハピタス (SKYFLAG)",
+      "ios": 5184,
+      "android": 3744
+    },
     {
       "game": "三国志 戦乱",
       "site": "Powl",
@@ -39,7 +69,7 @@
     },
     {
       "game": "信長の野望 真戦",
-      "site": "げん玉",
+      "site": "ECナビ",
       "ios": 5000,
       "android": 5000
     },
@@ -117,26 +147,20 @@
     },
     {
       "game": "大三国志",
-      "site": "モッピー (AppDriver)",
-      "ios": 1798,
-      "android": 0
-    },
-    {
-      "game": "大三国志",
-      "site": "ハピタス (AppDriver)",
-      "ios": 1620,
+      "site": "ECナビ (Zucks)",
+      "ios": 1462,
       "android": 0
     },
     {
       "game": "大三国志",
       "site": "げん玉 (AppDriver)",
-      "ios": 1550.4,
+      "ios": 912,
       "android": 1459.2
     },
     {
       "game": "大三国志",
-      "site": "ちょびリッチ (AppDriver)",
-      "ios": 1536.5,
+      "site": "モッピー (Zucks)",
+      "ios": 1431,
       "android": 0
     },
     {
@@ -280,8 +304,8 @@
     {
       "game": "成り上がり 華と武の戦国",
       "site": "ハピタス (Zucks)",
-      "ios": 2222,
-      "android": 152
+      "ios": 2345,
+      "android": 160
     },
     {
       "game": "我が天下 伝説武将",
@@ -507,12 +531,6 @@
     },
     {
       "game": "タワーデスティニーサバイブ",
-      "site": "ワラウ",
-      "ios": 0,
-      "android": 2200
-    },
-    {
-      "game": "タワーデスティニーサバイブ",
       "site": "ちょびリッチ",
       "ios": 0,
       "android": 2136
@@ -528,6 +546,12 @@
       "site": "げん玉 (GF Rewards)",
       "ios": 0,
       "android": 2094.8
+    },
+    {
+      "game": "タワーデスティニーサバイブ",
+      "site": "アメフリ",
+      "ios": 0,
+      "android": 1637
     },
     {
       "game": "金とゴブリンの採掘ゲーム",
