@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-25",
+  "date": "2026-02-26",
   "results": [
     {
       "game": "Arkcraft",
@@ -39,15 +39,15 @@
     },
     {
       "game": "Cash Giraffe",
-      "site": "ECナビ (Zucks)",
+      "site": "ハピタス (Zucks)",
       "ios": 0,
-      "android": 3400
+      "android": 3420
     },
     {
       "game": "Cash Giraffe",
-      "site": "ハピタス (Zucks)",
+      "site": "ECナビ (Zucks)",
       "ios": 0,
-      "android": 3240
+      "android": 3400
     },
     {
       "game": "Cash Giraffe",
@@ -185,11 +185,17 @@
       "game": "Freecash",
       "site": "げん玉 (GF Rewards)",
       "ios": 33657,
-      "android": 10800
+      "android": 4509.1
     },
     {
       "game": "Freecash",
-      "site": "ECナビ (Zucks)",
+      "site": "ハピタス (Zucks)",
+      "ios": 31985,
+      "android": 19273
+    },
+    {
+      "game": "Freecash",
+      "site": "ECナビ",
       "ios": 31950,
       "android": 19675
     },
@@ -210,6 +216,12 @@
       "site": "げん玉 (Zucks)",
       "ios": 0,
       "android": 2400
+    },
+    {
+      "game": "Gold Miner",
+      "site": "ハピタス (Zucks)",
+      "ios": 0,
+      "android": 2373
     },
     {
       "game": "IRIAM",
@@ -264,6 +276,12 @@
       "site": "げん玉 (Zucks)",
       "ios": 0,
       "android": 2400
+    },
+    {
+      "game": "Knife Ninja",
+      "site": "ハピタス (Zucks)",
+      "ios": 0,
+      "android": 2373
     },
     {
       "game": "MONEY CASH",
@@ -327,27 +345,21 @@
     },
     {
       "game": "Mistplay",
-      "site": "モッピー (Zucks)",
-      "ios": 0,
-      "android": 7582
-    },
-    {
-      "game": "Mistplay",
-      "site": "Powl",
-      "ios": 0,
-      "android": 7500
-    },
-    {
-      "game": "Mistplay",
-      "site": "げん玉 (Zucks)",
-      "ios": 0,
-      "android": 7430.4
-    },
-    {
-      "game": "Mistplay",
       "site": "ECナビ (Zucks)",
       "ios": 0,
-      "android": 7350
+      "android": 9000
+    },
+    {
+      "game": "Mistplay",
+      "site": "モッピー (Zucks)",
+      "ios": 0,
+      "android": 8819
+    },
+    {
+      "game": "Mistplay",
+      "site": "COINCOME (SKYFLAG)",
+      "ios": 0,
+      "android": 8752
     },
     {
       "game": "PLAYTIME",
