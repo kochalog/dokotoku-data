@@ -1,6 +1,24 @@
 {
-  "date": "2026-02-25",
+  "date": "2026-02-26",
   "results": [
+    {
+      "game": "ドゥームズデイ",
+      "site": "ハピタス (SKYFLAG)",
+      "ios": 17838,
+      "android": 17838
+    },
+    {
+      "game": "ドゥームズデイ",
+      "site": "COINCOME (SKYFLAG)",
+      "ios": 12634,
+      "android": 0
+    },
+    {
+      "game": "ドゥームズデイ",
+      "site": "ワラウ (SKYFLAG)",
+      "ios": 8934,
+      "android": 12449
+    },
     {
       "game": "ドゥームズデイ 本部レベル14到達",
       "site": "ワラウ",
@@ -135,6 +153,12 @@
     },
     {
       "game": "パズル＆カオス",
+      "site": "ハピタス (Zucks)",
+      "ios": 20472,
+      "android": 20472
+    },
+    {
+      "game": "パズル＆カオス",
       "site": "ECナビ (Zucks)",
       "ios": 20450,
       "android": 20450
@@ -144,18 +168,6 @@
       "site": "モッピー (Zucks)",
       "ios": 20040,
       "android": 20040
-    },
-    {
-      "game": "パズル＆カオス",
-      "site": "げん玉 (Zucks)",
-      "ios": 19632,
-      "android": 19632
-    },
-    {
-      "game": "パズル＆カオス",
-      "site": "ハピタス (Zucks)",
-      "ios": 19395,
-      "android": 19395
     },
     {
       "game": "パズル＆コンクエスト",
@@ -310,7 +322,7 @@
     {
       "game": "ブラウザ三国志天",
       "site": "ハピタス (Zucks)",
-      "ios": 17802,
+      "ios": 18790,
       "android": 0
     },
     {
@@ -346,7 +358,7 @@
     {
       "game": "マネーキング 放置銀行帝国",
       "site": "モッピー (myChips)",
-      "ios": 5358,
+      "ios": 5330,
       "android": 10954
     },
     {
@@ -550,32 +562,32 @@
     {
       "game": "リヴリーアイランド",
       "site": "モッピー (myChips)",
-      "ios": 12542,
-      "android": 9712
+      "ios": 13130,
+      "android": 9494
     },
     {
       "game": "リヴリーアイランド",
       "site": "げん玉 (myChips)",
-      "ios": 11313.7,
-      "android": 9223
+      "ios": 11855.8,
+      "android": 9012.2
     },
     {
       "game": "リヴリーアイランド",
       "site": "ワラウ (myChips)",
-      "ios": 11146,
-      "android": 6675
+      "ios": 11833,
+      "android": 6686
     },
     {
       "game": "リヴリーアイランド",
       "site": "ポイントインカム (myChips)",
-      "ios": 11045.3,
-      "android": 9508.8
+      "ios": 11624.5,
+      "android": 9326.5
     },
     {
       "game": "リヴリーアイランド",
-      "site": "COINCOME (myChips)",
-      "ios": 10161,
-      "android": 6943
+      "site": "Powl (myChips)",
+      "ios": 10694.9,
+      "android": 7014
     },
     {
       "game": "レイドラッシュ",
@@ -648,36 +660,6 @@
       "site": "アメフリ",
       "ios": 5888,
       "android": 6971
-    },
-    {
-      "game": "三國志 真戦",
-      "site": "げん玉 (myChips)",
-      "ios": 5467.7,
-      "android": 3638.4
-    },
-    {
-      "game": "三國志 真戦",
-      "site": "モッピー",
-      "ios": 5300,
-      "android": 5300
-    },
-    {
-      "game": "三國志 真戦",
-      "site": "COINCOME",
-      "ios": 5300,
-      "android": 5300
-    },
-    {
-      "game": "三國志 真戦",
-      "site": "Powl",
-      "ios": 5200,
-      "android": 5200
-    },
-    {
-      "game": "三國志 真戦",
-      "site": "ハピタス (SKYFLAG)",
-      "ios": 5184,
-      "android": 3744
     }
   ]
 }
