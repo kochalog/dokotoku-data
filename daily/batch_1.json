@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-26",
+  "date": "2026-02-27",
   "results": [
     {
       "game": "Arkcraft",
@@ -231,6 +231,12 @@
     },
     {
       "game": "IRIAM",
+      "site": "Powl",
+      "ios": 250,
+      "android": 250
+    },
+    {
+      "game": "IRIAM",
       "site": "モッピー",
       "ios": 228,
       "android": 228
@@ -240,12 +246,6 @@
       "site": "COINCOME (SKYFLAG)",
       "ios": 204,
       "android": 204
-    },
-    {
-      "game": "IRIAM",
-      "site": "Powl",
-      "ios": 200,
-      "android": 200
     },
     {
       "game": "IRIAM",
@@ -286,25 +286,25 @@
     {
       "game": "MONEY CASH",
       "site": "Powl (myChips)",
-      "ios": 725.2,
+      "ios": 747.9,
       "android": 2424.3
     },
     {
       "game": "MONEY CASH",
       "site": "ハピタス (myChips)",
-      "ios": 725,
+      "ios": 748,
       "android": 2424
     },
     {
       "game": "MONEY CASH",
       "site": "ワラウ (myChips)",
-      "ios": 703,
+      "ios": 725,
       "android": 2351
     },
     {
       "game": "MONEY CASH",
       "site": "COINCOME (myChips)",
-      "ios": 703,
+      "ios": 725,
       "android": 2351
     },
     {
@@ -365,31 +365,31 @@
       "game": "PLAYTIME",
       "site": "モッピー",
       "ios": 0,
-      "android": 1800
-    },
-    {
-      "game": "PLAYTIME",
-      "site": "ポイントタウン",
-      "ios": 0,
-      "android": 646
+      "android": 1600
     },
     {
       "game": "PLAYTIME",
       "site": "げん玉 (myChips)",
       "ios": 0,
-      "android": 645.5
+      "android": 1103.1
     },
     {
       "game": "PLAYTIME",
       "site": "ハピタス (myChips)",
       "ios": 0,
-      "android": 598
+      "android": 1023
     },
     {
       "game": "PLAYTIME",
       "site": "Powl (myChips)",
       "ios": 0,
-      "android": 597.7
+      "android": 1021.4
+    },
+    {
+      "game": "PLAYTIME",
+      "site": "ちょびリッチ (myChips)",
+      "ios": 0,
+      "android": 1015
     },
     {
       "game": "Pococha",
@@ -405,15 +405,15 @@
     },
     {
       "game": "Pococha",
-      "site": "ハピタス",
-      "ios": 2010,
-      "android": 2010
+      "site": "ワラウ",
+      "ios": 2200,
+      "android": 2200
     },
     {
       "game": "Pococha",
-      "site": "ワラウ",
-      "ios": 2000,
-      "android": 2000
+      "site": "ハピタス",
+      "ios": 2010,
+      "android": 2010
     },
     {
       "game": "Rise of Kingdoms",
