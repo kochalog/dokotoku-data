@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-26",
+  "date": "2026-02-27",
   "results": [
     {
       "game": "ドゥームズデイ",
@@ -191,19 +191,19 @@
       "game": "ヒーローウォーズアライアンス",
       "site": "ちょびリッチ (myChips)",
       "ios": 0,
-      "android": 6074.5
+      "android": 6298
     },
     {
       "game": "ヒーローウォーズアライアンス",
       "site": "ワラウ (myChips)",
       "ios": 0,
-      "android": 5926
+      "android": 6144
     },
     {
       "game": "ヒーローウォーズアライアンス",
       "site": "アメフリ",
       "ios": 2925,
-      "android": 3156
+      "android": 3222
     },
     {
       "game": "ヒーローウォーズアライアンス",
@@ -358,7 +358,7 @@
     {
       "game": "マネーキング 放置銀行帝国",
       "site": "モッピー (myChips)",
-      "ios": 5330,
+      "ios": 5650,
       "android": 10954
     },
     {
@@ -561,33 +561,33 @@
     },
     {
       "game": "リヴリーアイランド",
-      "site": "モッピー (myChips)",
-      "ios": 13130,
-      "android": 9494
-    },
-    {
-      "game": "リヴリーアイランド",
       "site": "げん玉 (myChips)",
-      "ios": 11855.8,
-      "android": 9012.2
-    },
-    {
-      "game": "リヴリーアイランド",
-      "site": "ワラウ (myChips)",
-      "ios": 11833,
-      "android": 6686
+      "ios": 11862.3,
+      "android": 8831.3
     },
     {
       "game": "リヴリーアイランド",
       "site": "ポイントインカム (myChips)",
-      "ios": 11624.5,
-      "android": 9326.5
+      "ios": 11623.1,
+      "android": 9230
+    },
+    {
+      "game": "リヴリーアイランド",
+      "site": "ワラウ (myChips)",
+      "ios": 11577,
+      "android": 6601
+    },
+    {
+      "game": "リヴリーアイランド",
+      "site": "モッピー (myChips)",
+      "ios": 10902,
+      "android": 9296
     },
     {
       "game": "リヴリーアイランド",
       "site": "Powl (myChips)",
-      "ios": 10694.9,
-      "android": 7014
+      "ios": 10678.8,
+      "android": 6897.5
     },
     {
       "game": "レイドラッシュ",
