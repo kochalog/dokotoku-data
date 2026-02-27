@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-27",
+  "date": "2026-02-28",
   "results": [
     {
       "game": "三國志 真戦",
@@ -87,15 +87,15 @@
     },
     {
       "game": "出荷ぶた",
-      "site": "げん玉 (AppDriver)",
-      "ios": 13132.1,
-      "android": 13132.1
-    },
-    {
-      "game": "出荷ぶた",
       "site": "ちょびリッチ (AppDriver)",
       "ios": 13014.5,
       "android": 13014.5
+    },
+    {
+      "game": "出荷ぶた",
+      "site": "モッピー (Zucks)",
+      "ios": 13013,
+      "android": 13013
     },
     {
       "game": "商人放浪記",
@@ -129,12 +129,6 @@
     },
     {
       "game": "喧嘩の花道",
-      "site": "げん玉 (AppDriver)",
-      "ios": 12312,
-      "android": 12312
-    },
-    {
-      "game": "喧嘩の花道",
       "site": "ちょびリッチ (AppDriver)",
       "ios": 12204,
       "android": 12204
@@ -146,6 +140,12 @@
       "android": 9600
     },
     {
+      "game": "喧嘩の花道",
+      "site": "ワラウ",
+      "ios": 9500,
+      "android": 9500
+    },
+    {
       "game": "大三国志",
       "site": "ECナビ (Zucks)",
       "ios": 1462,
@@ -153,8 +153,8 @@
     },
     {
       "game": "大三国志",
-      "site": "げん玉 (AppDriver)",
-      "ios": 912,
+      "site": "げん玉",
+      "ios": 500,
       "android": 1459.2
     },
     {
@@ -351,12 +351,6 @@
     },
     {
       "game": "戦国布武 我が天下戦国編",
-      "site": "COINCOME",
-      "ios": 4493,
-      "android": 7460
-    },
-    {
-      "game": "戦国布武 我が天下戦国編",
       "site": "Powl",
       "ios": 7450,
       "android": 7450
@@ -525,12 +519,6 @@
     },
     {
       "game": "タワーデスティニーサバイブ",
-      "site": "COINCOME",
-      "ios": 0,
-      "android": 2215
-    },
-    {
-      "game": "タワーデスティニーサバイブ",
       "site": "モッピー (AppDriver)",
       "ios": 0,
       "android": 1075
@@ -538,6 +526,12 @@
     {
       "game": "タワーデスティニーサバイブ",
       "site": "ワラウ",
+      "ios": 0,
+      "android": 1000
+    },
+    {
+      "game": "タワーデスティニーサバイブ",
+      "site": "COINCOME",
       "ios": 0,
       "android": 1000
     },
