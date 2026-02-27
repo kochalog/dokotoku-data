@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-27",
+  "date": "2026-02-28",
   "results": [
     {
       "game": "ドゥームズデイ",
@@ -75,12 +75,6 @@
     },
     {
       "game": "バズーカ ロワイヤル",
-      "site": "げん玉 (AppDriver)",
-      "ios": 246.2,
-      "android": 0
-    },
-    {
-      "game": "バズーカ ロワイヤル",
       "site": "ちょびリッチ (AppDriver)",
       "ios": 244,
       "android": 0
@@ -89,6 +83,12 @@
       "game": "バズーカ ロワイヤル",
       "site": "Powl (AppDriver)",
       "ios": 192,
+      "android": 0
+    },
+    {
+      "game": "バズーカ ロワイヤル",
+      "site": "げん玉 (AppDriver)",
+      "ios": 182.4,
       "android": 0
     },
     {
@@ -172,20 +172,26 @@
     {
       "game": "パズル＆コンクエスト",
       "site": "ECナビ (Zucks)",
-      "ios": 52130,
+      "ios": 53950,
       "android": 48500
     },
     {
       "game": "パズル＆コンクエスト",
       "site": "モッピー (Zucks)",
-      "ios": 51087,
+      "ios": 52871,
       "android": 47530
     },
     {
       "game": "パズル＆コンクエスト",
       "site": "げん玉 (Zucks)",
-      "ios": 50044.8,
+      "ios": 51792,
       "android": 46560
+    },
+    {
+      "game": "パズル＆コンクエスト",
+      "site": "ハピタス (Zucks)",
+      "ios": 51251,
+      "android": 46073
     },
     {
       "game": "ヒーローウォーズアライアンス",
@@ -358,7 +364,7 @@
     {
       "game": "マネーキング 放置銀行帝国",
       "site": "モッピー (myChips)",
-      "ios": 5650,
+      "ios": 5724,
       "android": 10954
     },
     {
@@ -402,12 +408,6 @@
       "site": "COINCOME",
       "ios": 24358,
       "android": 55400
-    },
-    {
-      "game": "マフィア シティ",
-      "site": "ハピタス (AppDriver)",
-      "ios": 0,
-      "android": 55085
     },
     {
       "game": "マフィア シティ",
@@ -459,15 +459,15 @@
     },
     {
       "game": "ミストバレー",
-      "site": "アメフリ",
-      "ios": 196,
-      "android": 196
+      "site": "ワラウ",
+      "ios": 200,
+      "android": 200
     },
     {
       "game": "ミストバレー",
-      "site": "げん玉 (SmaAD)",
-      "ios": 194.4,
-      "android": 194.4
+      "site": "アメフリ",
+      "ios": 196,
+      "android": 196
     },
     {
       "game": "メカアサルト",
@@ -507,6 +507,12 @@
     },
     {
       "game": "メメントモリ ランク110到達",
+      "site": "Powl",
+      "ios": 4400,
+      "android": 4400
+    },
+    {
+      "game": "メメントモリ ランク110到達",
       "site": "ワラウ (SKYFLAG)",
       "ios": 4374,
       "android": 4374
@@ -516,12 +522,6 @@
       "site": "ポイントインカム (SKYFLAG)",
       "ios": 4321.3,
       "android": 4321.3
-    },
-    {
-      "game": "メメントモリ ランク110到達",
-      "site": "Powl (SKYFLAG)",
-      "ios": 4268,
-      "android": 4268
     },
     {
       "game": "モンスターコレクト",
@@ -562,32 +562,32 @@
     {
       "game": "リヴリーアイランド",
       "site": "げん玉 (myChips)",
-      "ios": 11862.3,
-      "android": 8831.3
+      "ios": 11789.1,
+      "android": 9030.9
     },
     {
       "game": "リヴリーアイランド",
       "site": "ポイントインカム (myChips)",
-      "ios": 11623.1,
-      "android": 9230
+      "ios": 11608.2,
+      "android": 9893.9
     },
     {
       "game": "リヴリーアイランド",
       "site": "ワラウ (myChips)",
-      "ios": 11577,
-      "android": 6601
+      "ios": 11579,
+      "android": 6736
     },
     {
       "game": "リヴリーアイランド",
       "site": "モッピー (myChips)",
-      "ios": 10902,
-      "android": 9296
+      "ios": 10875,
+      "android": 9904
     },
     {
       "game": "リヴリーアイランド",
-      "site": "Powl (myChips)",
-      "ios": 10678.8,
-      "android": 6897.5
+      "site": "COINCOME (myChips)",
+      "ios": 10588,
+      "android": 6818
     },
     {
       "game": "レイドラッシュ",
@@ -609,15 +609,15 @@
     },
     {
       "game": "レイドラッシュ",
-      "site": "げん玉 (AppDriver)",
-      "ios": 0,
-      "android": 3356
-    },
-    {
-      "game": "レイドラッシュ",
       "site": "ちょびリッチ (AppDriver)",
       "ios": 0,
       "android": 3326.5
+    },
+    {
+      "game": "レイドラッシュ",
+      "site": "げん玉 (AppDriver)",
+      "ios": 0,
+      "android": 2796.7
     },
     {
       "game": "ロイヤルマッチ",
@@ -639,14 +639,14 @@
     },
     {
       "game": "ロイヤルマッチ",
-      "site": "げん玉 (AppDriver)",
+      "site": "Powl (AppDriver)",
       "ios": 0,
-      "android": 1707.1
+      "android": 1580.8
     },
     {
       "game": "ロードモバイル",
       "site": "ワラウ",
-      "ios": 6000,
+      "ios": 7600,
       "android": 10150
     },
     {
