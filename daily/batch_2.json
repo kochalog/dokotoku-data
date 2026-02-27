@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-27",
+  "date": "2026-02-28",
   "results": [
     {
       "game": "この監獄ほんmoneyすぎんご",
@@ -75,12 +75,6 @@
     },
     {
       "game": "すみっコぐらし 農園つくるんです",
-      "site": "げん玉 (AppDriver)",
-      "ios": 3397.9,
-      "android": 3397.9
-    },
-    {
-      "game": "すみっコぐらし 農園つくるんです",
       "site": "ちょびリッチ (AppDriver)",
       "ios": 3367,
       "android": 3367
@@ -90,6 +84,12 @@
       "site": "Powl (AppDriver)",
       "ios": 2649.6,
       "android": 2649.6
+    },
+    {
+      "game": "すみっコぐらし 農園つくるんです",
+      "site": "げん玉 (AppDriver)",
+      "ios": 2517,
+      "android": 2517
     },
     {
       "game": "イブのモール",
@@ -309,12 +309,6 @@
     },
     {
       "game": "スマッシュパーティ",
-      "site": "げん玉 (AppDriver)",
-      "ios": 4842.7,
-      "android": 4842.7
-    },
-    {
-      "game": "スマッシュパーティ",
       "site": "楽天ポイ活ミッション特集 (AppDriver)",
       "ios": 4130,
       "android": 4130
@@ -324,6 +318,12 @@
       "site": "Powl (AppDriver)",
       "ios": 3776,
       "android": 3776
+    },
+    {
+      "game": "スマッシュパーティ",
+      "site": "げん玉 (AppDriver)",
+      "ios": 3587.2,
+      "android": 3587.2
     },
     {
       "game": "ステート オブ サバイバル",
@@ -375,12 +375,6 @@
     },
     {
       "game": "トラップモンスター",
-      "site": "げん玉 (AppDriver)",
-      "ios": 0,
-      "android": 774.9
-    },
-    {
-      "game": "トラップモンスター",
       "site": "ワラウ",
       "ios": 0,
       "android": 770
@@ -390,6 +384,12 @@
       "site": "Powl",
       "ios": 0,
       "android": 770
+    },
+    {
+      "game": "トラップモンスター",
+      "site": "ちょびリッチ (AppDriver)",
+      "ios": 0,
+      "android": 767
     },
     {
       "game": "トゥーンブラスト",
