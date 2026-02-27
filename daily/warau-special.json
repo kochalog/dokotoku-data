@@ -36,9 +36,9 @@
     },
     {
         "game": "大三国志",
-        "ios": 1000,
+        "ios": 0,
         "android": 1500,
-        "url_ios": "https://go.warau.jp/38128/209.html",
+        "url_ios": "",
         "url_android": "https://go.warau.jp/38128/191.html"
     },
     {

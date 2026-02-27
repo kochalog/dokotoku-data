@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-27",
+  "date": "2026-02-28",
   "results": [
     {
       "game": "Arkcraft",
@@ -27,15 +27,15 @@
     },
     {
       "game": "Bravoカジノ",
-      "site": "げん玉 (AppDriver)",
-      "ios": 1231.2,
-      "android": 1231.2
-    },
-    {
-      "game": "Bravoカジノ",
       "site": "Powl (AppDriver)",
       "ios": 960,
       "android": 960
+    },
+    {
+      "game": "Bravoカジノ",
+      "site": "げん玉 (AppDriver)",
+      "ios": 912,
+      "android": 912
     },
     {
       "game": "Cash Giraffe",
@@ -59,7 +59,7 @@
       "game": "Cash Mafia",
       "site": "げん玉 (AppDriver)",
       "ios": 0,
-      "android": 656.6
+      "android": 486.4
     },
     {
       "game": "Color Sing",
@@ -141,15 +141,15 @@
     },
     {
       "game": "Dice Dreams",
-      "site": "げん玉 (AppDriver)",
-      "ios": 21757.8,
-      "android": 24124.1
-    },
-    {
-      "game": "Dice Dreams",
       "site": "ちょびリッチ (AppDriver)",
       "ios": 21563,
       "android": 23910
+    },
+    {
+      "game": "Dice Dreams",
+      "site": "げん玉 (AppDriver)",
+      "ios": 16117.8,
+      "android": 20103.6
     },
     {
       "game": "Dice Dreams",
@@ -357,15 +357,21 @@
     },
     {
       "game": "Mistplay",
-      "site": "COINCOME (SKYFLAG)",
+      "site": "げん玉 (Zucks)",
       "ios": 0,
-      "android": 8752
+      "android": 8640
+    },
+    {
+      "game": "Mistplay",
+      "site": "COINCOME",
+      "ios": 0,
+      "android": 8600
     },
     {
       "game": "PLAYTIME",
       "site": "モッピー",
       "ios": 0,
-      "android": 1600
+      "android": 1700
     },
     {
       "game": "PLAYTIME",
