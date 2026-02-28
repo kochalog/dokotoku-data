@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-28",
+  "date": "2026-03-01",
   "results": [
     {
       "game": "三國志 真戦",
@@ -87,39 +87,33 @@
     },
     {
       "game": "出荷ぶた",
-      "site": "ちょびリッチ (AppDriver)",
-      "ios": 13014.5,
-      "android": 13014.5
-    },
-    {
-      "game": "出荷ぶた",
       "site": "モッピー (Zucks)",
       "ios": 13013,
       "android": 13013
     },
     {
-      "game": "商人放浪記",
-      "site": "ワラウ",
-      "ios": 18750,
-      "android": 18750
+      "game": "出荷ぶた",
+      "site": "げん玉 (GF Rewards)",
+      "ios": 12768.2,
+      "android": 12768.2
     },
     {
       "game": "商人放浪記",
-      "site": "ハピタス (SKYFLAG)",
-      "ios": 13108,
-      "android": 17554
+      "site": "ワラウ",
+      "ios": 17470,
+      "android": 17470
     },
     {
       "game": "商人放浪記",
       "site": "モッピー (SKYFLAG)",
-      "ios": 16507,
-      "android": 16507
+      "ios": 16834,
+      "android": 16834
     },
     {
       "game": "商人放浪記",
       "site": "COINCOME (SKYFLAG)",
-      "ios": 16507,
-      "android": 16507
+      "ios": 16834,
+      "android": 16834
     },
     {
       "game": "喧嘩の花道",
@@ -130,8 +124,8 @@
     {
       "game": "喧嘩の花道",
       "site": "ちょびリッチ (AppDriver)",
-      "ios": 12204,
-      "android": 12204
+      "ios": 10800,
+      "android": 10800
     },
     {
       "game": "喧嘩の花道",
@@ -302,15 +296,9 @@
       "android": 163.2
     },
     {
-      "game": "成り上がり 華と武の戦国",
-      "site": "ハピタス (Zucks)",
-      "ios": 2345,
-      "android": 160
-    },
-    {
       "game": "我が天下 伝説武将",
       "site": "モッピー (SKYFLAG)",
-      "ios": 9782,
+      "ios": 9976,
       "android": 0
     },
     {
@@ -322,13 +310,19 @@
     {
       "game": "我が天下 伝説武将",
       "site": "ワラウ (SKYFLAG)",
-      "ios": 8360,
+      "ios": 8527,
       "android": 0
     },
     {
       "game": "我が天下 伝説武将",
       "site": "ポイントインカム (SKYFLAG)",
-      "ios": 8257.1,
+      "ios": 8421.6,
+      "android": 0
+    },
+    {
+      "game": "我が天下 伝説武将",
+      "site": "dジョブ スマホワーク (SKYFLAG)",
+      "ios": 8318,
       "android": 0
     },
     {
@@ -340,20 +334,26 @@
     {
       "game": "戦国布武 我が天下戦国編",
       "site": "ハピタス (SKYFLAG)",
-      "ios": 9954,
-      "android": 9954
+      "ios": 10166,
+      "android": 10166
     },
     {
       "game": "戦国布武 我が天下戦国編",
       "site": "モッピー (SKYFLAG)",
-      "ios": 7640,
-      "android": 7640
+      "ios": 7792,
+      "android": 7792
     },
     {
       "game": "戦国布武 我が天下戦国編",
-      "site": "Powl",
-      "ios": 7450,
-      "android": 7450
+      "site": "アメフリ",
+      "ios": 7515,
+      "android": 7515
+    },
+    {
+      "game": "放置少女",
+      "site": "dジョブ スマホワーク (SKYFLAG)",
+      "ios": 2080,
+      "android": 2340
     },
     {
       "game": "放置少女",
@@ -374,34 +374,28 @@
       "android": 1560
     },
     {
-      "game": "放置少女",
-      "site": "Powl (SKYFLAG)",
-      "ios": 2080,
-      "android": 2080
-    },
-    {
       "game": "旦那様の一発逆転人生",
       "site": "ハピタス (SKYFLAG)",
-      "ios": 8809,
-      "android": 8809
+      "ios": 8985,
+      "android": 8985
     },
     {
       "game": "旦那様の一発逆転人生",
       "site": "モッピー (SKYFLAG)",
-      "ios": 8759,
-      "android": 8759
+      "ios": 8933,
+      "android": 8933
     },
     {
       "game": "旦那様の一発逆転人生",
       "site": "ワラウ (SKYFLAG)",
-      "ios": 8449,
-      "android": 7028
+      "ios": 8618,
+      "android": 7167
     },
     {
       "game": "旦那様の一発逆転人生",
       "site": "ポイントインカム (SKYFLAG)",
-      "ios": 6941.6,
-      "android": 8345.4
+      "ios": 7080.3,
+      "android": 8512.5
     },
     {
       "game": "木こりの帝国",
@@ -561,15 +555,15 @@
     },
     {
       "game": "金とゴブリンの採掘ゲーム",
-      "site": "ポイントタウン (SmaAD)",
-      "ios": 3502,
-      "android": 3502
-    },
-    {
-      "game": "金とゴブリンの採掘ゲーム",
       "site": "アメフリ",
       "ios": 3378,
       "android": 3378
+    },
+    {
+      "game": "金とゴブリンの採掘ゲーム",
+      "site": "げん玉 (SmaAD)",
+      "ios": 3337.2,
+      "android": 3337.2
     }
   ]
 }
