@@ -1,35 +1,41 @@
 {
-  "date": "2026-02-28",
+  "date": "2026-03-01",
   "results": [
     {
       "game": "ドゥームズデイ",
       "site": "ハピタス (SKYFLAG)",
-      "ios": 17838,
-      "android": 17838
+      "ios": 18192,
+      "android": 18192
     },
     {
       "game": "ドゥームズデイ",
       "site": "COINCOME (SKYFLAG)",
-      "ios": 12634,
+      "ios": 12885,
       "android": 0
     },
     {
       "game": "ドゥームズデイ",
       "site": "ワラウ (SKYFLAG)",
-      "ios": 8934,
-      "android": 12449
+      "ios": 9113,
+      "android": 12696
     },
     {
-      "game": "ドゥームズデイ 本部レベル14到達",
-      "site": "ワラウ",
-      "ios": 1100,
-      "android": 1100
+      "game": "ドゥームズデイ",
+      "site": "アメフリ",
+      "ios": 12695,
+      "android": 12427
     },
     {
       "game": "ドゥームズデイ 本部レベル14到達",
       "site": "モッピー",
       "ios": 945,
       "android": 945
+    },
+    {
+      "game": "ドゥームズデイ 本部レベル14到達",
+      "site": "ワラウ",
+      "ios": 900,
+      "android": 900
     },
     {
       "game": "ドゥームズデイ 本部レベル14到達",
@@ -76,7 +82,7 @@
     {
       "game": "バズーカ ロワイヤル",
       "site": "ちょびリッチ (AppDriver)",
-      "ios": 244,
+      "ios": 216,
       "android": 0
     },
     {
@@ -153,12 +159,6 @@
     },
     {
       "game": "パズル＆カオス",
-      "site": "ハピタス (Zucks)",
-      "ios": 20472,
-      "android": 20472
-    },
-    {
-      "game": "パズル＆カオス",
       "site": "ECナビ (Zucks)",
       "ios": 20450,
       "android": 20450
@@ -168,6 +168,18 @@
       "site": "モッピー (Zucks)",
       "ios": 20040,
       "android": 20040
+    },
+    {
+      "game": "パズル＆カオス",
+      "site": "げん玉 (Zucks)",
+      "ios": 19632,
+      "android": 19632
+    },
+    {
+      "game": "パズル＆カオス",
+      "site": "ハピタス (Zucks)",
+      "ios": 18405,
+      "android": 18405
     },
     {
       "game": "パズル＆コンクエスト",
@@ -188,12 +200,6 @@
       "android": 46560
     },
     {
-      "game": "パズル＆コンクエスト",
-      "site": "ハピタス (Zucks)",
-      "ios": 51251,
-      "android": 46073
-    },
-    {
       "game": "ヒーローウォーズアライアンス",
       "site": "ちょびリッチ (myChips)",
       "ios": 0,
@@ -208,26 +214,26 @@
     {
       "game": "ヒーローウォーズアライアンス",
       "site": "アメフリ",
-      "ios": 2925,
+      "ios": 2982,
       "android": 3222
     },
     {
       "game": "ヒーローウォーズアライアンス",
       "site": "モッピー (SKYFLAG)",
-      "ios": 1516,
-      "android": 3036
+      "ios": 1543,
+      "android": 3094
     },
     {
       "game": "ヒーローウォーズアライアンス",
       "site": "COINCOME (SKYFLAG)",
-      "ios": 3036,
-      "android": 3036
+      "ios": 3094,
+      "android": 3094
     },
     {
       "game": "ファミリーアイランド",
       "site": "Powl (SKYFLAG)",
       "ios": 0,
-      "android": 1750.4
+      "android": 1785.6
     },
     {
       "game": "ファミリーアイランド",
@@ -273,27 +279,27 @@
     },
     {
       "game": "フェイトウォー",
-      "site": "ワラウ",
-      "ios": 12850,
-      "android": 12850
+      "site": "モッピー (SKYFLAG)",
+      "ios": 12513,
+      "android": 12513
     },
     {
       "game": "フェイトウォー",
-      "site": "モッピー (SKYFLAG)",
-      "ios": 12269,
-      "android": 12269
+      "site": "ワラウ",
+      "ios": 12240,
+      "android": 12240
     },
     {
       "game": "フェイトウォー",
       "site": "アメフリ",
-      "ios": 11832,
-      "android": 11832
+      "ios": 12067,
+      "android": 12067
     },
     {
       "game": "フェイトウォー",
       "site": "ポイントインカム (SKYFLAG)",
-      "ios": 11691.5,
-      "android": 11691.5
+      "ios": 11924.1,
+      "android": 11924.1
     },
     {
       "game": "フルハウスカジノ",
@@ -328,14 +334,14 @@
     {
       "game": "ブラウザ三国志天",
       "site": "ハピタス (Zucks)",
-      "ios": 18790,
+      "ios": 17802,
       "android": 0
     },
     {
       "game": "ホワイトアウト サバイバル",
       "site": "ワラウ",
-      "ios": 8300,
-      "android": 8300
+      "ios": 8100,
+      "android": 8100
     },
     {
       "game": "ホワイトアウト サバイバル",
@@ -364,7 +370,7 @@
     {
       "game": "マネーキング 放置銀行帝国",
       "site": "モッピー (myChips)",
-      "ios": 5724,
+      "ios": 5949,
       "android": 10954
     },
     {
@@ -453,12 +459,6 @@
     },
     {
       "game": "ミストバレー",
-      "site": "ポイントタウン (SmaAD)",
-      "ios": 204,
-      "android": 204
-    },
-    {
-      "game": "ミストバレー",
       "site": "ワラウ",
       "ios": 200,
       "android": 200
@@ -468,6 +468,12 @@
       "site": "アメフリ",
       "ios": 196,
       "android": 196
+    },
+    {
+      "game": "ミストバレー",
+      "site": "げん玉 (SmaAD)",
+      "ios": 194.4,
+      "android": 194.4
     },
     {
       "game": "メカアサルト",
@@ -549,45 +555,57 @@
     },
     {
       "game": "ライフアフター",
-      "site": "ワラウ",
-      "ios": 870,
-      "android": 870
+      "site": "ECナビ (Zucks)",
+      "ios": 1050,
+      "android": 1050
     },
     {
       "game": "ライフアフター",
-      "site": "COINCOME",
-      "ios": 525,
-      "android": 525
+      "site": "モッピー (Zucks)",
+      "ios": 1028,
+      "android": 1028
+    },
+    {
+      "game": "ライフアフター",
+      "site": "げん玉 (Zucks)",
+      "ios": 1008,
+      "android": 1008
+    },
+    {
+      "game": "ライフアフター",
+      "site": "ハピタス (Zucks)",
+      "ios": 945,
+      "android": 945
     },
     {
       "game": "リヴリーアイランド",
       "site": "げん玉 (myChips)",
-      "ios": 11789.1,
-      "android": 9030.9
+      "ios": 11834,
+      "android": 8916.3
     },
     {
       "game": "リヴリーアイランド",
       "site": "ポイントインカム (myChips)",
-      "ios": 11608.2,
-      "android": 9893.9
-    },
-    {
-      "game": "リヴリーアイランド",
-      "site": "ワラウ (myChips)",
-      "ios": 11579,
-      "android": 6736
+      "ios": 11681.2,
+      "android": 9645.4
     },
     {
       "game": "リヴリーアイランド",
       "site": "モッピー (myChips)",
-      "ios": 10875,
-      "android": 9904
+      "ios": 10994,
+      "android": 9789
     },
     {
       "game": "リヴリーアイランド",
       "site": "COINCOME (myChips)",
-      "ios": 10588,
-      "android": 6818
+      "ios": 10628,
+      "android": 6838
+    },
+    {
+      "game": "リヴリーアイランド",
+      "site": "Powl (myChips)",
+      "ios": 10547.8,
+      "android": 6952.2
     },
     {
       "game": "レイドラッシュ",
@@ -611,7 +629,7 @@
       "game": "レイドラッシュ",
       "site": "ちょびリッチ (AppDriver)",
       "ios": 0,
-      "android": 3326.5
+      "android": 2943.5
     },
     {
       "game": "レイドラッシュ",
@@ -627,12 +645,6 @@
     },
     {
       "game": "ロイヤルマッチ",
-      "site": "ちょびリッチ (AppDriver)",
-      "ios": 0,
-      "android": 1785
-    },
-    {
-      "game": "ロイヤルマッチ",
       "site": "ハピタス (AppDriver)",
       "ios": 0,
       "android": 1777
@@ -644,6 +656,12 @@
       "android": 1580.8
     },
     {
+      "game": "ロイヤルマッチ",
+      "site": "ちょびリッチ (AppDriver)",
+      "ios": 0,
+      "android": 1580.5
+    },
+    {
       "game": "ロードモバイル",
       "site": "ワラウ",
       "ios": 7600,
@@ -652,14 +670,14 @@
     {
       "game": "ロードモバイル",
       "site": "COINCOME (SKYFLAG)",
-      "ios": 6107,
-      "android": 7231
+      "ios": 6229,
+      "android": 7374
     },
     {
       "game": "ロードモバイル",
       "site": "アメフリ",
-      "ios": 5888,
-      "android": 6971
+      "ios": 6007,
+      "android": 7109
     }
   ]
 }
