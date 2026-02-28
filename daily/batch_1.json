@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-28",
+  "date": "2026-03-01",
   "results": [
     {
       "game": "Arkcraft",
@@ -39,15 +39,15 @@
     },
     {
       "game": "Cash Giraffe",
-      "site": "ハピタス (Zucks)",
-      "ios": 0,
-      "android": 3420
-    },
-    {
-      "game": "Cash Giraffe",
       "site": "ECナビ (Zucks)",
       "ios": 0,
       "android": 3400
+    },
+    {
+      "game": "Cash Giraffe",
+      "site": "ハピタス (Zucks)",
+      "ios": 0,
+      "android": 3060
     },
     {
       "game": "Cash Giraffe",
@@ -100,32 +100,32 @@
     {
       "game": "DORAKEN",
       "site": "げん玉 (GF Rewards)",
-      "ios": 588.4,
-      "android": 588.4
+      "ios": 784.8,
+      "android": 784.8
     },
     {
       "game": "DORAKEN",
       "site": "アメフリ",
-      "ios": 460,
-      "android": 460
+      "ios": 614,
+      "android": 614
     },
     {
       "game": "DORAKEN",
       "site": "ちょびリッチ (GF Rewards)",
-      "ios": 455,
-      "android": 455
+      "ios": 607,
+      "android": 607
+    },
+    {
+      "game": "DORAKEN",
+      "site": "Powl (GF Rewards)",
+      "ios": 600,
+      "android": 600
     },
     {
       "game": "DORAKEN",
       "site": "ワラウ (GF Rewards)",
-      "ios": 336,
-      "android": 336
-    },
-    {
-      "game": "DORAKEN",
-      "site": "COINCOME",
-      "ios": 280,
-      "android": 280
+      "ios": 450,
+      "android": 450
     },
     {
       "game": "Dice Dreams",
@@ -142,8 +142,8 @@
     {
       "game": "Dice Dreams",
       "site": "ちょびリッチ (AppDriver)",
-      "ios": 21563,
-      "android": 23910
+      "ios": 19085.5,
+      "android": 21159
     },
     {
       "game": "Dice Dreams",
@@ -189,13 +189,7 @@
     },
     {
       "game": "Freecash",
-      "site": "ハピタス (Zucks)",
-      "ios": 31985,
-      "android": 19273
-    },
-    {
-      "game": "Freecash",
-      "site": "ECナビ",
+      "site": "ECナビ (Zucks)",
       "ios": 31950,
       "android": 19675
     },
@@ -216,12 +210,6 @@
       "site": "げん玉 (Zucks)",
       "ios": 0,
       "android": 2400
-    },
-    {
-      "game": "Gold Miner",
-      "site": "ハピタス (Zucks)",
-      "ios": 0,
-      "android": 2373
     },
     {
       "game": "IRIAM",
@@ -276,12 +264,6 @@
       "site": "げん玉 (Zucks)",
       "ios": 0,
       "android": 2400
-    },
-    {
-      "game": "Knife Ninja",
-      "site": "ハピタス (Zucks)",
-      "ios": 0,
-      "android": 2373
     },
     {
       "game": "MONEY CASH",
@@ -362,12 +344,6 @@
       "android": 8640
     },
     {
-      "game": "Mistplay",
-      "site": "COINCOME",
-      "ios": 0,
-      "android": 8600
-    },
-    {
       "game": "PLAYTIME",
       "site": "モッピー",
       "ios": 0,
@@ -435,6 +411,12 @@
     },
     {
       "game": "Sky 星を紡ぐ子どもたち",
+      "site": "ハピタス (SKYFLAG)",
+      "ios": 3478,
+      "android": 3107
+    },
+    {
+      "game": "Sky 星を紡ぐ子どもたち",
       "site": "Powl",
       "ios": 2300,
       "android": 1800
@@ -442,20 +424,20 @@
     {
       "game": "Sky 星を紡ぐ子どもたち",
       "site": "モッピー (SKYFLAG)",
-      "ios": 2139,
-      "android": 1796
+      "ios": 2181,
+      "android": 1831
     },
     {
       "game": "Sky 星を紡ぐ子どもたち",
       "site": "COINCOME (SKYFLAG)",
-      "ios": 2139,
-      "android": 1796
+      "ios": 2181,
+      "android": 1831
     },
     {
       "game": "Sky 星を紡ぐ子どもたち",
-      "site": "ワラウ",
-      "ios": 2100,
-      "android": 1740
+      "site": "ワラウ (SKYFLAG)",
+      "ios": 2105,
+      "android": 1767
     },
     {
       "game": "Solve Earn",
