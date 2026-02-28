@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-28",
+  "date": "2026-03-01",
   "results": [
     {
       "game": "この監獄ほんmoneyすぎんご",
@@ -23,7 +23,7 @@
       "game": "この監獄ほんmoneyすぎんご",
       "site": "ハピタス (Zucks)",
       "ios": 0,
-      "android": 7454
+      "android": 7065
     },
     {
       "game": "やばい 少女に囲まれた",
@@ -76,8 +76,8 @@
     {
       "game": "すみっコぐらし 農園つくるんです",
       "site": "ちょびリッチ (AppDriver)",
-      "ios": 3367,
-      "android": 3367
+      "ios": 2980,
+      "android": 2980
     },
     {
       "game": "すみっコぐらし 農園つくるんです",
@@ -106,14 +106,14 @@
     {
       "game": "ウルフゲーム",
       "site": "モッピー (SKYFLAG)",
-      "ios": 5013,
+      "ios": 5111,
       "android": 0
     },
     {
       "game": "ウルフゲーム",
       "site": "COINCOME (SKYFLAG)",
-      "ios": 5013,
-      "android": 5013
+      "ios": 5111,
+      "android": 5111
     },
     {
       "game": "ウルフゲーム",
@@ -124,8 +124,8 @@
     {
       "game": "ウルフゲーム",
       "site": "アメフリ",
-      "ios": 4831,
-      "android": 4831
+      "ios": 4928,
+      "android": 4928
     },
     {
       "game": "エバーテイル",
@@ -141,15 +141,15 @@
     },
     {
       "game": "エバーテイル",
-      "site": "ワラウ",
-      "ios": 360,
-      "android": 360
-    },
-    {
-      "game": "エバーテイル",
       "site": "Powl",
       "ios": 350,
       "android": 350
+    },
+    {
+      "game": "エバーテイル",
+      "site": "ワラウ",
+      "ios": 310,
+      "android": 310
     },
     {
       "game": "エバーテイル",
@@ -225,15 +225,15 @@
     },
     {
       "game": "ザ アンツ",
-      "site": "ワラウ",
-      "ios": 9200,
-      "android": 9200
-    },
-    {
-      "game": "ザ アンツ",
       "site": "モッピー (SKYFLAG)",
       "ios": 6890,
       "android": 8857
+    },
+    {
+      "game": "ザ アンツ",
+      "site": "ワラウ",
+      "ios": 8830,
+      "android": 8830
     },
     {
       "game": "ザ アンツ",
@@ -252,12 +252,6 @@
       "site": "Powl",
       "ios": 0,
       "android": 76360
-    },
-    {
-      "game": "ザ グランド マフィア",
-      "site": "ハピタス (SKYFLAG)",
-      "ios": 75377,
-      "android": 75377
     },
     {
       "game": "ザ グランド マフィア",
@@ -334,32 +328,32 @@
     {
       "game": "トップウォー",
       "site": "モッピー (SKYFLAG)",
-      "ios": 44999,
-      "android": 44999
+      "ios": 45887,
+      "android": 45887
     },
     {
       "game": "トップウォー",
       "site": "COINCOME (SKYFLAG)",
-      "ios": 44999,
+      "ios": 45887,
       "android": 0
     },
     {
       "game": "トップウォー",
       "site": "ワラウ (SKYFLAG)",
-      "ios": 43411,
-      "android": 43411
+      "ios": 44269,
+      "android": 44269
     },
     {
       "game": "トップウォー",
       "site": "ポイントインカム (SKYFLAG)",
       "ios": 0,
-      "android": 42880.7
+      "android": 43728.1
     },
     {
       "game": "トップウォー",
       "site": "ちょびリッチ (SKYFLAG)",
-      "ios": 42351.5,
-      "android": 42351.5
+      "ios": 43188.5,
+      "android": 43188.5
     },
     {
       "game": "トラップモンスター",
@@ -387,9 +381,9 @@
     },
     {
       "game": "トラップモンスター",
-      "site": "ちょびリッチ (AppDriver)",
+      "site": "ちょびリッチ",
       "ios": 0,
-      "android": 767
+      "android": 756
     },
     {
       "game": "トゥーンブラスト",
