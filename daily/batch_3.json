@@ -1,11 +1,17 @@
 {
-  "date": "2026-03-01",
+  "date": "2026-03-02",
   "results": [
     {
       "game": "ドゥームズデイ",
       "site": "ハピタス (SKYFLAG)",
       "ios": 18192,
       "android": 18192
+    },
+    {
+      "game": "ドゥームズデイ",
+      "site": "Powl (SKYFLAG)",
+      "ios": 13339.8,
+      "android": 13339.8
     },
     {
       "game": "ドゥームズデイ",
@@ -18,12 +24,6 @@
       "site": "ワラウ (SKYFLAG)",
       "ios": 9113,
       "android": 12696
-    },
-    {
-      "game": "ドゥームズデイ",
-      "site": "アメフリ",
-      "ios": 12695,
-      "android": 12427
     },
     {
       "game": "ドゥームズデイ 本部レベル14到達",
@@ -219,21 +219,21 @@
     },
     {
       "game": "ヒーローウォーズアライアンス",
-      "site": "モッピー (SKYFLAG)",
-      "ios": 1543,
-      "android": 3094
+      "site": "Powl (SKYFLAG)",
+      "ios": 3203.2,
+      "android": 3203.2
     },
     {
       "game": "ヒーローウォーズアライアンス",
-      "site": "COINCOME (SKYFLAG)",
-      "ios": 3094,
+      "site": "モッピー (SKYFLAG)",
+      "ios": 1543,
       "android": 3094
     },
     {
       "game": "ファミリーアイランド",
       "site": "Powl (SKYFLAG)",
       "ios": 0,
-      "android": 1785.6
+      "android": 1964.2
     },
     {
       "game": "ファミリーアイランド",
@@ -370,7 +370,7 @@
     {
       "game": "マネーキング 放置銀行帝国",
       "site": "モッピー (myChips)",
-      "ios": 5949,
+      "ios": 5447,
       "android": 10954
     },
     {
@@ -399,14 +399,8 @@
     },
     {
       "game": "マフィア シティ",
-      "site": "ワラウ",
-      "ios": 62300,
-      "android": 62300
-    },
-    {
-      "game": "マフィア シティ",
       "site": "Powl",
-      "ios": 50900,
+      "ios": 46600,
       "android": 56000
     },
     {
@@ -422,10 +416,28 @@
       "android": 53510
     },
     {
+      "game": "マフィア シティ",
+      "site": "ワラウ (SKYFLAG)",
+      "ios": 40114,
+      "android": 51620
+    },
+    {
+      "game": "マフィア シティ",
+      "site": "dジョブ スマホワーク (SKYFLAG)",
+      "ios": 0,
+      "android": 50362
+    },
+    {
       "game": "ミクチャ",
       "site": "モッピー",
       "ios": 1995,
       "android": 1995
+    },
+    {
+      "game": "ミクチャ",
+      "site": "Powl (SKYFLAG)",
+      "ios": 1848,
+      "android": 1848
     },
     {
       "game": "ミクチャ",
@@ -436,12 +448,6 @@
     {
       "game": "ミクチャ",
       "site": "ワラウ",
-      "ios": 1750,
-      "android": 1750
-    },
-    {
-      "game": "ミクチャ",
-      "site": "Powl",
       "ios": 1750,
       "android": 1750
     },
@@ -477,6 +483,12 @@
     },
     {
       "game": "メカアサルト",
+      "site": "Powl (SKYFLAG)",
+      "ios": 1161.6,
+      "android": 2006.4
+    },
+    {
+      "game": "メカアサルト",
       "site": "ワラウ",
       "ios": 1750,
       "android": 1940
@@ -494,10 +506,10 @@
       "android": 1868
     },
     {
-      "game": "メカアサルト",
-      "site": "ポイントインカム (SKYFLAG)",
-      "ios": 1069.2,
-      "android": 1846.8
+      "game": "メメントモリ ランク110到達",
+      "site": "Powl (SKYFLAG)",
+      "ios": 4694.8,
+      "android": 4694.8
     },
     {
       "game": "メメントモリ ランク110到達",
@@ -513,21 +525,9 @@
     },
     {
       "game": "メメントモリ ランク110到達",
-      "site": "Powl",
-      "ios": 4400,
-      "android": 4400
-    },
-    {
-      "game": "メメントモリ ランク110到達",
       "site": "ワラウ (SKYFLAG)",
       "ios": 4374,
       "android": 4374
-    },
-    {
-      "game": "メメントモリ ランク110到達",
-      "site": "ポイントインカム (SKYFLAG)",
-      "ios": 4321.3,
-      "android": 4321.3
     },
     {
       "game": "モンスターコレクト",
@@ -580,32 +580,32 @@
     {
       "game": "リヴリーアイランド",
       "site": "げん玉 (myChips)",
-      "ios": 11834,
-      "android": 8916.3
+      "ios": 11876.7,
+      "android": 8915.4
     },
     {
       "game": "リヴリーアイランド",
       "site": "ポイントインカム (myChips)",
-      "ios": 11681.2,
-      "android": 9645.4
-    },
-    {
-      "game": "リヴリーアイランド",
-      "site": "モッピー (myChips)",
-      "ios": 10994,
-      "android": 9789
-    },
-    {
-      "game": "リヴリーアイランド",
-      "site": "COINCOME (myChips)",
-      "ios": 10628,
-      "android": 6838
+      "ios": 11660.5,
+      "android": 9773.6
     },
     {
       "game": "リヴリーアイランド",
       "site": "Powl (myChips)",
-      "ios": 10547.8,
-      "android": 6952.2
+      "ios": 11127.1,
+      "android": 6952.1
+    },
+    {
+      "game": "リヴリーアイランド",
+      "site": "モッピー (myChips)",
+      "ios": 11001,
+      "android": 9829
+    },
+    {
+      "game": "リヴリーアイランド",
+      "site": "COINCOME (myChips)",
+      "ios": 10665,
+      "android": 6748
     },
     {
       "game": "レイドラッシュ",
@@ -666,6 +666,12 @@
       "site": "ワラウ",
       "ios": 7600,
       "android": 10150
+    },
+    {
+      "game": "ロードモバイル",
+      "site": "Powl (SKYFLAG)",
+      "ios": 6448.6,
+      "android": 7633.9
     },
     {
       "game": "ロードモバイル",
