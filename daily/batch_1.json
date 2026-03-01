@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-01",
+  "date": "2026-03-02",
   "results": [
     {
       "game": "Arkcraft",
@@ -81,15 +81,9 @@
     },
     {
       "game": "Color Sing",
-      "site": "Powl",
-      "ios": 700,
-      "android": 700
-    },
-    {
-      "game": "Color Sing",
-      "site": "アメフリ",
-      "ios": 656,
-      "android": 656
+      "site": "Powl (SKYFLAG)",
+      "ios": 704,
+      "android": 704
     },
     {
       "game": "Count & Earn",
@@ -219,27 +213,21 @@
     },
     {
       "game": "IRIAM",
-      "site": "Powl",
-      "ios": 250,
-      "android": 250
-    },
-    {
-      "game": "IRIAM",
       "site": "モッピー",
       "ios": 228,
       "android": 228
     },
     {
       "game": "IRIAM",
-      "site": "COINCOME (SKYFLAG)",
-      "ios": 204,
-      "android": 204
+      "site": "Powl (SKYFLAG)",
+      "ios": 211.2,
+      "android": 211.2
     },
     {
       "game": "IRIAM",
-      "site": "ワラウ (SKYFLAG)",
-      "ios": 197,
-      "android": 197
+      "site": "COINCOME (SKYFLAG)",
+      "ios": 204,
+      "android": 204
     },
     {
       "game": "Idle Bank Tycoon",
@@ -320,12 +308,6 @@
       "android": 710
     },
     {
-      "game": "Mirrativ",
-      "site": "アメフリ",
-      "ios": 697,
-      "android": 697
-    },
-    {
       "game": "Mistplay",
       "site": "ECナビ (Zucks)",
       "ios": 0,
@@ -387,15 +369,15 @@
     },
     {
       "game": "Pococha",
-      "site": "ワラウ",
-      "ios": 2200,
-      "android": 2200
-    },
-    {
-      "game": "Pococha",
       "site": "ハピタス",
       "ios": 2010,
       "android": 2010
+    },
+    {
+      "game": "Pococha",
+      "site": "ワラウ",
+      "ios": 2000,
+      "android": 2000
     },
     {
       "game": "Rise of Kingdoms",
@@ -432,12 +414,6 @@
       "site": "COINCOME (SKYFLAG)",
       "ios": 2181,
       "android": 1831
-    },
-    {
-      "game": "Sky 星を紡ぐ子どもたち",
-      "site": "ワラウ (SKYFLAG)",
-      "ios": 2105,
-      "android": 1767
     },
     {
       "game": "Solve Earn",
