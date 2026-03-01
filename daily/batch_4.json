@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-01",
+  "date": "2026-03-02",
   "results": [
     {
       "game": "三國志 真戦",
@@ -303,8 +303,8 @@
     },
     {
       "game": "我が天下 伝説武将",
-      "site": "Powl",
-      "ios": 8800,
+      "site": "Powl (SKYFLAG)",
+      "ios": 9149.3,
       "android": 0
     },
     {
@@ -317,12 +317,6 @@
       "game": "我が天下 伝説武将",
       "site": "ポイントインカム (SKYFLAG)",
       "ios": 8421.6,
-      "android": 0
-    },
-    {
-      "game": "我が天下 伝説武将",
-      "site": "dジョブ スマホワーク (SKYFLAG)",
-      "ios": 8318,
       "android": 0
     },
     {
@@ -339,21 +333,27 @@
     },
     {
       "game": "戦国布武 我が天下戦国編",
-      "site": "モッピー (SKYFLAG)",
-      "ios": 7792,
-      "android": 7792
+      "site": "Powl (SKYFLAG)",
+      "ios": 8067.9,
+      "android": 8067.9
     },
     {
       "game": "戦国布武 我が天下戦国編",
-      "site": "アメフリ",
-      "ios": 7515,
-      "android": 7515
+      "site": "モッピー (SKYFLAG)",
+      "ios": 7792,
+      "android": 7792
     },
     {
       "game": "放置少女",
       "site": "dジョブ スマホワーク (SKYFLAG)",
       "ios": 2080,
       "android": 2340
+    },
+    {
+      "game": "放置少女",
+      "site": "Powl (SKYFLAG)",
+      "ios": 2288,
+      "android": 2288
     },
     {
       "game": "放置少女",
@@ -369,9 +369,15 @@
     },
     {
       "game": "放置少女",
-      "site": "ちょびリッチ (SKYFLAG)",
+      "site": "ちょびリッチ",
       "ios": 2080,
       "android": 1560
+    },
+    {
+      "game": "旦那様の一発逆転人生",
+      "site": "Powl (SKYFLAG)",
+      "ios": 9247.9,
+      "android": 7692
     },
     {
       "game": "旦那様の一発逆転人生",
@@ -390,12 +396,6 @@
       "site": "ワラウ (SKYFLAG)",
       "ios": 8618,
       "android": 7167
-    },
-    {
-      "game": "旦那様の一発逆転人生",
-      "site": "ポイントインカム (SKYFLAG)",
-      "ios": 7080.3,
-      "android": 8512.5
     },
     {
       "game": "木こりの帝国",
