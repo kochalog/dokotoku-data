@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-02",
+  "date": "2026-03-03",
   "results": [
     {
       "game": "Arkcraft",
@@ -11,7 +11,7 @@
       "game": "Arkcraft",
       "site": "げん玉 (GF Rewards)",
       "ios": 0,
-      "android": 4749.3
+      "android": 4227.6
     },
     {
       "game": "Arkcraft",
@@ -39,21 +39,27 @@
     },
     {
       "game": "Cash Giraffe",
-      "site": "ECナビ (Zucks)",
-      "ios": 0,
-      "android": 3400
-    },
-    {
-      "game": "Cash Giraffe",
-      "site": "ハピタス (Zucks)",
-      "ios": 0,
-      "android": 3060
-    },
-    {
-      "game": "Cash Giraffe",
       "site": "げん玉",
       "ios": 0,
       "android": 3000
+    },
+    {
+      "game": "Cash Giraffe",
+      "site": "COINCOME",
+      "ios": 0,
+      "android": 3000
+    },
+    {
+      "game": "Cash Giraffe",
+      "site": "Powl (myChips)",
+      "ios": 0,
+      "android": 577.3
+    },
+    {
+      "game": "Cash Giraffe",
+      "site": "ワラウ (myChips)",
+      "ios": 0,
+      "android": 560
     },
     {
       "game": "Cash Mafia",
@@ -81,9 +87,15 @@
     },
     {
       "game": "Color Sing",
-      "site": "Powl (SKYFLAG)",
-      "ios": 704,
-      "android": 704
+      "site": "Powl",
+      "ios": 700,
+      "android": 700
+    },
+    {
+      "game": "Color Sing",
+      "site": "アメフリ",
+      "ios": 656,
+      "android": 656
     },
     {
       "game": "Count & Earn",
@@ -94,8 +106,8 @@
     {
       "game": "DORAKEN",
       "site": "げん玉 (GF Rewards)",
-      "ios": 784.8,
-      "android": 784.8
+      "ios": 698.6,
+      "android": 698.6
     },
     {
       "game": "DORAKEN",
@@ -177,15 +189,15 @@
     },
     {
       "game": "Freecash",
-      "site": "げん玉 (GF Rewards)",
-      "ios": 33657,
-      "android": 4509.1
-    },
-    {
-      "game": "Freecash",
       "site": "ECナビ (Zucks)",
       "ios": 31950,
       "android": 19675
+    },
+    {
+      "game": "Freecash",
+      "site": "げん玉 (Zucks)",
+      "ios": 30672,
+      "android": 18888
     },
     {
       "game": "Gold Miner",
@@ -219,15 +231,21 @@
     },
     {
       "game": "IRIAM",
-      "site": "Powl (SKYFLAG)",
-      "ios": 211.2,
-      "android": 211.2
-    },
-    {
-      "game": "IRIAM",
       "site": "COINCOME (SKYFLAG)",
       "ios": 204,
       "android": 204
+    },
+    {
+      "game": "IRIAM",
+      "site": "Powl",
+      "ios": 200,
+      "android": 200
+    },
+    {
+      "game": "IRIAM",
+      "site": "ワラウ (SKYFLAG)",
+      "ios": 197,
+      "android": 197
     },
     {
       "game": "Idle Bank Tycoon",
@@ -256,25 +274,25 @@
     {
       "game": "MONEY CASH",
       "site": "Powl (myChips)",
-      "ios": 747.9,
+      "ios": 0,
       "android": 2424.3
     },
     {
       "game": "MONEY CASH",
       "site": "ハピタス (myChips)",
-      "ios": 748,
+      "ios": 1268,
       "android": 2424
     },
     {
       "game": "MONEY CASH",
       "site": "ワラウ (myChips)",
-      "ios": 725,
+      "ios": 1228,
       "android": 2351
     },
     {
       "game": "MONEY CASH",
       "site": "COINCOME (myChips)",
-      "ios": 725,
+      "ios": 1228,
       "android": 2351
     },
     {
@@ -308,6 +326,12 @@
       "android": 710
     },
     {
+      "game": "Mirrativ",
+      "site": "アメフリ",
+      "ios": 697,
+      "android": 697
+    },
+    {
       "game": "Mistplay",
       "site": "ECナビ (Zucks)",
       "ios": 0,
@@ -339,12 +363,6 @@
     },
     {
       "game": "PLAYTIME",
-      "site": "ハピタス (myChips)",
-      "ios": 0,
-      "android": 1023
-    },
-    {
-      "game": "PLAYTIME",
       "site": "Powl (myChips)",
       "ios": 0,
       "android": 1021.4
@@ -354,6 +372,12 @@
       "site": "ちょびリッチ (myChips)",
       "ios": 0,
       "android": 1015
+    },
+    {
+      "game": "PLAYTIME",
+      "site": "ワラウ (myChips)",
+      "ios": 0,
+      "android": 990
     },
     {
       "game": "Pococha",
@@ -377,7 +401,7 @@
       "game": "Pococha",
       "site": "ワラウ",
       "ios": 2000,
-      "android": 2000
+      "android": 0
     },
     {
       "game": "Rise of Kingdoms",
@@ -416,6 +440,12 @@
       "android": 1831
     },
     {
+      "game": "Sky 星を紡ぐ子どもたち",
+      "site": "ワラウ (SKYFLAG)",
+      "ios": 2105,
+      "android": 1767
+    },
+    {
       "game": "Solve Earn",
       "site": "COINCOME",
       "ios": 0,
@@ -431,7 +461,7 @@
       "game": "Supreme King",
       "site": "げん玉 (GF Rewards)",
       "ios": 0,
-      "android": 485.6
+      "android": 432.3
     },
     {
       "game": "Supreme King",
@@ -462,6 +492,42 @@
       "site": "COINCOME",
       "ios": 0,
       "android": 157
+    },
+    {
+      "game": "この監獄ほんmoneyすぎんご",
+      "site": "ハピタス (AppDriver)",
+      "ios": 0,
+      "android": 6703
+    },
+    {
+      "game": "この監獄ほんmoneyすぎんご",
+      "site": "COINCOME",
+      "ios": 0,
+      "android": 6410
+    },
+    {
+      "game": "この監獄ほんmoneyすぎんご",
+      "site": "アメフリ",
+      "ios": 0,
+      "android": 6280
+    },
+    {
+      "game": "この監獄ほんmoneyすぎんご",
+      "site": "ちょびリッチ (AppDriver)",
+      "ios": 0,
+      "android": 5651
+    },
+    {
+      "game": "この監獄ほんmoneyすぎんご",
+      "site": "楽天ポイ活ミッション特集 (AppDriver)",
+      "ios": 0,
+      "android": 5495
+    },
+    {
+      "game": "やばい 少女に囲まれた",
+      "site": "COINCOME",
+      "ios": 24,
+      "android": 0
     }
   ]
 }
