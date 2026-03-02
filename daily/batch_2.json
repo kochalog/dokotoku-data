@@ -1,36 +1,6 @@
 {
-  "date": "2026-03-02",
+  "date": "2026-03-03",
   "results": [
-    {
-      "game": "この監獄ほんmoneyすぎんご",
-      "site": "ECナビ (Zucks)",
-      "ios": 0,
-      "android": 7850
-    },
-    {
-      "game": "この監獄ほんmoneyすぎんご",
-      "site": "モッピー (Zucks)",
-      "ios": 0,
-      "android": 7691
-    },
-    {
-      "game": "この監獄ほんmoneyすぎんご",
-      "site": "げん玉 (Zucks)",
-      "ios": 0,
-      "android": 7536
-    },
-    {
-      "game": "この監獄ほんmoneyすぎんご",
-      "site": "ハピタス (Zucks)",
-      "ios": 0,
-      "android": 7065
-    },
-    {
-      "game": "やばい 少女に囲まれた",
-      "site": "COINCOME",
-      "ios": 24,
-      "android": 0
-    },
     {
       "game": "ようとん場MIX",
       "site": "ワラウ",
@@ -59,7 +29,7 @@
       "game": "ようとん場MIX",
       "site": "げん玉",
       "ios": 66.3,
-      "android": 54.6
+      "android": 0
     },
     {
       "game": "すみっコぐらし 農園つくるんです",
@@ -105,12 +75,6 @@
     },
     {
       "game": "ウルフゲーム",
-      "site": "Powl (SKYFLAG)",
-      "ios": 5291.5,
-      "android": 5291.5
-    },
-    {
-      "game": "ウルフゲーム",
       "site": "モッピー (SKYFLAG)",
       "ios": 5111,
       "android": 0
@@ -126,6 +90,12 @@
       "site": "ワラウ",
       "ios": 5000,
       "android": 5000
+    },
+    {
+      "game": "ウルフゲーム",
+      "site": "アメフリ",
+      "ios": 4928,
+      "android": 4928
     },
     {
       "game": "エバーテイル",
@@ -166,7 +136,7 @@
     {
       "game": "カジノ ジャックポットワールド",
       "site": "げん玉 (GF Rewards)",
-      "ios": 4044.6,
+      "ios": 3600.4,
       "android": 0
     },
     {
@@ -188,6 +158,12 @@
       "android": 0
     },
     {
+      "game": "キング オブ アバロン",
+      "site": "ワラウ (SKYFLAG)",
+      "ios": 33580,
+      "android": 0
+    },
+    {
       "game": "クロンダイクの冒険",
       "site": "Powl",
       "ios": 915,
@@ -202,20 +178,26 @@
     {
       "game": "コインマスター",
       "site": "モッピー (AppDriver)",
-      "ios": 2188,
-      "android": 2188
+      "ios": 1167,
+      "android": 1167
     },
     {
       "game": "コインマスター",
       "site": "ハピタス (AppDriver)",
-      "ios": 1974,
-      "android": 1974
+      "ios": 1055,
+      "android": 1055
+    },
+    {
+      "game": "コインマスター",
+      "site": "ワラウ",
+      "ios": 910,
+      "android": 0
     },
     {
       "game": "コインマスター",
       "site": "Powl (AppDriver)",
-      "ios": 1564.8,
-      "android": 1564.8
+      "ios": 837.6,
+      "android": 837.6
     },
     {
       "game": "ゴールデンタイガー",
@@ -245,7 +227,7 @@
       "game": "ザ グランド マフィア",
       "site": "げん玉 (GF Rewards)",
       "ios": 0,
-      "android": 93359.5
+      "android": 83100.8
     },
     {
       "game": "ザ グランド マフィア",
@@ -268,8 +250,8 @@
     {
       "game": "スーパーラッキーカジノ",
       "site": "げん玉 (GF Rewards)",
-      "ios": 10811.2,
-      "android": 9804.3
+      "ios": 9623.3,
+      "android": 8727
     },
     {
       "game": "スーパーラッキーカジノ",
@@ -327,12 +309,6 @@
     },
     {
       "game": "トップウォー",
-      "site": "Powl (SKYFLAG)",
-      "ios": 0,
-      "android": 47506.8
-    },
-    {
-      "game": "トップウォー",
       "site": "モッピー (SKYFLAG)",
       "ios": 45887,
       "android": 45887
@@ -354,6 +330,12 @@
       "site": "ポイントインカム (SKYFLAG)",
       "ios": 0,
       "android": 43728.1
+    },
+    {
+      "game": "トップウォー",
+      "site": "ちょびリッチ (SKYFLAG)",
+      "ios": 43188.5,
+      "android": 43188.5
     },
     {
       "game": "トラップモンスター",
@@ -402,6 +384,120 @@
       "site": "アメフリ",
       "ios": 1918,
       "android": 2025
+    },
+    {
+      "game": "トゥーンブラスト",
+      "site": "ワラウ (SKYFLAG)",
+      "ios": 1919,
+      "android": 2025
+    },
+    {
+      "game": "ドゥームズデイ",
+      "site": "ハピタス (SKYFLAG)",
+      "ios": 18192,
+      "android": 18192
+    },
+    {
+      "game": "ドゥームズデイ",
+      "site": "COINCOME (SKYFLAG)",
+      "ios": 12885,
+      "android": 0
+    },
+    {
+      "game": "ドゥームズデイ",
+      "site": "ワラウ (SKYFLAG)",
+      "ios": 9113,
+      "android": 12696
+    },
+    {
+      "game": "ドゥームズデイ",
+      "site": "アメフリ",
+      "ios": 12695,
+      "android": 12427
+    },
+    {
+      "game": "ドゥームズデイ 本部レベル14到達",
+      "site": "モッピー",
+      "ios": 945,
+      "android": 945
+    },
+    {
+      "game": "ドゥームズデイ 本部レベル14到達",
+      "site": "ワラウ",
+      "ios": 900,
+      "android": 900
+    },
+    {
+      "game": "ドゥームズデイ 本部レベル14到達",
+      "site": "ポイントインカム",
+      "ios": 750,
+      "android": 750
+    },
+    {
+      "game": "ドゥームズデイ 本部レベル14到達",
+      "site": "COINCOME",
+      "ios": 525,
+      "android": 525
+    },
+    {
+      "game": "ドラゴンスケープスの冒険",
+      "site": "ECナビ",
+      "ios": 0,
+      "android": 0
+    },
+    {
+      "game": "バイオハザード サバイバルユニット",
+      "site": "げん玉",
+      "ios": 35,
+      "android": 0
+    },
+    {
+      "game": "バイオハザード サバイバルユニット",
+      "site": "COINCOME",
+      "ios": 35,
+      "android": 0
+    },
+    {
+      "game": "バズーカ ロワイヤル",
+      "site": "モッピー (AppDriver)",
+      "ios": 284,
+      "android": 0
+    },
+    {
+      "game": "バズーカ ロワイヤル",
+      "site": "ハピタス (AppDriver)",
+      "ios": 256,
+      "android": 0
+    },
+    {
+      "game": "バズーカ ロワイヤル",
+      "site": "ちょびリッチ (AppDriver)",
+      "ios": 216,
+      "android": 0
+    },
+    {
+      "game": "バズーカ ロワイヤル",
+      "site": "Powl (AppDriver)",
+      "ios": 192,
+      "android": 0
+    },
+    {
+      "game": "バズーカ ロワイヤル",
+      "site": "げん玉 (AppDriver)",
+      "ios": 182.4,
+      "android": 0
+    },
+    {
+      "game": "バリバリ大作戦",
+      "site": "Powl",
+      "ios": 1100.1,
+      "android": 1105.1
+    },
+    {
+      "game": "バリバリ大作戦",
+      "site": "COINCOME",
+      "ios": 680,
+      "android": 0
     }
   ]
 }
