@@ -1,114 +1,6 @@
 {
-  "date": "2026-03-02",
+  "date": "2026-03-03",
   "results": [
-    {
-      "game": "ドゥームズデイ",
-      "site": "ハピタス (SKYFLAG)",
-      "ios": 18192,
-      "android": 18192
-    },
-    {
-      "game": "ドゥームズデイ",
-      "site": "Powl (SKYFLAG)",
-      "ios": 13339.8,
-      "android": 13339.8
-    },
-    {
-      "game": "ドゥームズデイ",
-      "site": "COINCOME (SKYFLAG)",
-      "ios": 12885,
-      "android": 0
-    },
-    {
-      "game": "ドゥームズデイ",
-      "site": "ワラウ (SKYFLAG)",
-      "ios": 9113,
-      "android": 12696
-    },
-    {
-      "game": "ドゥームズデイ 本部レベル14到達",
-      "site": "モッピー",
-      "ios": 945,
-      "android": 945
-    },
-    {
-      "game": "ドゥームズデイ 本部レベル14到達",
-      "site": "ワラウ",
-      "ios": 900,
-      "android": 900
-    },
-    {
-      "game": "ドゥームズデイ 本部レベル14到達",
-      "site": "ポイントインカム",
-      "ios": 750,
-      "android": 750
-    },
-    {
-      "game": "ドゥームズデイ 本部レベル14到達",
-      "site": "COINCOME",
-      "ios": 525,
-      "android": 525
-    },
-    {
-      "game": "ドラゴンスケープスの冒険",
-      "site": "ECナビ",
-      "ios": 0,
-      "android": 0
-    },
-    {
-      "game": "バイオハザード サバイバルユニット",
-      "site": "げん玉",
-      "ios": 35,
-      "android": 0
-    },
-    {
-      "game": "バイオハザード サバイバルユニット",
-      "site": "COINCOME",
-      "ios": 35,
-      "android": 0
-    },
-    {
-      "game": "バズーカ ロワイヤル",
-      "site": "モッピー (AppDriver)",
-      "ios": 284,
-      "android": 0
-    },
-    {
-      "game": "バズーカ ロワイヤル",
-      "site": "ハピタス (AppDriver)",
-      "ios": 256,
-      "android": 0
-    },
-    {
-      "game": "バズーカ ロワイヤル",
-      "site": "ちょびリッチ (AppDriver)",
-      "ios": 216,
-      "android": 0
-    },
-    {
-      "game": "バズーカ ロワイヤル",
-      "site": "Powl (AppDriver)",
-      "ios": 192,
-      "android": 0
-    },
-    {
-      "game": "バズーカ ロワイヤル",
-      "site": "げん玉 (AppDriver)",
-      "ios": 182.4,
-      "android": 0
-    },
-    {
-      "game": "バリバリ大作戦",
-      "site": "Powl",
-      "ios": 1100.1,
-      "android": 1105.1
-    },
-    {
-      "game": "バリバリ大作戦",
-      "site": "COINCOME",
-      "ios": 680,
-      "android": 0
-    },
     {
       "game": "パイレーツ オブ カリビアン",
       "site": "ワラウ",
@@ -130,14 +22,8 @@
     {
       "game": "パイレーツ オブ カリビアン",
       "site": "げん玉 (GF Rewards)",
-      "ios": 1276.3,
+      "ios": 1136.2,
       "android": 0
-    },
-    {
-      "game": "パイレーツ オブ カリビアン",
-      "site": "dジョブ スマホワーク",
-      "ios": 0,
-      "android": 1100
     },
     {
       "game": "パズル サバイバル",
@@ -153,9 +39,15 @@
     },
     {
       "game": "パズル サバイバル",
-      "site": "ECナビ (Zucks)",
-      "ios": 33435,
-      "android": 0
+      "site": "ちょびリッチ (AppDriver)",
+      "ios": 0,
+      "android": 25586.5
+    },
+    {
+      "game": "パズル サバイバル",
+      "site": "Powl",
+      "ios": 24300,
+      "android": 17000
     },
     {
       "game": "パズル＆カオス",
@@ -183,21 +75,21 @@
     },
     {
       "game": "パズル＆コンクエスト",
-      "site": "ECナビ (Zucks)",
-      "ios": 53950,
-      "android": 48500
+      "site": "モッピー (AppDriver)",
+      "ios": 29689,
+      "android": 26189
     },
     {
       "game": "パズル＆コンクエスト",
-      "site": "モッピー (Zucks)",
-      "ios": 52871,
-      "android": 47530
+      "site": "ハピタス (SKYFLAG)",
+      "ios": 28905,
+      "android": 20107
     },
     {
       "game": "パズル＆コンクエスト",
-      "site": "げん玉 (Zucks)",
-      "ios": 51792,
-      "android": 46560
+      "site": "ポイントインカム (SKYFLAG)",
+      "ios": 25724.2,
+      "android": 14265.9
     },
     {
       "game": "ヒーローウォーズアライアンス",
@@ -219,21 +111,21 @@
     },
     {
       "game": "ヒーローウォーズアライアンス",
-      "site": "Powl (SKYFLAG)",
-      "ios": 3203.2,
-      "android": 3203.2
+      "site": "モッピー (SKYFLAG)",
+      "ios": 1543,
+      "android": 3094
     },
     {
       "game": "ヒーローウォーズアライアンス",
-      "site": "モッピー (SKYFLAG)",
-      "ios": 1543,
+      "site": "COINCOME (SKYFLAG)",
+      "ios": 3094,
       "android": 3094
     },
     {
       "game": "ファミリーアイランド",
       "site": "Powl (SKYFLAG)",
       "ios": 0,
-      "android": 1964.2
+      "android": 1785.6
     },
     {
       "game": "ファミリーアイランド",
@@ -370,7 +262,7 @@
     {
       "game": "マネーキング 放置銀行帝国",
       "site": "モッピー (myChips)",
-      "ios": 5447,
+      "ios": 5397,
       "android": 10954
     },
     {
@@ -423,21 +315,15 @@
     },
     {
       "game": "マフィア シティ",
-      "site": "dジョブ スマホワーク (SKYFLAG)",
-      "ios": 0,
-      "android": 50362
+      "site": "ちょびリッチ",
+      "ios": 21144,
+      "android": 21144
     },
     {
       "game": "ミクチャ",
       "site": "モッピー",
       "ios": 1995,
       "android": 1995
-    },
-    {
-      "game": "ミクチャ",
-      "site": "Powl (SKYFLAG)",
-      "ios": 1848,
-      "android": 1848
     },
     {
       "game": "ミクチャ",
@@ -448,6 +334,12 @@
     {
       "game": "ミクチャ",
       "site": "ワラウ",
+      "ios": 1750,
+      "android": 1750
+    },
+    {
+      "game": "ミクチャ",
+      "site": "Powl",
       "ios": 1750,
       "android": 1750
     },
@@ -483,12 +375,6 @@
     },
     {
       "game": "メカアサルト",
-      "site": "Powl (SKYFLAG)",
-      "ios": 1161.6,
-      "android": 2006.4
-    },
-    {
-      "game": "メカアサルト",
       "site": "ワラウ",
       "ios": 1750,
       "android": 1940
@@ -506,10 +392,10 @@
       "android": 1868
     },
     {
-      "game": "メメントモリ ランク110到達",
-      "site": "Powl (SKYFLAG)",
-      "ios": 4694.8,
-      "android": 4694.8
+      "game": "メカアサルト",
+      "site": "ポイントインカム (SKYFLAG)",
+      "ios": 1069.2,
+      "android": 1846.8
     },
     {
       "game": "メメントモリ ランク110到達",
@@ -525,9 +411,21 @@
     },
     {
       "game": "メメントモリ ランク110到達",
+      "site": "Powl",
+      "ios": 4400,
+      "android": 4400
+    },
+    {
+      "game": "メメントモリ ランク110到達",
       "site": "ワラウ (SKYFLAG)",
       "ios": 4374,
       "android": 4374
+    },
+    {
+      "game": "メメントモリ ランク110到達",
+      "site": "ポイントインカム (SKYFLAG)",
+      "ios": 4321.3,
+      "android": 4321.3
     },
     {
       "game": "モンスターコレクト",
@@ -580,32 +478,32 @@
     {
       "game": "リヴリーアイランド",
       "site": "げん玉 (myChips)",
-      "ios": 11876.7,
-      "android": 8915.4
+      "ios": 11958.9,
+      "android": 8830.8
     },
     {
       "game": "リヴリーアイランド",
       "site": "ポイントインカム (myChips)",
-      "ios": 11660.5,
-      "android": 9773.6
+      "ios": 11760.5,
+      "android": 9614.6
     },
     {
       "game": "リヴリーアイランド",
       "site": "Powl (myChips)",
-      "ios": 11127.1,
-      "android": 6952.1
+      "ios": 11190.4,
+      "android": 6895.7
     },
     {
       "game": "リヴリーアイランド",
       "site": "モッピー (myChips)",
-      "ios": 11001,
-      "android": 9829
+      "ios": 11115,
+      "android": 9724
     },
     {
       "game": "リヴリーアイランド",
       "site": "COINCOME (myChips)",
-      "ios": 10665,
-      "android": 6748
+      "ios": 10740,
+      "android": 6691
     },
     {
       "game": "レイドラッシュ",
@@ -669,12 +567,6 @@
     },
     {
       "game": "ロードモバイル",
-      "site": "Powl (SKYFLAG)",
-      "ios": 6448.6,
-      "android": 7633.9
-    },
-    {
-      "game": "ロードモバイル",
       "site": "COINCOME (SKYFLAG)",
       "ios": 6229,
       "android": 7374
@@ -684,6 +576,162 @@
       "site": "アメフリ",
       "ios": 6007,
       "android": 7109
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "げん玉 (myChips)",
+      "ios": 0,
+      "android": 0
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "モッピー",
+      "ios": 5300,
+      "android": 5300
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "COINCOME",
+      "ios": 5300,
+      "android": 5300
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "Powl",
+      "ios": 5200,
+      "android": 5200
+    },
+    {
+      "game": "三國志 真戦",
+      "site": "ハピタス (SKYFLAG)",
+      "ios": 5184,
+      "android": 3744
+    },
+    {
+      "game": "三国志 戦乱",
+      "site": "Powl",
+      "ios": 1950,
+      "android": 0
+    },
+    {
+      "game": "三国志 戦乱",
+      "site": "COINCOME",
+      "ios": 857,
+      "android": 1145
+    },
+    {
+      "game": "信長の野望 天下への道",
+      "site": "COINCOME",
+      "ios": 2905,
+      "android": 0
+    },
+    {
+      "game": "信長の野望 真戦",
+      "site": "モッピー (AppDriver)",
+      "ios": 5219,
+      "android": 5219
+    },
+    {
+      "game": "信長の野望 真戦",
+      "site": "COINCOME",
+      "ios": 5010,
+      "android": 5010
+    },
+    {
+      "game": "信長の野望 真戦",
+      "site": "ワラウ",
+      "ios": 5000,
+      "android": 5000
+    },
+    {
+      "game": "信長の野望 真戦",
+      "site": "Powl",
+      "ios": 5000,
+      "android": 5000
+    },
+    {
+      "game": "出荷ぶた",
+      "site": "ECナビ (Zucks)",
+      "ios": 13700,
+      "android": 13700
+    },
+    {
+      "game": "出荷ぶた",
+      "site": "ハピタス (AppDriver)",
+      "ios": 13674,
+      "android": 13674
+    },
+    {
+      "game": "出荷ぶた",
+      "site": "モッピー (Zucks)",
+      "ios": 13013,
+      "android": 13013
+    },
+    {
+      "game": "出荷ぶた",
+      "site": "げん玉 (Zucks)",
+      "ios": 12750.4,
+      "android": 12750.4
+    },
+    {
+      "game": "商人放浪記",
+      "site": "ワラウ",
+      "ios": 17470,
+      "android": 17470
+    },
+    {
+      "game": "商人放浪記",
+      "site": "モッピー (SKYFLAG)",
+      "ios": 16834,
+      "android": 16834
+    },
+    {
+      "game": "商人放浪記",
+      "site": "COINCOME (SKYFLAG)",
+      "ios": 16834,
+      "android": 16834
+    },
+    {
+      "game": "喧嘩の花道",
+      "site": "ハピタス (AppDriver)",
+      "ios": 12825,
+      "android": 12825
+    },
+    {
+      "game": "喧嘩の花道",
+      "site": "ちょびリッチ (AppDriver)",
+      "ios": 10800,
+      "android": 10800
+    },
+    {
+      "game": "喧嘩の花道",
+      "site": "Powl (AppDriver)",
+      "ios": 9600,
+      "android": 9600
+    },
+    {
+      "game": "喧嘩の花道",
+      "site": "ワラウ",
+      "ios": 9500,
+      "android": 0
+    },
+    {
+      "game": "大三国志",
+      "site": "ECナビ (Zucks)",
+      "ios": 1462,
+      "android": 0
+    },
+    {
+      "game": "大三国志",
+      "site": "げん玉",
+      "ios": 500,
+      "android": 1459.2
+    },
+    {
+      "game": "大三国志",
+      "site": "モッピー (Zucks)",
+      "ios": 1431,
+      "android": 0
     }
   ]
 }
