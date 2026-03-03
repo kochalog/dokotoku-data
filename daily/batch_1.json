@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-03",
+  "date": "2026-03-04",
   "results": [
     {
       "game": "Arkcraft",
@@ -39,6 +39,18 @@
     },
     {
       "game": "Cash Giraffe",
+      "site": "ECナビ (Zucks)",
+      "ios": 0,
+      "android": 3400
+    },
+    {
+      "game": "Cash Giraffe",
+      "site": "ハピタス (Zucks)",
+      "ios": 0,
+      "android": 3060
+    },
+    {
+      "game": "Cash Giraffe",
       "site": "げん玉",
       "ios": 0,
       "android": 3000
@@ -48,18 +60,6 @@
       "site": "COINCOME",
       "ios": 0,
       "android": 3000
-    },
-    {
-      "game": "Cash Giraffe",
-      "site": "Powl (myChips)",
-      "ios": 0,
-      "android": 577.3
-    },
-    {
-      "game": "Cash Giraffe",
-      "site": "ワラウ (myChips)",
-      "ios": 0,
-      "android": 560
     },
     {
       "game": "Cash Mafia",
@@ -111,6 +111,12 @@
     },
     {
       "game": "DORAKEN",
+      "site": "COINCOME",
+      "ios": 620,
+      "android": 620
+    },
+    {
+      "game": "DORAKEN",
       "site": "アメフリ",
       "ios": 614,
       "android": 614
@@ -126,12 +132,6 @@
       "site": "Powl (GF Rewards)",
       "ios": 600,
       "android": 600
-    },
-    {
-      "game": "DORAKEN",
-      "site": "ワラウ (GF Rewards)",
-      "ios": 450,
-      "android": 450
     },
     {
       "game": "Dice Dreams",
@@ -303,15 +303,15 @@
     },
     {
       "game": "Mirrativ",
-      "site": "Powl (AppDriver)",
-      "ios": 0,
-      "android": 998.4
+      "site": "モッピー",
+      "ios": 1211,
+      "android": 1211
     },
     {
       "game": "Mirrativ",
-      "site": "モッピー",
-      "ios": 807,
-      "android": 807
+      "site": "Powl (AppDriver)",
+      "ios": 0,
+      "android": 998.4
     },
     {
       "game": "Mirrativ",
@@ -353,7 +353,7 @@
       "game": "PLAYTIME",
       "site": "モッピー",
       "ios": 0,
-      "android": 1700
+      "android": 2000
     },
     {
       "game": "PLAYTIME",
@@ -495,6 +495,18 @@
     },
     {
       "game": "この監獄ほんmoneyすぎんご",
+      "site": "ECナビ (Zucks)",
+      "ios": 0,
+      "android": 7850
+    },
+    {
+      "game": "この監獄ほんmoneyすぎんご",
+      "site": "げん玉 (Zucks)",
+      "ios": 0,
+      "android": 7536
+    },
+    {
+      "game": "この監獄ほんmoneyすぎんご",
       "site": "ハピタス (AppDriver)",
       "ios": 0,
       "android": 6703
@@ -510,18 +522,6 @@
       "site": "アメフリ",
       "ios": 0,
       "android": 6280
-    },
-    {
-      "game": "この監獄ほんmoneyすぎんご",
-      "site": "ちょびリッチ (AppDriver)",
-      "ios": 0,
-      "android": 5651
-    },
-    {
-      "game": "この監獄ほんmoneyすぎんご",
-      "site": "楽天ポイ活ミッション特集 (AppDriver)",
-      "ios": 0,
-      "android": 5495
     },
     {
       "game": "やばい 少女に囲まれた",
