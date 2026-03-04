@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-04",
+  "date": "2026-03-05",
   "results": [
     {
       "game": "Arkcraft",
@@ -39,15 +39,15 @@
     },
     {
       "game": "Cash Giraffe",
-      "site": "ECナビ (Zucks)",
+      "site": "ハピタス (Zucks)",
       "ios": 0,
-      "android": 3400
+      "android": 3420
     },
     {
       "game": "Cash Giraffe",
-      "site": "ハピタス (Zucks)",
+      "site": "ECナビ (Zucks)",
       "ios": 0,
-      "android": 3060
+      "android": 3400
     },
     {
       "game": "Cash Giraffe",
@@ -273,33 +273,33 @@
     },
     {
       "game": "MONEY CASH",
-      "site": "Powl (myChips)",
+      "site": "モッピー",
       "ios": 0,
-      "android": 2424.3
+      "android": 2150
+    },
+    {
+      "game": "MONEY CASH",
+      "site": "COINCOME",
+      "ios": 960,
+      "android": 1950
+    },
+    {
+      "game": "MONEY CASH",
+      "site": "げん玉 (myChips)",
+      "ios": 1905,
+      "android": 0
     },
     {
       "game": "MONEY CASH",
       "site": "ハピタス (myChips)",
-      "ios": 1268,
-      "android": 2424
+      "ios": 1764,
+      "android": 1759
     },
     {
       "game": "MONEY CASH",
-      "site": "ワラウ (myChips)",
-      "ios": 1228,
-      "android": 2351
-    },
-    {
-      "game": "MONEY CASH",
-      "site": "COINCOME (myChips)",
-      "ios": 1228,
-      "android": 2351
-    },
-    {
-      "game": "MONEY CASH",
-      "site": "モッピー",
+      "site": "Powl (myChips)",
       "ios": 0,
-      "android": 2150
+      "android": 1759.3
     },
     {
       "game": "Mirrativ",
@@ -335,19 +335,25 @@
       "game": "Mistplay",
       "site": "ECナビ (Zucks)",
       "ios": 0,
-      "android": 9000
+      "android": 10000
     },
     {
       "game": "Mistplay",
       "site": "モッピー (Zucks)",
       "ios": 0,
-      "android": 8819
+      "android": 9797
     },
     {
       "game": "Mistplay",
       "site": "げん玉 (Zucks)",
       "ios": 0,
-      "android": 8640
+      "android": 9600
+    },
+    {
+      "game": "Mistplay",
+      "site": "ハピタス (Zucks)",
+      "ios": 0,
+      "android": 9000
     },
     {
       "game": "PLAYTIME",
@@ -501,27 +507,21 @@
     },
     {
       "game": "この監獄ほんmoneyすぎんご",
+      "site": "モッピー (Zucks)",
+      "ios": 0,
+      "android": 7691
+    },
+    {
+      "game": "この監獄ほんmoneyすぎんご",
       "site": "げん玉 (Zucks)",
       "ios": 0,
       "android": 7536
     },
     {
       "game": "この監獄ほんmoneyすぎんご",
-      "site": "ハピタス (AppDriver)",
+      "site": "ハピタス (Zucks)",
       "ios": 0,
-      "android": 6703
-    },
-    {
-      "game": "この監獄ほんmoneyすぎんご",
-      "site": "COINCOME",
-      "ios": 0,
-      "android": 6410
-    },
-    {
-      "game": "この監獄ほんmoneyすぎんご",
-      "site": "アメフリ",
-      "ios": 0,
-      "android": 6280
+      "android": 7065
     },
     {
       "game": "やばい 少女に囲まれた",
