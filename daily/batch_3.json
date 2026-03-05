@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-05",
+  "date": "2026-03-06",
   "results": [
     {
       "game": "パイレーツ オブ カリビアン",
@@ -256,32 +256,32 @@
     {
       "game": "マネーキング 放置銀行帝国",
       "site": "モッピー (myChips)",
-      "ios": 5591,
-      "android": 10954
+      "ios": 5602,
+      "android": 10913
     },
     {
       "game": "マネーキング 放置銀行帝国",
       "site": "げん玉 (myChips)",
-      "ios": 9037,
-      "android": 9037
+      "ios": 8232.4,
+      "android": 9003.6
     },
     {
       "game": "マネーキング 放置銀行帝国",
       "site": "ハピタス (myChips)",
-      "ios": 8368,
-      "android": 8368
+      "ios": 7623,
+      "android": 8337
     },
     {
       "game": "マネーキング 放置銀行帝国",
       "site": "Powl (myChips)",
-      "ios": 8367.6,
-      "android": 8367.6
+      "ios": 7622.6,
+      "android": 8336.6
     },
     {
       "game": "マネーキング 放置銀行帝国",
       "site": "ちょびリッチ (myChips)",
-      "ios": 8317,
-      "android": 8317
+      "ios": 7576.5,
+      "android": 8286
     },
     {
       "game": "マフィア シティ",
@@ -321,6 +321,12 @@
     },
     {
       "game": "ミクチャ",
+      "site": "Powl",
+      "ios": 1950,
+      "android": 1950
+    },
+    {
+      "game": "ミクチャ",
       "site": "COINCOME (SKYFLAG)",
       "ios": 1785,
       "android": 1785
@@ -332,10 +338,10 @@
       "android": 1750
     },
     {
-      "game": "ミクチャ",
-      "site": "Powl",
-      "ios": 1750,
-      "android": 1750
+      "game": "ミストバレー",
+      "site": "げん玉 (SmaAD)",
+      "ios": 220.8,
+      "android": 220.8
     },
     {
       "game": "ミストバレー",
@@ -360,12 +366,6 @@
       "site": "ワラウ",
       "ios": 200,
       "android": 200
-    },
-    {
-      "game": "ミストバレー",
-      "site": "アメフリ",
-      "ios": 196,
-      "android": 196
     },
     {
       "game": "メカアサルト",
@@ -472,8 +472,14 @@
     {
       "game": "リヴリーアイランド",
       "site": "ハピタス (myChips)",
-      "ios": 10281,
-      "android": 7023
+      "ios": 10616,
+      "android": 6989
+    },
+    {
+      "game": "リヴリーアイランド",
+      "site": "ちょびリッチ (myChips)",
+      "ios": 10240,
+      "android": 6059.5
     },
     {
       "game": "リヴリーアイランド",
@@ -483,15 +489,9 @@
     },
     {
       "game": "リヴリーアイランド",
-      "site": "ちょびリッチ (myChips)",
-      "ios": 9737,
-      "android": 6099
-    },
-    {
-      "game": "リヴリーアイランド",
-      "site": "ポイントインカム (myChips)",
-      "ios": 8571.1,
-      "android": 9439
+      "site": "げん玉 (myChips)",
+      "ios": 9665.7,
+      "android": 8515
     },
     {
       "game": "レイドラッシュ",
