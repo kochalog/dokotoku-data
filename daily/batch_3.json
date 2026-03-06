@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-06",
+  "date": "2026-03-07",
   "results": [
     {
       "game": "パイレーツ オブ カリビアン",
@@ -75,15 +75,21 @@
     },
     {
       "game": "パズル＆コンクエスト",
-      "site": "モッピー (AppDriver)",
-      "ios": 29689,
-      "android": 26189
+      "site": "モッピー (SKYFLAG)",
+      "ios": 14970,
+      "android": 33713
     },
     {
       "game": "パズル＆コンクエスト",
-      "site": "ハピタス (SKYFLAG)",
-      "ios": 28905,
-      "android": 20107
+      "site": "ワラウ (SKYFLAG)",
+      "ios": 32523,
+      "android": 32523
+    },
+    {
+      "game": "パズル＆コンクエスト",
+      "site": "ポイントインカム (SKYFLAG)",
+      "ios": 32127.3,
+      "android": 14265.9
     },
     {
       "game": "ヒーローウォーズアライアンス",
@@ -256,7 +262,7 @@
     {
       "game": "マネーキング 放置銀行帝国",
       "site": "モッピー (myChips)",
-      "ios": 5602,
+      "ios": 6147,
       "android": 10913
     },
     {
@@ -472,14 +478,8 @@
     {
       "game": "リヴリーアイランド",
       "site": "ハピタス (myChips)",
-      "ios": 10616,
-      "android": 6989
-    },
-    {
-      "game": "リヴリーアイランド",
-      "site": "ちょびリッチ (myChips)",
-      "ios": 10240,
-      "android": 6059.5
+      "ios": 9989,
+      "android": 6953
     },
     {
       "game": "リヴリーアイランド",
@@ -489,9 +489,15 @@
     },
     {
       "game": "リヴリーアイランド",
+      "site": "ちょびリッチ (myChips)",
+      "ios": 9485,
+      "android": 6042
+    },
+    {
+      "game": "リヴリーアイランド",
       "site": "げん玉 (myChips)",
-      "ios": 9665.7,
-      "android": 8515
+      "ios": 9145.5,
+      "android": 8494.9
     },
     {
       "game": "レイドラッシュ",
@@ -566,36 +572,6 @@
       "android": 7109
     },
     {
-      "game": "三國志 真戦",
-      "site": "げん玉 (myChips)",
-      "ios": 0,
-      "android": 0
-    },
-    {
-      "game": "三國志 真戦",
-      "site": "ハピタス (myChips)",
-      "ios": 0,
-      "android": 0
-    },
-    {
-      "game": "三國志 真戦",
-      "site": "Powl (myChips)",
-      "ios": 0,
-      "android": 0
-    },
-    {
-      "game": "三國志 真戦",
-      "site": "ちょびリッチ (myChips)",
-      "ios": 0,
-      "android": 0
-    },
-    {
-      "game": "三國志 真戦",
-      "site": "ワラウ (myChips)",
-      "ios": 0,
-      "android": 0
-    },
-    {
       "game": "三国志 戦乱",
       "site": "Powl",
       "ios": 1950,
@@ -616,8 +592,8 @@
     {
       "game": "信長の野望 真戦",
       "site": "モッピー",
-      "ios": 5300,
-      "android": 5300
+      "ios": 5100,
+      "android": 5100
     },
     {
       "game": "信長の野望 真戦",
@@ -724,7 +700,7 @@
     {
       "game": "大三国志",
       "site": "げん玉",
-      "ios": 500,
+      "ios": 250,
       "android": 1459.2
     },
     {
