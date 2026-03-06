@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-06",
+  "date": "2026-03-07",
   "results": [
     {
       "game": "大江戸ロマンス",
@@ -166,20 +166,20 @@
     {
       "game": "戦国布武 我が天下戦国編",
       "site": "ハピタス (SKYFLAG)",
-      "ios": 10166,
-      "android": 10166
+      "ios": 10391,
+      "android": 10391
     },
     {
       "game": "戦国布武 我が天下戦国編",
       "site": "モッピー (SKYFLAG)",
-      "ios": 7792,
-      "android": 7792
+      "ios": 7951,
+      "android": 7951
     },
     {
       "game": "戦国布武 我が天下戦国編",
-      "site": "COINCOME",
-      "ios": 7610,
-      "android": 7610
+      "site": "アメフリ",
+      "ios": 7669,
+      "android": 7669
     },
     {
       "game": "放置少女",
@@ -262,8 +262,8 @@
     {
       "game": "東京ディバンカー",
       "site": "モッピー",
-      "ios": 220,
-      "android": 220
+      "ios": 210,
+      "android": 210
     },
     {
       "game": "東京ディバンカー",
@@ -430,7 +430,7 @@
     {
       "game": "ダウンヒルレーサー",
       "site": "モッピー",
-      "ios": 190,
+      "ios": 200,
       "android": 170
     },
     {
@@ -477,15 +477,15 @@
     },
     {
       "game": "Super Big Slime",
-      "site": "ECナビ (Zucks)",
-      "ios": 155,
+      "site": "モッピー",
+      "ios": 160,
       "android": 130
     },
     {
       "game": "Super Big Slime",
-      "site": "モッピー (Zucks)",
-      "ios": 151,
-      "android": 127
+      "site": "ECナビ (Zucks)",
+      "ios": 155,
+      "android": 130
     },
     {
       "game": "Super Big Slime",
