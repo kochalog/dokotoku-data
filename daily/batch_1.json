@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-06",
+  "date": "2026-03-07",
   "results": [
     {
       "game": "Arkcraft",
@@ -136,32 +136,32 @@
     {
       "game": "Dice Dreams",
       "site": "モッピー (AppDriver)",
-      "ios": 25149,
-      "android": 27976
+      "ios": 25159,
+      "android": 27985
     },
     {
       "game": "Dice Dreams",
       "site": "ハピタス (AppDriver)",
-      "ios": 22659,
-      "android": 25205
+      "ios": 22668,
+      "android": 25214
     },
     {
       "game": "Dice Dreams",
       "site": "ちょびリッチ (AppDriver)",
-      "ios": 19085.5,
-      "android": 21159
+      "ios": 19093.5,
+      "android": 21168
     },
     {
       "game": "Dice Dreams",
       "site": "げん玉 (AppDriver)",
-      "ios": 16117.8,
-      "android": 20103.6
+      "ios": 16124.6,
+      "android": 20111.2
     },
     {
       "game": "Dice Dreams",
       "site": "Powl (AppDriver)",
-      "ios": 16966.4,
-      "android": 19920
+      "ios": 16973.6,
+      "android": 19927.2
     },
     {
       "game": "Domino Dreams",
@@ -172,7 +172,7 @@
     {
       "game": "Domino Dreams",
       "site": "ハピタス (AppDriver)",
-      "ios": 19998,
+      "ios": 20006,
       "android": 20440
     },
     {
@@ -303,15 +303,15 @@
     },
     {
       "game": "Mirrativ",
-      "site": "モッピー",
-      "ios": 1211,
-      "android": 1211
-    },
-    {
-      "game": "Mirrativ",
       "site": "Powl (AppDriver)",
       "ios": 0,
       "android": 998.4
+    },
+    {
+      "game": "Mirrativ",
+      "site": "モッピー",
+      "ios": 807,
+      "android": 807
     },
     {
       "game": "Mirrativ",
@@ -339,15 +339,15 @@
     },
     {
       "game": "Mistplay",
-      "site": "モッピー (Zucks)",
-      "ios": 0,
-      "android": 9797
-    },
-    {
-      "game": "Mistplay",
       "site": "げん玉 (Zucks)",
       "ios": 0,
       "android": 9600
+    },
+    {
+      "game": "Mistplay",
+      "site": "モッピー (Zucks)",
+      "ios": 0,
+      "android": 9180
     },
     {
       "game": "Mistplay",
@@ -407,7 +407,7 @@
       "game": "Pococha",
       "site": "ワラウ",
       "ios": 2000,
-      "android": 0
+      "android": 2000
     },
     {
       "game": "Rise of Kingdoms",

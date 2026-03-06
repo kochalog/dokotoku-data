@@ -22,8 +22,8 @@
     },
     {
         "game": "商人放浪記",
-        "ios": 19650,
-        "android": 19650,
+        "ios": 19150,
+        "android": 19150,
         "url_ios": "https://go.warau.jp/38128/55.html",
         "url_android": "https://go.warau.jp/38128/176.html"
     },
@@ -36,9 +36,9 @@
     },
     {
         "game": "大三国志",
-        "ios": 1000,
+        "ios": 1470,
         "android": 1500,
-        "url_ios": "https://go.warau.jp/38128/209.html",
+        "url_ios": "https://go.warau.jp/38128/211.html",
         "url_android": "https://go.warau.jp/38128/191.html"
     },
     {
