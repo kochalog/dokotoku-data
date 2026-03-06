@@ -4764,6 +4764,54 @@
       "game": "Super Big Slime",
       "type": "site_changed",
       "detail": "最高額サイト変更: ECナビ (Zucks) → モッピー"
+    },
+    {
+      "date": "2026-03-07",
+      "game": "エバーテイル",
+      "type": "price_changed",
+      "site": "COINCOME",
+      "detail": "iOS 0→360円"
+    },
+    {
+      "date": "2026-03-07",
+      "game": "三國志 真戦",
+      "type": "new",
+      "site": "モッピー",
+      "detail": "新規掲載: iOS 5300円 / Android 5300円"
+    },
+    {
+      "date": "2026-03-07",
+      "game": "三國志 真戦",
+      "type": "new",
+      "site": "COINCOME",
+      "detail": "新規掲載: iOS 5300円 / Android 5300円"
+    },
+    {
+      "date": "2026-03-07",
+      "game": "三國志 真戦",
+      "type": "new",
+      "site": "Powl",
+      "detail": "新規掲載: iOS 5200円 / Android 5200円"
+    },
+    {
+      "date": "2026-03-07",
+      "game": "三國志 真戦",
+      "type": "new",
+      "site": "ハピタス (SKYFLAG)",
+      "detail": "新規掲載: iOS 5184円 / Android 3744円"
+    },
+    {
+      "date": "2026-03-07",
+      "game": "三國志 真戦",
+      "type": "new",
+      "site": "ワラウ",
+      "detail": "新規掲載: iOS 4800円 / Android 4800円"
+    },
+    {
+      "date": "2026-03-07",
+      "game": "三國志 真戦",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: げん玉 (myChips) → モッピー"
     }
   ]
 }
