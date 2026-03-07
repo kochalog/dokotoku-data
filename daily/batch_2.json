@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-07",
+  "date": "2026-03-08",
   "results": [
     {
       "game": "ようとん場MIX",
@@ -99,15 +99,15 @@
     },
     {
       "game": "エバーテイル",
-      "site": "COINCOME",
-      "ios": 0,
-      "android": 355
-    },
-    {
-      "game": "エバーテイル",
       "site": "モッピー",
       "ios": 360,
       "android": 360
+    },
+    {
+      "game": "エバーテイル",
+      "site": "COINCOME",
+      "ios": 360,
+      "android": 355
     },
     {
       "game": "エバーテイル",
