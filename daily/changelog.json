@@ -4515,6 +4515,200 @@
       "game": "ブラウザ三国志天",
       "type": "site_changed",
       "detail": "最高額サイト変更: ECナビ (Zucks) → ECナビ"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "トップウォー",
+      "type": "new",
+      "site": "モッピー (SKYFLAG)",
+      "detail": "新規掲載: iOS 45768円 / Android 45887円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "トップウォー",
+      "type": "new",
+      "site": "COINCOME (SKYFLAG)",
+      "detail": "新規掲載: iOS 45768円 / Android -円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "トップウォー",
+      "type": "new",
+      "site": "ワラウ (SKYFLAG)",
+      "detail": "新規掲載: iOS 44154円 / Android 44269円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "トップウォー",
+      "type": "new",
+      "site": "ポイントインカム (SKYFLAG)",
+      "detail": "新規掲載: iOS -円 / Android 43728.1円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "トップウォー",
+      "type": "new",
+      "site": "ちょびリッチ (SKYFLAG)",
+      "detail": "新規掲載: iOS 43076円 / Android 43188.5円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "ブラウザ三国志天",
+      "type": "new",
+      "site": "ECナビ (Zucks)",
+      "detail": "新規掲載: iOS 19780円 / Android -円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "ブラウザ三国志天",
+      "type": "new",
+      "site": "モッピー (Zucks)",
+      "detail": "新規掲載: iOS 19383円 / Android -円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "ブラウザ三国志天",
+      "type": "new",
+      "site": "げん玉 (Zucks)",
+      "detail": "新規掲載: iOS 18988.8円 / Android -円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "ブラウザ三国志天",
+      "type": "new",
+      "site": "ハピタス (Zucks)",
+      "detail": "新規掲載: iOS 17802円 / Android -円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "マネーキング 放置銀行帝国",
+      "type": "price_changed",
+      "site": "モッピー (myChips)",
+      "detail": "iOS 6147→6278円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "ミストバレー",
+      "type": "new",
+      "site": "アメフリ",
+      "detail": "新規掲載: iOS 196円 / Android 196円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "リヴリーアイランド",
+      "type": "price_changed",
+      "site": "ハピタス (myChips)",
+      "detail": "iOS 9989→10354円 / Android 6953→6895円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "リヴリーアイランド",
+      "type": "price_changed",
+      "site": "ちょびリッチ (myChips)",
+      "detail": "iOS 9485→9830円 / Android 6042→5999円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "リヴリーアイランド",
+      "type": "price_changed",
+      "site": "げん玉 (myChips)",
+      "detail": "iOS 9145.5→9466.6円 / Android 8494.9→8411.8円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "金とゴブリンの採掘ゲーム",
+      "type": "new",
+      "site": "アメフリ",
+      "detail": "新規掲載: iOS 3378円 / Android 3378円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "ポイ活稼ぐPayクレーンメダルゲーム",
+      "type": "new",
+      "site": "ちょびリッチ (SmaAD)",
+      "detail": "新規掲載: iOS 240円 / Android 240円"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "トップウォー",
+      "type": "removed",
+      "site": "ワラウ",
+      "detail": "掲載終了（前回: iOS 17760円 / Android 17870円）"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "トップウォー",
+      "type": "removed",
+      "site": "COINCOME",
+      "detail": "掲載終了（前回: iOS 5075円 / Android 5075円）"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "ブラウザ三国志天",
+      "type": "removed",
+      "site": "ECナビ",
+      "detail": "掲載終了（前回: iOS 19780円 / Android -円）"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "ブラウザ三国志天",
+      "type": "removed",
+      "site": "Powl",
+      "detail": "掲載終了（前回: iOS 16000円 / Android -円）"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "ブラウザ三国志天",
+      "type": "removed",
+      "site": "COINCOME",
+      "detail": "掲載終了（前回: iOS 15910円 / Android -円）"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "ブラウザ三国志天",
+      "type": "removed",
+      "site": "アメフリ",
+      "detail": "掲載終了（前回: iOS 15824円 / Android -円）"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "ミストバレー",
+      "type": "removed",
+      "site": "ポイントタウン (SmaAD)",
+      "detail": "掲載終了（前回: iOS 204円 / Android 204円）"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "大江戸ロマンス",
+      "type": "removed",
+      "site": "ポイントタウン (SmaAD)",
+      "detail": "掲載終了（前回: iOS 2508円 / Android 2508円）"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "金とゴブリンの採掘ゲーム",
+      "type": "removed",
+      "site": "ポイントタウン (SmaAD)",
+      "detail": "掲載終了（前回: iOS 3502円 / Android 3502円）"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "ポイ活稼ぐPayクレーンメダルゲーム",
+      "type": "removed",
+      "site": "ポイントタウン (SmaAD)",
+      "detail": "掲載終了（前回: iOS 255円 / Android 255円）"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "トップウォー",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ワラウ → モッピー (SKYFLAG)"
+    },
+    {
+      "date": "2026-03-08",
+      "game": "ブラウザ三国志天",
+      "type": "site_changed",
+      "detail": "最高額サイト変更: ECナビ → ECナビ (Zucks)"
     }
   ]
 }
